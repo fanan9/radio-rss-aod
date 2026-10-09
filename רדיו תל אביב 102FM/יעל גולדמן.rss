@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו תל אביב 102FM | יעל גולדמן</title>
     <description>Programs from רדיו תל אביב 102FM, show: יעל גולדמן</description>
     <link>https://podcast.go77.link/102fm/YOFI/4343-4C69666573-69300b65.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:04 +0000</lastBuildDate>
     <image>
       <url>https://fm102-recordings.s3.amazonaws.com/images/1764756326453______________________.jpg</url>
       <title>רדיו תל אביב 102FM | יעל גולדמן</title>
@@ -18,7 +18,7 @@
       <description>יעל גולדמן ~ 07-12-2025 | 20:06</description>
       <programDate>07/12/2025</programDate>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1764756326453______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1764756326453______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|07/12/2025|https://podcast.go77.link/102fm/YOFI/4343-4C69666573-69300b65.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>יעל גולדמן ~ 30-11-2025 | 17:24</description>
       <programDate>30/11/2025</programDate>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1764516195162______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1764516195162______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|30/11/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-692c6161.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>יעל גולדמן ~ 23-11-2025 | 21:00</description>
       <programDate>23/11/2025</programDate>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1763546829109______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1763546829109______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|23/11/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-691d96cb.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>יעל גולדמן ~ 16-11-2025 | 21:00</description>
       <programDate>16/11/2025</programDate>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1762940806767______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1762940806767______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|16/11/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-69145785.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>יעל גולדמן ~ 09-11-2025 | 21:53</description>
       <programDate>09/11/2025</programDate>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1762336364367______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1762336364367______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|09/11/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-690b1e6b.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>יעל גולדמן ~ 02-11-2025 | 21:00</description>
       <programDate>02/11/2025</programDate>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1761909265333______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1761909265333______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|02/11/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-69049a10.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>יעל גולדמן ~ 26-10-2025 | 20:43</description>
       <programDate>26/10/2025</programDate>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1761122647386______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1761122647386______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|26/10/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68f89956.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>יעל גולדמן ~ 19-10-2025 | 20:00</description>
       <programDate>19/10/2025</programDate>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1760520619283______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1760520619283______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|19/10/2025|https://podcast.go77.link/102fm/YOFI/4343-D79ED79CD7-68ef69aa.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>יעל גולדמן ~ 05-10-2025 | 19:02</description>
       <programDate>05/10/2025</programDate>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1759658817010______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1759658817010______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|05/10/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68e2433f.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>יעל גולדמן ~ 28-09-2025 | 19:03</description>
       <programDate>28/09/2025</programDate>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1758812102333______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1758812102333______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|28/09/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68d557c5.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>יעל גולדמן ~ 21-09-2025 | 20:00</description>
       <programDate>21/09/2025</programDate>
       <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1758188877442______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1758188877442______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|21/09/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68cbd54b.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>יעל גולדמן ~ 14-09-2025 | 20:00</description>
       <programDate>14/09/2025</programDate>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1757503779601___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1757503779601___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|14/09/2025|https://podcast.go77.link/102fm/YOFI/4343-D79ED79CD7-68c1611b.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>יעל גולדמן ~ 08-09-2025 | 08:57</description>
       <programDate>08/09/2025</programDate>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1757314610008______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1757314610008______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|08/09/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68be7e2d.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>יעל גולדמן ~ 31-08-2025 | 19:00</description>
       <programDate>31/08/2025</programDate>
       <pubDate>Sun, 31 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1756290473113______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1756290473113______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|31/08/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68aedda7.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>יעל גולדמן ~ 24-08-2025 | 19:01</description>
       <programDate>24/08/2025</programDate>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1755685090476______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1755685090476______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|24/08/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68a5a0df.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>יעל גולדמן ~ 17-08-2025 | 17:00</description>
       <programDate>17/08/2025</programDate>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1755435510117______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1755435510117______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|17/08/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-68a1d179.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>יעל גולדמן ~ 10-08-2025 | 20:00</description>
       <programDate>10/08/2025</programDate>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1754637052158___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1754637052158___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|10/08/2025|https://podcast.go77.link/102fm/YOFI/4343-D79ED79CD7-6895a2fa.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>יעל גולדמן ~ 03-08-2025 | 20:18</description>
       <programDate>03/08/2025</programDate>
       <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1754219886905______________________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1754219886905______________________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|03/08/2025|https://podcast.go77.link/102fm/YOFI/4343-D79CD799D7-688f456d.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>יעל גולדמן ~ 26-07-2025 | 23:00</description>
       <programDate>26/07/2025</programDate>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/6885e4dc2d5282a8a83ffb6e.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/6885e4dc2d5282a8a83ffb6e.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|26/07/2025|https://files102.livecdn.biz/102/getit/YOFI/6885e4dc2d5282a8a83ffb6e.46434.a.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>יעל גולדמן ~ 26-07-2025 | 23:00</description>
       <programDate>26/07/2025</programDate>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/68862afe2d5282a8a83ffce9.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/68862afe2d5282a8a83ffce9.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|26/07/2025|https://files102.livecdn.biz/102/getit/YOFI/68862afe2d5282a8a83ffce9.46434.a.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>יעל גולדמן ~ 19-07-2025 | 23:00</description>
       <programDate>19/07/2025</programDate>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/687a08dfdb75f87d3847449b.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/687a08dfdb75f87d3847449b.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|19/07/2025|https://files102.livecdn.biz/102/getit/YOFI/687a08dfdb75f87d3847449b.46434.a.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>יעל גולדמן ~ 12-07-2025 | 23:00</description>
       <programDate>12/07/2025</programDate>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/68739f24fc332ff4025a3aad.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/68739f24fc332ff4025a3aad.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|12/07/2025|https://files102.livecdn.biz/102/getit/YOFI/68739f24fc332ff4025a3aad.46434.a.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>יעל גולדמן ~ 05-07-2025 | 23:00</description>
       <programDate>05/07/2025</programDate>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/686a1e6fdb4ff790d649ab78.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/686a1e6fdb4ff790d649ab78.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|05/07/2025|https://files102.livecdn.biz/102/getit/YOFI/686a1e6fdb4ff790d649ab78.46434.a.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>יעל גולדמן ~ 28-06-2025 | 23:00</description>
       <programDate>28/06/2025</programDate>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/684a96ad897252517c6b3ab3.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/684a96ad897252517c6b3ab3.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|28/06/2025|https://files102.livecdn.biz/102/getit/YOFI/684a96ad897252517c6b3ab3.46434.a.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>יעל גולדמן ~ 07-06-2025 | 23:00</description>
       <programDate>07/06/2025</programDate>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/68392604010ddd167d2fda38.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/68392604010ddd167d2fda38.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|07/06/2025|https://files102.livecdn.biz/102/getit/YOFI/68392604010ddd167d2fda38.46434.a.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>יעל גולדמן ~ 24-05-2025 | 23:00</description>
       <programDate>24/05/2025</programDate>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/683314626b70d8715e421cc0.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/683314626b70d8715e421cc0.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|24/05/2025|https://files102.livecdn.biz/102/getit/YOFI/683314626b70d8715e421cc0.46434.a.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>יעל גולדמן ~ 17-05-2025 | 23:00</description>
       <programDate>17/05/2025</programDate>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/682728b692270d239a9cba1a.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/682728b692270d239a9cba1a.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|17/05/2025|https://files102.livecdn.biz/102/getit/YOFI/682728b692270d239a9cba1a.46434.a.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>יעל גולדמן ~ 03-05-2025 | 23:00</description>
       <programDate>03/05/2025</programDate>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/6810c7e3863619def197e599.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/6810c7e3863619def197e599.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|03/05/2025|https://files102.livecdn.biz/102/getit/YOFI/6810c7e3863619def197e599.46434.a.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>יעל גולדמן ~ 26-04-2025 | 23:00</description>
       <programDate>26/04/2025</programDate>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/6808bfd0e4182a1628ab56de.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/6808bfd0e4182a1628ab56de.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|26/04/2025|https://files102.livecdn.biz/102/getit/YOFI/6808bfd0e4182a1628ab56de.46434.a.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>יעל גולדמן ~ 19-04-2025 | 23:00</description>
       <programDate>19/04/2025</programDate>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/6800a85b4324aea509649e47.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/6800a85b4324aea509649e47.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|19/04/2025|https://files102.livecdn.biz/102/getit/YOFI/6800a85b4324aea509649e47.46434.a.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>יעל גולדמן ~ 05-04-2025 | 23:00</description>
       <programDate>05/04/2025</programDate>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67ed0e781c05dfdfc5302acd.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67ed0e781c05dfdfc5302acd.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|05/04/2025|https://files102.livecdn.biz/102/getit/YOFI/67ed0e781c05dfdfc5302acd.46434.a.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>יעל גולדמן ~ 29-03-2025 | 23:00</description>
       <programDate>29/03/2025</programDate>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67e932b2254530bc5c61d9e9.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67e932b2254530bc5c61d9e9.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|29/03/2025|https://files102.livecdn.biz/102/getit/YOFI/67e932b2254530bc5c61d9e9.46434.a.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>יעל גולדמן ~ 23-03-2025 | 00:00</description>
       <programDate>23/03/2025</programDate>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67da8d4929137902be6d8483.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67da8d4929137902be6d8483.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|23/03/2025|https://files102.livecdn.biz/102/getit/YOFI/67da8d4929137902be6d8483.46434.a.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>יעל גולדמן ~ 16-03-2025 | 00:00</description>
       <programDate>16/03/2025</programDate>
       <pubDate>Sun, 16 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67d69075107ade536dea6fab.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67d69075107ade536dea6fab.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|16/03/2025|https://files102.livecdn.biz/102/getit/YOFI/67d69075107ade536dea6fab.46434.a.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>יעל גולדמן ~ 09-03-2025 | 00:00</description>
       <programDate>09/03/2025</programDate>
       <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67c9a7a2e977f1d451d314fa.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67c9a7a2e977f1d451d314fa.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|09/03/2025|https://files102.livecdn.biz/102/getit/YOFI/67c9a7a2e977f1d451d314fa.46434.a.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>יעל גולדמן ~ 02-03-2025 | 00:00</description>
       <programDate>02/03/2025</programDate>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67beef7f5a6e1eab4384410d.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67beef7f5a6e1eab4384410d.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|02/03/2025|https://files102.livecdn.biz/102/getit/YOFI/67beef7f5a6e1eab4384410d.46434.a.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>יעל גולדמן ~ 23-02-2025 | 00:00</description>
       <programDate>23/02/2025</programDate>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67b5a6f73b2091a79fdec353.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67b5a6f73b2091a79fdec353.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|23/02/2025|https://files102.livecdn.biz/102/getit/YOFI/67b5a6f73b2091a79fdec353.46434.a.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>יעל גולדמן ~ 16-02-2025 | 00:00</description>
       <programDate>16/02/2025</programDate>
       <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67b1ca8cd12aeb5c4f8c5ec4.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67b1ca8cd12aeb5c4f8c5ec4.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|16/02/2025|https://files102.livecdn.biz/102/getit/YOFI/67b1ca8cd12aeb5c4f8c5ec4.46434.a.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>יעל גולדמן ~ 09-02-2025 | 00:00</description>
       <programDate>09/02/2025</programDate>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67a353f83e1eda697c6c5610.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67a353f83e1eda697c6c5610.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|09/02/2025|https://files102.livecdn.biz/102/getit/YOFI/67a353f83e1eda697c6c5610.46434.a.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>יעל גולדמן ~ 04-02-2025 | 00:00</description>
       <programDate>04/02/2025</programDate>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67a1c074366a446291652a50.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67a1c074366a446291652a50.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|04/02/2025|https://files102.livecdn.biz/102/getit/YOFI/67a1c074366a446291652a50.46434.a.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>יעל גולדמן ~ 03-02-2025 | 00:00</description>
       <programDate>03/02/2025</programDate>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/67a0743f5c098efe65527cdd.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/67a0743f5c098efe65527cdd.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|03/02/2025|https://files102.livecdn.biz/102/getit/YOFI/67a0743f5c098efe65527cdd.46434.a.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>יעל גולדמן ~ 02-02-2025 | 00:00</description>
       <programDate>02/02/2025</programDate>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/6799fc8e221b752be68762ca.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/6799fc8e221b752be68762ca.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|02/02/2025|https://files102.livecdn.biz/102/getit/YOFI/6799fc8e221b752be68762ca.46434.a.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>יעל גולדמן ~ 01-02-2025 | 00:00</description>
       <programDate>01/02/2025</programDate>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/YOFI/677645744e01be1ad0e715e9.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/YOFI/677645744e01be1ad0e715e9.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">458|19|01/02/2025|https://files102.livecdn.biz/102/getit/YOFI/677645744e01be1ad0e715e9.46434.a.mp3</guid>
     </item>
   </channel>
