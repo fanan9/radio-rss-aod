@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | אנחנו הרוב_ | בהגשת אבי גרינצייג</title>
     <description>Programs from רדיו גלי ישראל, show: אנחנו הרוב_ | בהגשת אבי גרינצייג</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov071026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg</url>
       <title>רדיו גלי ישראל | אנחנו הרוב_ | בהגשת אבי גרינצייג</title>
@@ -18,7 +18,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 07.10.2026</description>
       <programDate>07/10/2026</programDate>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|07/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov071026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 05.10.2026</description>
       <programDate>05/10/2026</programDate>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|05/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov051026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 04.10.2026</description>
       <programDate>04/10/2026</programDate>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/043cbc8e-a69f-4c61-803c-4db645572b92.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|04/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov041026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 23.09.2026</description>
       <programDate>23/09/2026</programDate>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|23/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/rov200926.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 16.09.2026</description>
       <programDate>16/09/2026</programDate>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|16/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov160926.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 14.09.2026</description>
       <programDate>14/09/2026</programDate>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|14/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov140926.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 09.09.2026</description>
       <programDate>09/09/2026</programDate>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|09/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov090926.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 07.09.2026</description>
       <programDate>07/09/2026</programDate>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|07/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov070926.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 06.09.2026</description>
       <programDate>06/09/2026</programDate>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|06/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov060926.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 02.09.2026</description>
       <programDate>02/09/2026</programDate>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|02/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov020926.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 31.08.2026</description>
       <programDate>31/08/2026</programDate>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|31/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov310826.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 26.08.2026</description>
       <programDate>26/08/2026</programDate>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|26/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov260826.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 24.08.2026</description>
       <programDate>24/08/2026</programDate>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|24/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov240826.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 23.08.2026</description>
       <programDate>23/08/2026</programDate>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|23/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov230826.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 19.08.2026</description>
       <programDate>19/08/2026</programDate>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|19/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov190826.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 17.08.2026</description>
       <programDate>17/08/2026</programDate>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|17/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov170826.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 16.08.2026</description>
       <programDate>16/08/2026</programDate>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|16/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov160826.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 12.08.2026</description>
       <programDate>12/08/2026</programDate>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|12/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov120826.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 10.08.2026</description>
       <programDate>10/08/2026</programDate>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|10/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov100826.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 09.08.2026</description>
       <programDate>09/08/2026</programDate>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|09/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov090826.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 05.08.2026</description>
       <programDate>05/08/2026</programDate>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|05/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov050826.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 03.08.2026</description>
       <programDate>03/08/2026</programDate>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|03/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov030826.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 02.08.2026</description>
       <programDate>02/08/2026</programDate>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|02/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov020826.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 29.07.2026</description>
       <programDate>29/07/2026</programDate>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|29/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov290726.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 27.07.2026</description>
       <programDate>27/07/2026</programDate>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|27/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov270726.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 26.07.2026</description>
       <programDate>26/07/2026</programDate>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|26/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov260726.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 22.07.2026</description>
       <programDate>22/07/2026</programDate>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|22/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov220726.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 20.07.2026</description>
       <programDate>20/07/2026</programDate>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|20/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov200726.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 19.07.2026</description>
       <programDate>19/07/2026</programDate>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|19/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov190726.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 15.07.2026</description>
       <programDate>15/07/2026</programDate>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|15/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov150726.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 13.07.2026</description>
       <programDate>13/07/2026</programDate>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|13/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov130726.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 12.07.2026</description>
       <programDate>12/07/2026</programDate>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|12/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov120726.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 08.07.2026</description>
       <programDate>08/07/2026</programDate>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|08/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov080726.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 08.07.2026</description>
       <programDate>08/07/2026</programDate>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/8d9023e0-6e16-4a68-8656-a63057817086.jpeg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/8d9023e0-6e16-4a68-8656-a63057817086.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|08/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/winver080726.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 06.07.2026</description>
       <programDate>06/07/2026</programDate>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|06/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov060726.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 05.07.2026</description>
       <programDate>05/07/2026</programDate>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|05/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov050726.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>אנחנו הרוב_ | בהגשת אבי גרינצייג ~ 01.07.2026</description>
       <programDate>01/07/2026</programDate>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/50f05c11-ed8b-4125-8b47-074dc9aeddb9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">390|15|01/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/arov010726.mp3</guid>
     </item>
   </channel>
