@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו רדיוס 100FM | ספיישלים</title>
     <description>Programs from רדיו רדיוס 100FM, show: ספיישלים</description>
     <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Special-Madonna.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-16.19.28-ITAY-BETZALELI.jpeg</url>
       <title>רדיו רדיוס 100FM | ספיישלים</title>
@@ -18,7 +18,7 @@
       <description>ספיישל מדונה ברדיוס 100FM!</description>
       <programDate>15/08/2026</programDate>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-16.19.28-ITAY-BETZALELI.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-11-at-16.19.28-ITAY-BETZALELI.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|15/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Special-Madonna.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>באג 2000 עם דניאל אלפנביין  חגיגות שנתיים לתכנית!</description>
       <programDate>13/08/2026</programDate>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-14.18.08.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/WhatsApp-Image-2026-08-13-at-14.18.08.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|13/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Shorty-Special.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>באג 2000 עם דניאל אלפנביין  חגיגות שנתיים לתכנית!</description>
       <programDate>06/08/2026</programDate>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/IMG-20250113-WA0024.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/IMG-20250113-WA0024.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|06/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Mistermiss-Special.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>באג 2000 עם דניאל אלפנביין  ספיישל זהב שחור: סיפורו של ההיפ הופ הישראלי</description>
       <programDate>30/07/2026</programDate>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/IMG-20250113-WA0024.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/IMG-20250113-WA0024.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|30/07/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/BUG-2000-BLACK-GOLD-30.07.26.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>סוף שבוע גאווה 2026  עידן שלווה</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Idan.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Idan.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-2026-Idan-Shalev.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>סוף שבוע גאווה 2026  פנינה רוזנבלום</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Pnina.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Pnina.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-2026-Pnina.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>סוף שבוע גאווה 2026  ירדן חדד</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Yarden.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Yarden.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-2026-Yarden-Haddad.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>סוף שבוע גאווה 2026  טל קלאי (טלולה) ומיכאל בן דוד</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Tal-Michael.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Tal-Michael.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-2026-Tal-Michael.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>סוף שבוע גאווה 2026  שחר טבוך</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Shachar.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Shachar.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-2026-Shachar-Tavoch.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>סוף שבוע גאווה 2026  איתי בצלאלי</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Itay.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-Itay.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Pride-2026-Itay-Bealeli.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>ספיישל ההופעות החיות  עצמאות 2026</description>
       <programDate>21/04/2026</programDate>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-16.36.38.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-20-at-16.36.38.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|21/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Special-Live-21-04-26.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>ספיישל חדש חדיש ומחודש לחג הפסח 2026  חלק ב</description>
       <programDate>06/04/2026</programDate>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-11.36.38.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-11.36.38.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|06/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Tony-Fyne-Akunis-06-04-26.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>ספיישל חדש חדיש ומחודש לחג הפסח 2026  חלק א</description>
       <programDate>05/04/2026</programDate>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-11.36.38.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-11.36.38.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|05/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Tony-Fyne-Akunis-05-04-26.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>סט פתיחת שנת 2026 | דיגיי אבי שמי ברדיוס 100FM</description>
       <programDate>01/01/2026</programDate>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-29-at-14.20.26.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/WhatsApp-Image-2025-12-29-at-14.20.26.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/Avi-Shami-Set-Sylvester-2025.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>המצעד השנתי 2025</description>
       <programDate>31/12/2025</programDate>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-01-at-10.49.25.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-01-at-10.49.25.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|31/12/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/Mizad-2025.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>נפרדים מMTV</description>
       <programDate>23/10/2025</programDate>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-27-at-16.27.54.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-27-at-16.27.54.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|23/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/BUG.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>חוזרים הביתה  תכנית מיוחדת עם ירון אשבל</description>
       <programDate>13/10/2025</programDate>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/ASHBEL.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/ASHBEL.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|13/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/Hozrim-Habaita-13-10-25.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>שידור מיוחד לרגל הוצאת ספרו החדש של דוד בן בסט סוגר מעגלים</description>
       <programDate>09/09/2025</programDate>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/SOGER.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/SOGER.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|09/09/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Stiematzky-09-09-25.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>מסיבת סוף הקיץ 2025</description>
       <programDate>30/08/2025</programDate>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/AKUNIS-FINE.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/AKUNIS-FINE.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|30/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Akunis-Fyne-30-08-25.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>באג 2000 עם דניאל אלפנביין – ספיישל טונה לקראת מירוץ תפוזינה סינגלס ראן 2025</description>
       <programDate>28/08/2025</programDate>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/FF63EAB9-F1EF-4D09-AD7A-D56F60DB1D2F.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/FF63EAB9-F1EF-4D09-AD7A-D56F60DB1D2F.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|28/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/Special-Tuna-28-08-25.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>ראיון מיוחד שארי שמאי ערך עם דוד בן בסט לרגל צאתו לאור של ספרו האוטוביוגרפי סוגר מעגלים על רדיו עיתונות פוליטיקה ודיפלומטיה</description>
       <programDate>15/08/2025</programDate>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/DAVID.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/DAVID.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|15/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/SOGER.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>מצעד 10 שירי האהבה הגדולים של תפוזינה סינגלס ראן ברדיוס 100FM בהגשת גני בלום</description>
       <programDate>14/08/2025</programDate>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/JEN.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/JEN.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|14/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/Jenny-Mizad-14-08-25.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>סוף שבוע גאווה 2025 – ליאל קוצרי</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/LIEL.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/LIEL.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/Pride-Liel.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>סוף שבוע גאווה 2025  עברי לידר</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/IVRI.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/IVRI.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/Pride-Ivry.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>סוף שבוע גאווה 2025  פרידה</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/FIRDA.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/FIRDA.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/Pride-Frida.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>סוף שבוע גאווה 2025  Mistermis</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/MISTERMISS-1.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/MISTERMISS-1.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/mistermis.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>סוף שבוע גאווה 2025  מתנאל לייני</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/MATANEL.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/MATANEL.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/matanel.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>סוף שבוע גאווה 2025  ליהי טולדנו</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/LIHI.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/LIHI.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/lihi.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>סוף שבוע גאווה 2025 – שחר כהן</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/SAHAR.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/SAHAR.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/shahar.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>ספיישל אפי נצר</description>
       <programDate>01/06/2025</programDate>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/EFI.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/EFI.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/Efi-Netzer-01-06-25.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>ספיישל חדש חדיש ומחודש</description>
       <programDate>14/04/2025</programDate>
       <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/AKUNIS-FINE.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/AKUNIS-FINE.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|14/04/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Hadash-Hadish-14-04-25.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>ספיישל נורית הירש</description>
       <programDate>12/04/2025</programDate>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/NURIT.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/NURIT.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/04/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Nurit-Hirsch-12-04-25.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>פורים 2025! DJ MISTERMISS</description>
       <programDate>14/03/2025</programDate>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-16-at-11.09.07.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-16-at-11.09.07.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|14/03/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/Mistermiss-Set-Purim.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>המצעד השנתי 2024</description>
       <programDate>26/12/2024</programDate>
       <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Mizad-24-New.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Mizad-24-New.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|26/12/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Mizad-2024.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>המצעד השנתי 2024  PRE GAME</description>
       <programDate>19/12/2024</programDate>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Pregame.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Pregame.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|19/12/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Pregame-19-12-24.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>לזכרה של הדר תדמור זל 18.11.24</description>
       <programDate>18/11/2024</programDate>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/465787294_1141787791285081_2595616367623098212_n.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/465787294_1141787791285081_2595616367623098212_n.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|18/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Hadar-Tadmor-Special.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>ספיישל דודו זכאי</description>
       <programDate>27/07/2024</programDate>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/DUDUU.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/DUDUU.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|27/07/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Dudu-Zakai-27-07-24.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>ספיישל קובי אשרת</description>
       <programDate>13/07/2024</programDate>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Kobi-Oshrat-sqare.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Kobi-Oshrat-sqare.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|13/07/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Kobi-Oshrat-Special.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>סט גאווה 2024  DANIEL ELFENBAIN</description>
       <programDate>06/06/2024</programDate>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/DANIEL.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/DANIEL.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|06/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/daniel.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>סט גאווה 2024  ARTONBEAT</description>
       <programDate>06/06/2024</programDate>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/ARTONBEAT.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/ARTONBEAT.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|06/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/Artonbeat.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>סט גאווה 2024  DJ NIV AROYA</description>
       <programDate>06/06/2024</programDate>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/DJ-NIV-AROYA.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/DJ-NIV-AROYA.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|06/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/niv-aroya.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>סט גאווה 2024  MISTERMISS</description>
       <programDate>06/06/2024</programDate>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/MIESTERMISS.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/MIESTERMISS.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|06/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/mistermiss.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>סט עצמאות 2024  דיגיי ARTONBEAT</description>
       <programDate>15/05/2024</programDate>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/IMG-20240515-WA0007.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/IMG-20240515-WA0007.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|15/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/Artonbeat.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>סט עצמאות 2024  דיגיי דניאל</description>
       <programDate>15/05/2024</programDate>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/DANIEL.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/DANIEL.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|15/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/DJ-Daniel.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>סט עצמאות 2024  דיגיי אבי שמי</description>
       <programDate>15/05/2024</programDate>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/AVI-SHAMI.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/AVI-SHAMI.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|15/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/Avi-Shami.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>תכנית מיוחדת לערב יום הזיכרון 2024 בשיתוף המרכז הרפואי לשיקום לוינשטיין מקבוצת כללית</description>
       <programDate>12/05/2024</programDate>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/levinstein-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/levinstein-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/01-vip_L1RwE8Yy.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>ספיישל אילנית</description>
       <programDate>27/04/2024</programDate>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/ilanit-sq.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/ilanit-sq.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|27/04/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/Ilanit-Special.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>ספיישל אסף אשתר</description>
       <programDate>08/03/2024</programDate>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/asaf-ashtar.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/asaf-ashtar.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/03/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/Asaf-Ashtar-Special-08-03-24.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>משדר סיכום שנה במוזיקה הלועזית והישראלית לשנת 2023!</description>
       <programDate>28/12/2023</programDate>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/סיכום-שנתי-23.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/סיכום-שנתי-23.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|28/12/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/Sikum-2023.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>חדש חדיש ומחודש  סוכות 2023</description>
       <programDate>01/10/2023</programDate>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/AKUNIS.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/AKUNIS.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/10/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Akunis-Tony-Fyne-01-10-23.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>ספיישל ירדנה ארזי</description>
       <programDate>30/09/2023</programDate>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/DAVID-YARDENA.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/DAVID-YARDENA.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|30/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Yardena-Arazi-30-09-23.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>ספיישל יהורם גאון</description>
       <programDate>16/09/2023</programDate>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/David-Gaon.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/David-Gaon.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|16/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Yehoram-Gaon-Special-15-09-23.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>HOODIES סינגלס RUN  מירוץ האהבה של תל אביב יפו</description>
       <programDate>14/09/2023</programDate>
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-18-at-12.28.06.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/WhatsApp-Image-2023-09-18-at-12.28.06.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|14/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Hoodies-Singles-Run-14-09-23.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>הפינה של דיאן וגני באהבה פלוס לקראת מירוץ הודיס סינגלס ראן</description>
       <programDate>10/09/2023</programDate>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/DIAN-JENNY.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/DIAN-JENNY.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|10/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Jenny-Diane-10-09-23.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>ספיישל חזרה ללימודים  דניאל אלפנביין עם הייפ קרו ואייל לוי</description>
       <programDate>31/08/2023</programDate>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/IMG_0322-scaled.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/IMG_0322-scaled.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|31/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Daniel-Back-to-School.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>ספיישל חזרה ללימודים בהגשת דניאל אלפנביין עם הייפ קרו ואייל לוי!</description>
       <programDate>31/08/2023</programDate>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/SCHOOL-scaled.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/SCHOOL-scaled.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|31/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Daniel-Back-to-School.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>ספיישל חזרה ללימודים  קופיקו משתלט על אולפן אהבה פלוס</description>
       <programDate>30/08/2023</programDate>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/369691373_782538707206452_7006264670055990182_n.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/369691373_782538707206452_7006264670055990182_n.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|30/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Ahava-Plus-Kofiko.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>ספיישל הטיש הגדול</description>
       <programDate>12/08/2023</programDate>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/TIS.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/TIS.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|12/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Moshe-Lahav-Special-12-08-23.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>ספיישל ננסי ברנדס</description>
       <programDate>08/07/2023</programDate>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Nansi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Nansi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/07/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Nansy-Full.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>סט לכבוד סופש גאווה 2023! מגיש: תומר מייזנר</description>
       <programDate>14/06/2023</programDate>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Maizner-big.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Maizner-big.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|14/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Tomer-Maizner-Pride-2023-2hours.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>דיגיי MISTERMISS בסט סופש גאווה 2023!</description>
       <programDate>09/06/2023</programDate>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Pride-Mistermiss.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Pride-Mistermiss.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|09/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Set-MISTERMISS.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>דיגיי ניב ארויה בסט סופשבוע גאווה 2023!</description>
       <programDate>09/06/2023</programDate>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Niv-Aroya.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Niv-Aroya.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|09/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Niv-Aroya-DJ-Set-Pride-2023.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>האוס TLV בסט מיוחד לסופש גאווה 2023!</description>
       <programDate>09/06/2023</programDate>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/image0.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/image0.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|09/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/HOUSE-TEL-AVIV-PRIDE-2023-MASTER.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>מור אברהמי בסט גאווה מיוחד לסופש גאווה 2023!</description>
       <programDate>09/06/2023</programDate>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Mor-Avrahami.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Mor-Avrahami.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|09/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Mor-Avrahami-MASTER.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>סופש גאווה 2023! מגיש  דניאל אלפנביין</description>
       <programDate>08/06/2023</programDate>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/דניאל.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/דניאל.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Pride-23-Daniel-Special.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>סופשבוע גאווה 2023! מגיש: חן עמר</description>
       <programDate>08/06/2023</programDate>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/IMG_0407.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/IMG_0407.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Hen-Amar-Pride.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>סופשבוע גאווה 2023! מתארחת: אלה לי להב</description>
       <programDate>08/06/2023</programDate>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/IMG_0406.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/IMG_0406.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Ella-Lee-Pride.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>סופשבוע גאווה 2023! מתארחת: מארינה מקסימיליאן</description>
       <programDate>08/06/2023</programDate>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/IMG_0408.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/IMG_0408.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Marina-Pride-f.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>סופשבוע גאווה 2023! מתארחת: נסרין קדרי</description>
       <programDate>08/06/2023</programDate>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Pride-2023-Nasrin.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Pride-2023-Nasrin.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|08/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Nasrin-Pride.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>כל חיי  ספיישל אבי טולדנו</description>
       <programDate>27/05/2023</programDate>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/טולדנו-דוד-scaled.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/טולדנו-דוד-scaled.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|27/05/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/David-Toledano.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>ספיישל 50 שנה ל Voice Of Peace</description>
       <programDate>18/05/2023</programDate>
       <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/vop072.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/vop072.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|18/05/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/VOP-50-years.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>ספיישל 50 שנה לישראל באירוויזיון</description>
       <programDate>26/04/2023</programDate>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/יגאל.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/יגאל.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|26/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/Igal-ravid-75.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>חדש חדיש ומחודש  פסח 2023</description>
       <programDate>09/04/2023</programDate>
       <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/IMG-20221011-WA0005.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/IMG-20221011-WA0005.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|09/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/Akunis-Tony-Fyne-2023.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>מקבלים את 2023</description>
       <programDate>01/01/2023</programDate>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Daskal-22.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Daskal-22.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/DJ-Set-Eyal-Daskal.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>מקבלים את 2023</description>
       <programDate>01/01/2023</programDate>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Simon-22.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Simon-22.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/DJ-Set-Simon.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>מקבלים את 2023</description>
       <programDate>01/01/2023</programDate>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Artonbeat-22.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Artonbeat-22.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/DJ-Set-Artonbeat-1.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>מקבלים את 2023</description>
       <programDate>01/01/2023</programDate>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Daniel-22-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Daniel-22-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|01/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/DJ-Set-Daniel.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>המצעד השנתי 2022</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Main-everybody.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Main-everybody.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|29/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Mizad-2022.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>PREGAME 2022</description>
       <programDate>22/12/2022</programDate>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Main-Daniel-Clean.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Main-Daniel-Clean.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|22/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/PRE-GAME-22-12-22.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>המצעד הלועזי לשנת 2015 בהגשת הדר תדמור וטל שלוש</description>
       <programDate>20/11/2022</programDate>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/315715520_576544791142720_4977845650315180876_n.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/315715520_576544791142720_4977845650315180876_n.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|20/11/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/Hadar-Mizad-2015.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>חדש חדיש ומחודש  סוכות 2022</description>
       <programDate>11/10/2022</programDate>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/IMG-20221011-WA0005.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/IMG-20221011-WA0005.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|11/10/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/Akunis-Tony-Fyne-Special-2022.mp3</guid>
     </item>
     <item>
@@ -828,7 +828,7 @@
       <description>מצעד טיקטוק 2022  חלק ב</description>
       <programDate>05/09/2022</programDate>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-06-at-14.28.58.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-06-at-14.28.58.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|05/09/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/02-Tick-Tock-Special.mp3</guid>
     </item>
     <item>
@@ -838,7 +838,7 @@
       <description>מצעד טיקטוק 2022  חלק א</description>
       <programDate>05/09/2022</programDate>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-06-at-14.23.02.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/WhatsApp-Image-2022-09-06-at-14.23.02.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|05/09/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/01-Tick-Tock-Special.mp3</guid>
     </item>
     <item>
@@ -848,7 +848,7 @@
       <description>סטטיק ובן אל מתפרקים: ספיישל עם הלהיטים הגדולים ואורחים מיוחדים בהגשת דניאל אלפנביין</description>
       <programDate>25/08/2022</programDate>
       <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/08/609a08ca-0adb-4a07-84e9-7625533a38f4.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/08/609a08ca-0adb-4a07-84e9-7625533a38f4.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/08/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/08/stttik-25.8.22.mp3</guid>
     </item>
     <item>
@@ -858,7 +858,7 @@
       <description>ספיישל וואן ריפבליק</description>
       <programDate>28/06/2022</programDate>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/Two-Republic.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/Two-Republic.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|28/06/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/One-Republic-Special-28-06-22.mp3</guid>
     </item>
     <item>
@@ -868,7 +868,7 @@
       <description>אי שם בים התיכון  מופע מחווה לתחנת הרדיו המיתולוגית קול השלום</description>
       <programDate>05/05/2022</programDate>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/WhatsApp-Image-2022-05-23-at-07.53.42.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/WhatsApp-Image-2022-05-23-at-07.53.42.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|05/05/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/VOP-Live-Special-05-05-22.mp3</guid>
     </item>
     <item>
@@ -878,7 +878,7 @@
       <description>ספיישל אופוריה עם יגאל רביד יום העצמאות 2022!</description>
       <programDate>05/05/2022</programDate>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/YIGAL.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/YIGAL.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|05/05/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/Oforia-Igal-Ravid-05-05-22.mp3</guid>
     </item>
     <item>
@@ -888,7 +888,7 @@
       <description>ספיישל מארון 5</description>
       <programDate>27/04/2022</programDate>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/04/Maroon5.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/04/Maroon5.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|27/04/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/04/Maroon-5-Special-26-04-22.mp3</guid>
     </item>
     <item>
@@ -898,7 +898,7 @@
       <description>מקבלים את 2022: DJ ARTONBEAT בסט סילבסטר ברדיוס 100FM</description>
       <programDate>31/12/2021</programDate>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/Artonbeat.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/Artonbeat.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|31/12/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/SET-SILVESTER-RADIOS-100FM-ARTONBEAT-final-mp3.mp3</guid>
     </item>
     <item>
@@ -908,7 +908,7 @@
       <description>ספיישל יום הולדת 40 לבריטני ספירס</description>
       <programDate>02/12/2021</programDate>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/image_6483441.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/image_6483441.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|02/12/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/Britney-Spears.mp3</guid>
     </item>
     <item>
@@ -918,7 +918,7 @@
       <description>מצעד קווין ופרדי מרקיורי ברדיוס 100FM</description>
       <programDate>24/11/2021</programDate>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/7BE3BC08-E844-4C1C-AB87-1DC63FF4FF0B.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/7BE3BC08-E844-4C1C-AB87-1DC63FF4FF0B.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/11/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/Queen-Special-24-11-21.mp3</guid>
     </item>
     <item>
@@ -928,7 +928,7 @@
       <description>ספיישל חיים משה</description>
       <programDate>02/10/2021</programDate>
       <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/242441934_4767955196549894_2179278272460195193_n.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/242441934_4767955196549894_2179278272460195193_n.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|02/10/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/Haim-Moshe-Special.mp3</guid>
     </item>
     <item>
@@ -938,7 +938,7 @@
       <description>תחנות בזמן  ספיישל חגיגי עם ירדנה ארזי</description>
       <programDate>25/09/2021</programDate>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/241844493_4741361322542615_867671603337176255_n.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/241844493_4741361322542615_867671603337176255_n.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/09/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/Yardena-Arazi-Special.mp3</guid>
     </item>
     <item>
@@ -948,7 +948,7 @@
       <description>Djs Artonbeat &amp; Simon בסט גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/fa942053-8991-4725-9cc8-a5e122b825e6.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/fa942053-8991-4725-9cc8-a5e122b825e6.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Artonbeat-Simon-pride-set-2021.mp3</guid>
     </item>
     <item>
@@ -958,7 +958,7 @@
       <description>Dj ניב ארויה בסט גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Niv-Aroya-Pride.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Niv-Aroya-Pride.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Niv-Aroya-DJ-SET-Preide-2021.mp3</guid>
     </item>
     <item>
@@ -968,7 +968,7 @@
       <description>Dj בתחן סבג בסט גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Bat-Hen-Sebag-Pride.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Bat-Hen-Sebag-Pride.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/proud-mash-up-dj-se-bug-for-radio-100-fm.mp3</guid>
     </item>
     <item>
@@ -978,7 +978,7 @@
       <description>שחר טבוך מרים באולפן בתוכנית מיוחדת בסוף שבוע גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Shachar-Pride.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Shachar-Pride.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Shahar-Tavoch.mp3</guid>
     </item>
     <item>
@@ -988,7 +988,7 @@
       <description>חן אהרוני מרים באולפן בתוכנית מיוחדת בסוף שבוע גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Hen-Aharoni.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Hen-Aharoni.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Hen-Aharoni.mp3</guid>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <description>דרורית מרימה באולפן בתוכנית מיוחדת בסוף שבוע גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Dror-Pride.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Dror-Pride.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Dror-Contento.mp3</guid>
     </item>
     <item>
@@ -1008,7 +1008,7 @@
       <description>נסרין מרימה באולפן בתוכנית מיוחדת בסוף שבוע גאווה 2021 ברדיוס 100FM</description>
       <programDate>24/06/2021</programDate>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Nasrin.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Nasrin.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|24/06/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/06/Nasrin.mp3</guid>
     </item>
     <item>
@@ -1018,7 +1018,7 @@
       <description>ספיישל יום העצמאות עם שיריו של אהוד מנור</description>
       <programDate>15/04/2021</programDate>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/04/2-1.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/04/2-1.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|15/04/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/04/Ehud-Manor.mp3</guid>
     </item>
     <item>
@@ -1028,7 +1028,7 @@
       <description>ספיישל עפרה חזה  שעתיים עם הלהיטים הגדולים ראיונות בלעדיים וקטעים נדירים</description>
       <programDate>26/02/2021</programDate>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/digital100-e1607596035451.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/digital100-e1607596035451.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|26/02/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/03/Ofra-Haza-0102.mp3</guid>
     </item>
     <item>
@@ -1038,7 +1038,7 @@
       <description>המצעד הרשמי של טיקטוק העולמית בישראל</description>
       <programDate>25/02/2021</programDate>
       <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-07-at-09.56.23.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/03/WhatsApp-Image-2021-03-07-at-09.56.23.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/02/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/03/TikTok-Special-25-02-21.mp3</guid>
     </item>
     <item>
@@ -1048,7 +1048,7 @@
       <description>תומר היימן בתוכנית מיוחדת לסופש גאווה 2020 ברדיוס 100FM</description>
       <programDate>26/06/2020</programDate>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/תומר-הימן.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/תומר-הימן.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|26/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Tomer-Heyman-Pride-2020.mp3</guid>
     </item>
     <item>
@@ -1058,7 +1058,7 @@
       <description>דיגיי ניב ארויה בסט מיוחד לסופש גאווה 2020 ברדיוס 100FM</description>
       <programDate>26/06/2020</programDate>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/ניב-ארויה.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/ניב-ארויה.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|26/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Niv-Aroya-Pride-DJ-Set-1.mp3</guid>
     </item>
     <item>
@@ -1068,7 +1068,7 @@
       <description>עברי לידר בתוכנית מיוחדת לסופש גאווה 2020 ברדיוס 100FM</description>
       <programDate>25/06/2020</programDate>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/עברי-לידר.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/עברי-לידר.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Ivri-Lider-Pride-2020.mp3</guid>
     </item>
     <item>
@@ -1078,7 +1078,7 @@
       <description>אליאנה תדהר בתוכנית מיוחדת לסופש גאווה 2020 ברדיוס 100FM</description>
       <programDate>25/06/2020</programDate>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/אליאנה-תדהר.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/אליאנה-תדהר.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Eliana-Tidhar-Pride-2020.mp3</guid>
     </item>
     <item>
@@ -1088,7 +1088,7 @@
       <description>נדב בורנשטיין בתוכנית מיוחדת לסופש גאווה 2020 ברדיוס 100FM</description>
       <programDate>25/06/2020</programDate>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/נדב-בורנשטיין.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/נדב-בורנשטיין.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Nadav-Bornstein-Pride-2020.mp3</guid>
     </item>
     <item>
@@ -1098,7 +1098,7 @@
       <description>דיגיי תומר מייזנר בסט מיוחד לסופש גאווה 2020 ברדיוס 100FM  חלק א</description>
       <programDate>25/06/2020</programDate>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/תומר-מייזנר.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/תומר-מייזנר.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Tomer-Maizner-01.mp3</guid>
     </item>
     <item>
@@ -1108,7 +1108,7 @@
       <description>דיגיי תומר מייזנר בסט מיוחד לסופש גאווה 2020 ברדיוס 100FM  חלק ב</description>
       <programDate>25/06/2020</programDate>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/תומר-מייזנר.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/תומר-מייזנר.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Tomer-Maizner-02.mp3</guid>
     </item>
     <item>
@@ -1118,7 +1118,7 @@
       <description>דיגייז ארטונביט &amp; סיימון בסט מיוחד לסופש גאווה 2020 ברדיוס 100FM</description>
       <programDate>25/06/2020</programDate>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/דיגייז-ארטונביט-סיימון.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/דיגייז-ארטונביט-סיימון.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|25/06/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Artonbeat-Simon-Pride-Set.mp3</guid>
     </item>
     <item>
@@ -1128,7 +1128,7 @@
       <description>ספיישל עצמאות 2020 עם DJ תומר מייזנר</description>
       <programDate>28/04/2020</programDate>
       <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Azmaut-Tomer-2.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Azmaut-Tomer-2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16|28/04/2020|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/04/Tomer-Maizner-Special-Atzmaut-2020.mp3</guid>
     </item>
     <item>
@@ -1136,7 +1136,7 @@
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/HADASH.mp3</link>
       <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/HADASH.mp3" length="0" type="audio/mpeg" />
       <description>חדש חדיש ומחודש  ספיישל סוכות 2025</description>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/AKUNIS.jpeg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/AKUNIS.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">423|16||https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/HADASH.mp3</guid>
     </item>
   </channel>
