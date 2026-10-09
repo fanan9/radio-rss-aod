@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו לב המדינה 91FM | עברי מהלב</title>
     <description>Programs from רדיו לב המדינה 91FM, show: עברי מהלב</description>
     <link>https://www.oles.tv/videos/91fm/__archive/20261009000000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:02 +0000</lastBuildDate>
     <image>
       <url>https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg</url>
       <title>רדיו לב המדינה 91FM | עברי מהלב</title>
@@ -18,7 +18,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>09/10/2026</programDate>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/10/2026|https://www.oles.tv/videos/91fm/__archive/20261009000000.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>09/10/2026</programDate>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/10/2026|https://www.oles.tv/videos/91fm/__archive/20261009010000.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>09/10/2026</programDate>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/10/2026|https://www.oles.tv/videos/91fm/__archive/20261009020000.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>09/10/2026</programDate>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/10/2026|https://www.oles.tv/videos/91fm/__archive/20261009030000.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>02/10/2026</programDate>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/10/2026|https://www.oles.tv/videos/91fm/__archive/20261002000000.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>02/10/2026</programDate>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/10/2026|https://www.oles.tv/videos/91fm/__archive/20261002010000.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>02/10/2026</programDate>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/10/2026|https://www.oles.tv/videos/91fm/__archive/20261002020000.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>02/10/2026</programDate>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/10/2026|https://www.oles.tv/videos/91fm/__archive/20261002030000.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>25/09/2026</programDate>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|25/09/2026|https://www.oles.tv/videos/91fm/__archive/20260925000000.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>25/09/2026</programDate>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|25/09/2026|https://www.oles.tv/videos/91fm/__archive/20260925010000.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>25/09/2026</programDate>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|25/09/2026|https://www.oles.tv/videos/91fm/__archive/20260925020000.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>25/09/2026</programDate>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|25/09/2026|https://www.oles.tv/videos/91fm/__archive/20260925030000.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>18/09/2026</programDate>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|18/09/2026|https://www.oles.tv/videos/91fm/__archive/20260918000000.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>18/09/2026</programDate>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|18/09/2026|https://www.oles.tv/videos/91fm/__archive/20260918010000.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>18/09/2026</programDate>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|18/09/2026|https://www.oles.tv/videos/91fm/__archive/20260918020000.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>18/09/2026</programDate>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|18/09/2026|https://www.oles.tv/videos/91fm/__archive/20260918030000.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|11/09/2026|https://www.oles.tv/videos/91fm/__archive/20260911000000.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|11/09/2026|https://www.oles.tv/videos/91fm/__archive/20260911010000.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|11/09/2026|https://www.oles.tv/videos/91fm/__archive/20260911020000.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|11/09/2026|https://www.oles.tv/videos/91fm/__archive/20260911030000.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>04/09/2026</programDate>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|04/09/2026|https://www.oles.tv/videos/91fm/__archive/20260904000000.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>04/09/2026</programDate>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|04/09/2026|https://www.oles.tv/videos/91fm/__archive/20260904010000.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>04/09/2026</programDate>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|04/09/2026|https://www.oles.tv/videos/91fm/__archive/20260904020000.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>04/09/2026</programDate>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|04/09/2026|https://www.oles.tv/videos/91fm/__archive/20260904030000.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>28/08/2026</programDate>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|28/08/2026|https://www.oles.tv/videos/91fm/__archive/20260828000000.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>28/08/2026</programDate>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|28/08/2026|https://www.oles.tv/videos/91fm/__archive/20260828010000.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>28/08/2026</programDate>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|28/08/2026|https://www.oles.tv/videos/91fm/__archive/20260828020000.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>28/08/2026</programDate>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|28/08/2026|https://www.oles.tv/videos/91fm/__archive/20260828030000.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>21/08/2026</programDate>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|21/08/2026|https://www.oles.tv/videos/91fm/__archive/20260821000000.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>21/08/2026</programDate>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|21/08/2026|https://www.oles.tv/videos/91fm/__archive/20260821010000.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>21/08/2026</programDate>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|21/08/2026|https://www.oles.tv/videos/91fm/__archive/20260821020000.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>21/08/2026</programDate>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|21/08/2026|https://www.oles.tv/videos/91fm/__archive/20260821030000.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>14/08/2026</programDate>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|14/08/2026|https://www.oles.tv/videos/91fm/__archive/20260814000000.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>14/08/2026</programDate>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|14/08/2026|https://www.oles.tv/videos/91fm/__archive/20260814010000.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>14/08/2026</programDate>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|14/08/2026|https://www.oles.tv/videos/91fm/__archive/20260814020000.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>14/08/2026</programDate>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|14/08/2026|https://www.oles.tv/videos/91fm/__archive/20260814030000.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>07/08/2026</programDate>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|07/08/2026|https://www.oles.tv/videos/91fm/__archive/20260807000000.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>07/08/2026</programDate>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|07/08/2026|https://www.oles.tv/videos/91fm/__archive/20260807010000.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>07/08/2026</programDate>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|07/08/2026|https://www.oles.tv/videos/91fm/__archive/20260807020000.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>07/08/2026</programDate>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|07/08/2026|https://www.oles.tv/videos/91fm/__archive/20260807030000.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>31/07/2026</programDate>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|31/07/2026|https://www.oles.tv/videos/91fm/__archive/20260731000000.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>31/07/2026</programDate>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|31/07/2026|https://www.oles.tv/videos/91fm/__archive/20260731010000.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>31/07/2026</programDate>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|31/07/2026|https://www.oles.tv/videos/91fm/__archive/20260731020000.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>31/07/2026</programDate>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|31/07/2026|https://www.oles.tv/videos/91fm/__archive/20260731030000.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>24/07/2026</programDate>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/07/2026|https://www.oles.tv/videos/91fm/__archive/20260724000000.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>24/07/2026</programDate>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/07/2026|https://www.oles.tv/videos/91fm/__archive/20260724010000.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>24/07/2026</programDate>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/07/2026|https://www.oles.tv/videos/91fm/__archive/20260724020000.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>24/07/2026</programDate>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/07/2026|https://www.oles.tv/videos/91fm/__archive/20260724030000.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>17/07/2026</programDate>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/07/2026|https://www.oles.tv/videos/91fm/__archive/20260717000000.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>17/07/2026</programDate>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/07/2026|https://www.oles.tv/videos/91fm/__archive/20260717010000.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>17/07/2026</programDate>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/07/2026|https://www.oles.tv/videos/91fm/__archive/20260717020000.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>17/07/2026</programDate>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/07/2026|https://www.oles.tv/videos/91fm/__archive/20260717030000.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>10/07/2026</programDate>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/07/2026|https://www.oles.tv/videos/91fm/__archive/20260710000000.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>10/07/2026</programDate>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/07/2026|https://www.oles.tv/videos/91fm/__archive/20260710010000.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>10/07/2026</programDate>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/07/2026|https://www.oles.tv/videos/91fm/__archive/20260710020000.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>10/07/2026</programDate>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/07/2026|https://www.oles.tv/videos/91fm/__archive/20260710030000.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/07/2026|https://www.oles.tv/videos/91fm/__archive/20260703000000.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/07/2026|https://www.oles.tv/videos/91fm/__archive/20260703010000.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/07/2026|https://www.oles.tv/videos/91fm/__archive/20260703020000.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/07/2026|https://www.oles.tv/videos/91fm/__archive/20260703030000.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>26/06/2026</programDate>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/06/2026|https://www.oles.tv/videos/91fm/__archive/20260626000000.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>26/06/2026</programDate>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/06/2026|https://www.oles.tv/videos/91fm/__archive/20260626010000.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>26/06/2026</programDate>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/06/2026|https://www.oles.tv/videos/91fm/__archive/20260626020000.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>26/06/2026</programDate>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/06/2026|https://www.oles.tv/videos/91fm/__archive/20260626030000.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>19/06/2026</programDate>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/06/2026|https://www.oles.tv/videos/91fm/__archive/20260619000000.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>19/06/2026</programDate>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/06/2026|https://www.oles.tv/videos/91fm/__archive/20260619010000.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>19/06/2026</programDate>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/06/2026|https://www.oles.tv/videos/91fm/__archive/20260619020000.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>19/06/2026</programDate>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/06/2026|https://www.oles.tv/videos/91fm/__archive/20260619030000.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/06/2026|https://www.oles.tv/videos/91fm/__archive/20260612000000.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/06/2026|https://www.oles.tv/videos/91fm/__archive/20260612010000.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/06/2026|https://www.oles.tv/videos/91fm/__archive/20260612020000.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/06/2026|https://www.oles.tv/videos/91fm/__archive/20260612030000.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>05/06/2026</programDate>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|05/06/2026|https://www.oles.tv/videos/91fm/__archive/20260605000000.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>05/06/2026</programDate>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|05/06/2026|https://www.oles.tv/videos/91fm/__archive/20260605010000.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>05/06/2026</programDate>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|05/06/2026|https://www.oles.tv/videos/91fm/__archive/20260605020000.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>05/06/2026</programDate>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|05/06/2026|https://www.oles.tv/videos/91fm/__archive/20260605030000.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>29/05/2026</programDate>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|29/05/2026|https://www.oles.tv/videos/91fm/__archive/20260529000000.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>29/05/2026</programDate>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|29/05/2026|https://www.oles.tv/videos/91fm/__archive/20260529010000.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>29/05/2026</programDate>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|29/05/2026|https://www.oles.tv/videos/91fm/__archive/20260529020000.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>29/05/2026</programDate>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|29/05/2026|https://www.oles.tv/videos/91fm/__archive/20260529030000.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>22/05/2026</programDate>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|22/05/2026|https://www.oles.tv/videos/91fm/__archive/20260522000000.mp3</guid>
     </item>
     <item>
@@ -828,7 +828,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>22/05/2026</programDate>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|22/05/2026|https://www.oles.tv/videos/91fm/__archive/20260522010000.mp3</guid>
     </item>
     <item>
@@ -838,7 +838,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>22/05/2026</programDate>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|22/05/2026|https://www.oles.tv/videos/91fm/__archive/20260522020000.mp3</guid>
     </item>
     <item>
@@ -848,7 +848,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>22/05/2026</programDate>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|22/05/2026|https://www.oles.tv/videos/91fm/__archive/20260522030000.mp3</guid>
     </item>
     <item>
@@ -858,7 +858,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>15/05/2026</programDate>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|15/05/2026|https://www.oles.tv/videos/91fm/__archive/20260515000000.mp3</guid>
     </item>
     <item>
@@ -868,7 +868,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>15/05/2026</programDate>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|15/05/2026|https://www.oles.tv/videos/91fm/__archive/20260515010000.mp3</guid>
     </item>
     <item>
@@ -878,7 +878,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>15/05/2026</programDate>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|15/05/2026|https://www.oles.tv/videos/91fm/__archive/20260515020000.mp3</guid>
     </item>
     <item>
@@ -888,7 +888,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>15/05/2026</programDate>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|15/05/2026|https://www.oles.tv/videos/91fm/__archive/20260515030000.mp3</guid>
     </item>
     <item>
@@ -898,7 +898,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>08/05/2026</programDate>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|08/05/2026|https://www.oles.tv/videos/91fm/__archive/20260508000000.mp3</guid>
     </item>
     <item>
@@ -908,7 +908,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>08/05/2026</programDate>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|08/05/2026|https://www.oles.tv/videos/91fm/__archive/20260508010000.mp3</guid>
     </item>
     <item>
@@ -918,7 +918,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>08/05/2026</programDate>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|08/05/2026|https://www.oles.tv/videos/91fm/__archive/20260508020000.mp3</guid>
     </item>
     <item>
@@ -928,7 +928,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>08/05/2026</programDate>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|08/05/2026|https://www.oles.tv/videos/91fm/__archive/20260508030000.mp3</guid>
     </item>
     <item>
@@ -938,7 +938,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>01/05/2026</programDate>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|01/05/2026|https://www.oles.tv/videos/91fm/__archive/20260501000000.mp3</guid>
     </item>
     <item>
@@ -948,7 +948,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>01/05/2026</programDate>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|01/05/2026|https://www.oles.tv/videos/91fm/__archive/20260501010000.mp3</guid>
     </item>
     <item>
@@ -958,7 +958,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>01/05/2026</programDate>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|01/05/2026|https://www.oles.tv/videos/91fm/__archive/20260501020000.mp3</guid>
     </item>
     <item>
@@ -968,7 +968,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>01/05/2026</programDate>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|01/05/2026|https://www.oles.tv/videos/91fm/__archive/20260501030000.mp3</guid>
     </item>
     <item>
@@ -978,7 +978,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/04/2026|https://www.oles.tv/videos/91fm/__archive/20260424000000.mp3</guid>
     </item>
     <item>
@@ -988,7 +988,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/04/2026|https://www.oles.tv/videos/91fm/__archive/20260424010000.mp3</guid>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/04/2026|https://www.oles.tv/videos/91fm/__archive/20260424020000.mp3</guid>
     </item>
     <item>
@@ -1008,7 +1008,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|24/04/2026|https://www.oles.tv/videos/91fm/__archive/20260424030000.mp3</guid>
     </item>
     <item>
@@ -1018,7 +1018,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>17/04/2026</programDate>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/04/2026|https://www.oles.tv/videos/91fm/__archive/20260417000000.mp3</guid>
     </item>
     <item>
@@ -1028,7 +1028,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>17/04/2026</programDate>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/04/2026|https://www.oles.tv/videos/91fm/__archive/20260417010000.mp3</guid>
     </item>
     <item>
@@ -1038,7 +1038,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>17/04/2026</programDate>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/04/2026|https://www.oles.tv/videos/91fm/__archive/20260417020000.mp3</guid>
     </item>
     <item>
@@ -1048,7 +1048,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>17/04/2026</programDate>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|17/04/2026|https://www.oles.tv/videos/91fm/__archive/20260417030000.mp3</guid>
     </item>
     <item>
@@ -1058,7 +1058,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>10/04/2026</programDate>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/04/2026|https://www.oles.tv/videos/91fm/__archive/20260410000000.mp3</guid>
     </item>
     <item>
@@ -1068,7 +1068,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>10/04/2026</programDate>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/04/2026|https://www.oles.tv/videos/91fm/__archive/20260410010000.mp3</guid>
     </item>
     <item>
@@ -1078,7 +1078,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>10/04/2026</programDate>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/04/2026|https://www.oles.tv/videos/91fm/__archive/20260410020000.mp3</guid>
     </item>
     <item>
@@ -1088,7 +1088,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>10/04/2026</programDate>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|10/04/2026|https://www.oles.tv/videos/91fm/__archive/20260410030000.mp3</guid>
     </item>
     <item>
@@ -1098,7 +1098,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>03/04/2026</programDate>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/04/2026|https://www.oles.tv/videos/91fm/__archive/20260403000000.mp3</guid>
     </item>
     <item>
@@ -1108,7 +1108,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>03/04/2026</programDate>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/04/2026|https://www.oles.tv/videos/91fm/__archive/20260403010000.mp3</guid>
     </item>
     <item>
@@ -1118,7 +1118,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>03/04/2026</programDate>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/04/2026|https://www.oles.tv/videos/91fm/__archive/20260403020000.mp3</guid>
     </item>
     <item>
@@ -1128,7 +1128,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>03/04/2026</programDate>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|03/04/2026|https://www.oles.tv/videos/91fm/__archive/20260403030000.mp3</guid>
     </item>
     <item>
@@ -1138,7 +1138,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>27/03/2026</programDate>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/03/2026|https://www.oles.tv/videos/91fm/__archive/20260327000000.mp3</guid>
     </item>
     <item>
@@ -1148,7 +1148,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>27/03/2026</programDate>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/03/2026|https://www.oles.tv/videos/91fm/__archive/20260327010000.mp3</guid>
     </item>
     <item>
@@ -1158,7 +1158,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>27/03/2026</programDate>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/03/2026|https://www.oles.tv/videos/91fm/__archive/20260327030000.mp3</guid>
     </item>
     <item>
@@ -1168,7 +1168,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>20/03/2026</programDate>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/03/2026|https://www.oles.tv/videos/91fm/__archive/20260320000000.mp3</guid>
     </item>
     <item>
@@ -1178,7 +1178,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>20/03/2026</programDate>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/03/2026|https://www.oles.tv/videos/91fm/__archive/20260320010000.mp3</guid>
     </item>
     <item>
@@ -1188,7 +1188,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>20/03/2026</programDate>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/03/2026|https://www.oles.tv/videos/91fm/__archive/20260320020000.mp3</guid>
     </item>
     <item>
@@ -1198,7 +1198,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>20/03/2026</programDate>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/03/2026|https://www.oles.tv/videos/91fm/__archive/20260320030000.mp3</guid>
     </item>
     <item>
@@ -1208,7 +1208,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>13/03/2026</programDate>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/03/2026|https://www.oles.tv/videos/91fm/__archive/20260313000000.mp3</guid>
     </item>
     <item>
@@ -1218,7 +1218,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>13/03/2026</programDate>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/03/2026|https://www.oles.tv/videos/91fm/__archive/20260313010000.mp3</guid>
     </item>
     <item>
@@ -1228,7 +1228,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>13/03/2026</programDate>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/03/2026|https://www.oles.tv/videos/91fm/__archive/20260313020000.mp3</guid>
     </item>
     <item>
@@ -1238,7 +1238,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>13/03/2026</programDate>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/03/2026|https://www.oles.tv/videos/91fm/__archive/20260313030000.mp3</guid>
     </item>
     <item>
@@ -1248,7 +1248,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>06/03/2026</programDate>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/03/2026|https://www.oles.tv/videos/91fm/__archive/20260306000000.mp3</guid>
     </item>
     <item>
@@ -1258,7 +1258,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>06/03/2026</programDate>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/03/2026|https://www.oles.tv/videos/91fm/__archive/20260306010000.mp3</guid>
     </item>
     <item>
@@ -1268,7 +1268,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>06/03/2026</programDate>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/03/2026|https://www.oles.tv/videos/91fm/__archive/20260306020000.mp3</guid>
     </item>
     <item>
@@ -1278,7 +1278,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>06/03/2026</programDate>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/03/2026|https://www.oles.tv/videos/91fm/__archive/20260306030000.mp3</guid>
     </item>
     <item>
@@ -1288,7 +1288,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>27/02/2026</programDate>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/02/2026|https://www.oles.tv/videos/91fm/__archive/20260227000000.mp3</guid>
     </item>
     <item>
@@ -1298,7 +1298,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>27/02/2026</programDate>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/02/2026|https://www.oles.tv/videos/91fm/__archive/20260227010000.mp3</guid>
     </item>
     <item>
@@ -1308,7 +1308,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>27/02/2026</programDate>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/02/2026|https://www.oles.tv/videos/91fm/__archive/20260227020000.mp3</guid>
     </item>
     <item>
@@ -1318,7 +1318,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>27/02/2026</programDate>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|27/02/2026|https://www.oles.tv/videos/91fm/__archive/20260227030000.mp3</guid>
     </item>
     <item>
@@ -1328,7 +1328,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>20/02/2026</programDate>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/02/2026|https://www.oles.tv/videos/91fm/__archive/20260220000000.mp3</guid>
     </item>
     <item>
@@ -1338,7 +1338,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>20/02/2026</programDate>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/02/2026|https://www.oles.tv/videos/91fm/__archive/20260220010000.mp3</guid>
     </item>
     <item>
@@ -1348,7 +1348,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>20/02/2026</programDate>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/02/2026|https://www.oles.tv/videos/91fm/__archive/20260220020000.mp3</guid>
     </item>
     <item>
@@ -1358,7 +1358,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>20/02/2026</programDate>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|20/02/2026|https://www.oles.tv/videos/91fm/__archive/20260220030000.mp3</guid>
     </item>
     <item>
@@ -1368,7 +1368,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>13/02/2026</programDate>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/02/2026|https://www.oles.tv/videos/91fm/__archive/20260213000000.mp3</guid>
     </item>
     <item>
@@ -1378,7 +1378,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>13/02/2026</programDate>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/02/2026|https://www.oles.tv/videos/91fm/__archive/20260213010000.mp3</guid>
     </item>
     <item>
@@ -1388,7 +1388,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>13/02/2026</programDate>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/02/2026|https://www.oles.tv/videos/91fm/__archive/20260213020000.mp3</guid>
     </item>
     <item>
@@ -1398,7 +1398,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>13/02/2026</programDate>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|13/02/2026|https://www.oles.tv/videos/91fm/__archive/20260213030000.mp3</guid>
     </item>
     <item>
@@ -1408,7 +1408,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>06/02/2026</programDate>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/02/2026|https://www.oles.tv/videos/91fm/__archive/20260206000000.mp3</guid>
     </item>
     <item>
@@ -1418,7 +1418,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>06/02/2026</programDate>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/02/2026|https://www.oles.tv/videos/91fm/__archive/20260206010000.mp3</guid>
     </item>
     <item>
@@ -1428,7 +1428,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>06/02/2026</programDate>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/02/2026|https://www.oles.tv/videos/91fm/__archive/20260206020000.mp3</guid>
     </item>
     <item>
@@ -1438,7 +1438,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>06/02/2026</programDate>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|06/02/2026|https://www.oles.tv/videos/91fm/__archive/20260206030000.mp3</guid>
     </item>
     <item>
@@ -1448,7 +1448,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>30/01/2026</programDate>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|30/01/2026|https://www.oles.tv/videos/91fm/__archive/20260130000000.mp3</guid>
     </item>
     <item>
@@ -1458,7 +1458,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>30/01/2026</programDate>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|30/01/2026|https://www.oles.tv/videos/91fm/__archive/20260130010000.mp3</guid>
     </item>
     <item>
@@ -1468,7 +1468,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>30/01/2026</programDate>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|30/01/2026|https://www.oles.tv/videos/91fm/__archive/20260130020000.mp3</guid>
     </item>
     <item>
@@ -1478,7 +1478,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>30/01/2026</programDate>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|30/01/2026|https://www.oles.tv/videos/91fm/__archive/20260130030000.mp3</guid>
     </item>
     <item>
@@ -1488,7 +1488,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>23/01/2026</programDate>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|23/01/2026|https://www.oles.tv/videos/91fm/__archive/20260123000000.mp3</guid>
     </item>
     <item>
@@ -1498,7 +1498,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>23/01/2026</programDate>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|23/01/2026|https://www.oles.tv/videos/91fm/__archive/20260123010000.mp3</guid>
     </item>
     <item>
@@ -1508,7 +1508,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>23/01/2026</programDate>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|23/01/2026|https://www.oles.tv/videos/91fm/__archive/20260123020000.mp3</guid>
     </item>
     <item>
@@ -1518,7 +1518,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>23/01/2026</programDate>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|23/01/2026|https://www.oles.tv/videos/91fm/__archive/20260123030000.mp3</guid>
     </item>
     <item>
@@ -1528,7 +1528,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>16/01/2026</programDate>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|16/01/2026|https://www.oles.tv/videos/91fm/__archive/20260116000000.mp3</guid>
     </item>
     <item>
@@ -1538,7 +1538,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>16/01/2026</programDate>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|16/01/2026|https://www.oles.tv/videos/91fm/__archive/20260116010000.mp3</guid>
     </item>
     <item>
@@ -1548,7 +1548,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>16/01/2026</programDate>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|16/01/2026|https://www.oles.tv/videos/91fm/__archive/20260116020000.mp3</guid>
     </item>
     <item>
@@ -1558,7 +1558,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>16/01/2026</programDate>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|16/01/2026|https://www.oles.tv/videos/91fm/__archive/20260116030000.mp3</guid>
     </item>
     <item>
@@ -1568,7 +1568,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>09/01/2026</programDate>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/01/2026|https://www.oles.tv/videos/91fm/__archive/20260109000000.mp3</guid>
     </item>
     <item>
@@ -1578,7 +1578,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>09/01/2026</programDate>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/01/2026|https://www.oles.tv/videos/91fm/__archive/20260109010000.mp3</guid>
     </item>
     <item>
@@ -1588,7 +1588,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>09/01/2026</programDate>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/01/2026|https://www.oles.tv/videos/91fm/__archive/20260109020000.mp3</guid>
     </item>
     <item>
@@ -1598,7 +1598,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>09/01/2026</programDate>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|09/01/2026|https://www.oles.tv/videos/91fm/__archive/20260109030000.mp3</guid>
     </item>
     <item>
@@ -1608,7 +1608,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>02/01/2026</programDate>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/01/2026|https://www.oles.tv/videos/91fm/__archive/20260102000000.mp3</guid>
     </item>
     <item>
@@ -1618,7 +1618,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>02/01/2026</programDate>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/01/2026|https://www.oles.tv/videos/91fm/__archive/20260102010000.mp3</guid>
     </item>
     <item>
@@ -1628,7 +1628,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>02/01/2026</programDate>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/01/2026|https://www.oles.tv/videos/91fm/__archive/20260102020000.mp3</guid>
     </item>
     <item>
@@ -1638,7 +1638,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>02/01/2026</programDate>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|02/01/2026|https://www.oles.tv/videos/91fm/__archive/20260102030000.mp3</guid>
     </item>
     <item>
@@ -1648,7 +1648,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>26/12/2025</programDate>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/12/2025|https://www.oles.tv/videos/91fm/__archive/20251226000000.mp3</guid>
     </item>
     <item>
@@ -1658,7 +1658,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>26/12/2025</programDate>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/12/2025|https://www.oles.tv/videos/91fm/__archive/20251226010000.mp3</guid>
     </item>
     <item>
@@ -1668,7 +1668,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>26/12/2025</programDate>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/12/2025|https://www.oles.tv/videos/91fm/__archive/20251226020000.mp3</guid>
     </item>
     <item>
@@ -1678,7 +1678,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>26/12/2025</programDate>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|26/12/2025|https://www.oles.tv/videos/91fm/__archive/20251226030000.mp3</guid>
     </item>
     <item>
@@ -1688,7 +1688,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>19/12/2025</programDate>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/12/2025|https://www.oles.tv/videos/91fm/__archive/20251219000000.mp3</guid>
     </item>
     <item>
@@ -1698,7 +1698,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>19/12/2025</programDate>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/12/2025|https://www.oles.tv/videos/91fm/__archive/20251219010000.mp3</guid>
     </item>
     <item>
@@ -1708,7 +1708,7 @@
       <description>עברי מהלב ~ שעה 3</description>
       <programDate>19/12/2025</programDate>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/12/2025|https://www.oles.tv/videos/91fm/__archive/20251219020000.mp3</guid>
     </item>
     <item>
@@ -1718,7 +1718,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>19/12/2025</programDate>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|19/12/2025|https://www.oles.tv/videos/91fm/__archive/20251219030000.mp3</guid>
     </item>
     <item>
@@ -1728,7 +1728,7 @@
       <description>עברי מהלב ~ שעה 1</description>
       <programDate>12/12/2025</programDate>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/12/2025|https://www.oles.tv/videos/91fm/__archive/20251212000000.mp3</guid>
     </item>
     <item>
@@ -1738,7 +1738,7 @@
       <description>עברי מהלב ~ שעה 2</description>
       <programDate>12/12/2025</programDate>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/12/2025|https://www.oles.tv/videos/91fm/__archive/20251212010000.mp3</guid>
     </item>
     <item>
@@ -1748,7 +1748,7 @@
       <description>עברי מהלב ~ שעה 4</description>
       <programDate>12/12/2025</programDate>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" />
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fccb45feb6044f4c718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">321|13|12/12/2025|https://www.oles.tv/videos/91fm/__archive/20251212030000.mp3</guid>
     </item>
   </channel>
