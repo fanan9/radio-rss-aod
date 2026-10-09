@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו ECO 99FM | מצעדים eco</title>
     <description>Programs from רדיו ECO 99FM, show: מצעדים eco</description>
     <link>https://99sets.livecdn.biz/99sets/bands_special/karaoke_chart_2026_hsaut_spring.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://eco99fm.maariv.co.il/download/Sets/pictures/karaoke_chart_2026_hsaut_spring.jpg</url>
       <title>רדיו ECO 99FM | מצעדים eco</title>
@@ -18,7 +18,7 @@
       <description>מצעדים eco</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/karaoke_chart_2026_hsaut_spring.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/karaoke_chart_2026_hsaut_spring.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|11/09/2026|https://99sets.livecdn.biz/99sets/bands_special/karaoke_chart_2026_hsaut_spring.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>מצעדים eco</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_bruno_mars2_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_bruno_mars2_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|03/07/2026|https://99sets.livecdn.biz/99sets/bands_special/chart_bruno_mars_2026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>מצעדים eco</description>
       <programDate>28/11/2025</programDate>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/chart_radiohead_2025.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/chart_radiohead_2025.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|28/11/2025|https://99sets.livecdn.biz/99sets/bands_special/chart_radiohead_2025.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>מצעדים eco</description>
       <programDate>30/10/2025</programDate>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/ppe.jpeg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/ppe.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|30/10/2025|https://99sets.livecdn.biz/99sets/bands_special/speciel_mtv_unplugged_2025_omri.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>מצעדים eco</description>
       <programDate>01/01/2025</programDate>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/openingddd.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/openingddd.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/01/2025|https://99sets.livecdn.biz/99sets/bands_special/opening_songs_2025_04_mor_gelfand.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>מצעדים eco</description>
       <programDate>01/01/2025</programDate>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/opening_songs_2025_03_omri_ronen.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/opening_songs_2025_03_omri_ronen.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/01/2025|https://99sets.livecdn.biz/99sets/bands_special/opening_songs_2025_03_omri_ronen.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>מצעדים eco</description>
       <programDate>01/01/2025</programDate>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/opening_songs_2025_02_steli_and_boaz_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/opening_songs_2025_02_steli_and_boaz_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/01/2025|https://99sets.livecdn.biz/99sets/bands_special/opening_songs_2025_02_steli_and_boaz.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>מצעדים eco</description>
       <programDate>01/01/2025</programDate>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/meytalandidan2_copy_3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/meytalandidan2_copy_3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/01/2025|https://99sets.livecdn.biz/99sets/bands_special/opening_songs_2025_01_meital_and_idan2.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>מצעדים eco</description>
       <programDate>15/09/2023</programDate>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/chart_rosh_hashanahnana_2023_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/chart_rosh_hashanahnana_2023_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|15/09/2023|https://99sets.livecdn.biz/99sets/bands_special/special_chart_rosh_hashanahnana_2023b.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>מצעדים eco</description>
       <programDate>01/08/2023</programDate>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_gift_card.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_gift_card.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/08/2023|https://99sets.livecdn.biz/99sets/bands_special/special_songs_nanana_lalala_04_hasut_gift_card.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>מצעדים eco</description>
       <programDate>01/08/2023</programDate>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_gift_card_copy_3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_gift_card_copy_3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/08/2023|https://99sets.livecdn.biz/99sets/bands_special/special_songs_nanana_lalala_03_hasut_gift_card.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>מצעדים eco</description>
       <programDate>01/08/2023</programDate>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_travel_copy_4.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_travel_copy_4.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/08/2023|https://99sets.livecdn.biz/99sets/bands_special/special_songs_nanana_lalala_05_hasut_shufersal_travel.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>מצעדים eco</description>
       <programDate>01/08/2023</programDate>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_travel_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_travel_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/08/2023|https://99sets.livecdn.biz/99sets/bands_special/special_songs_nanana_lalala_02_hasut_shufersal_travel.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>מצעדים eco</description>
       <programDate>01/08/2023</programDate>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_travel.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/shufersal_travel.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|01/08/2023|https://99sets.livecdn.biz/99sets/bands_special/special_songs_nanana_lalala_01_hasut_shufersal_travel.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>מצעדים eco</description>
       <programDate>14/02/2023</programDate>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/bordo.JPG" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/bordo.JPG" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|14/02/2023|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2023_kitsch_songs_part_02.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>מצעדים eco</description>
       <programDate>14/02/2023</programDate>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/ido.jpeg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/ido.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|14/02/2023|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2023_kitsch_songs_part_01.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>מצעדים eco</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_annual_part02_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_annual_part02_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/12/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2022_annual_part02.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>מצעדים eco</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_annual_part01_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_annual_part01_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/12/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2022_annual_part01.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>מצעדים eco</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_itai_galo_a.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_itai_galo_a.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/12/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2022_itai_galo.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>מצעדים eco</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_best_songs03.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_best_songs03.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/12/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2022_best_songs.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>מצעדים eco</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_men_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_men_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/12/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2022_men.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>מצעדים eco</description>
       <programDate>29/12/2022</programDate>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_women2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_2022_women2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/12/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_2022_women.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>מצעדים eco</description>
       <programDate>24/03/2022</programDate>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_rita_2022.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_rita_2022.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|24/03/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_rita_2022.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>מצעדים eco</description>
       <programDate>03/03/2022</programDate>
       <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_bon_jovi_2022.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_bon_jovi_2022.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|03/03/2022|https://99sets.livecdn.biz/99sets/bands_special/special_charts_bon_jovi_2022.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>מצעדים eco</description>
       <programDate>30/12/2021</programDate>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_annual_chart_2021.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_annual_chart_2021.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|30/12/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_annual_chart_2021.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>מצעדים eco</description>
       <programDate>27/11/2021</programDate>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_queen2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_queen2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|27/11/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_queen.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>מצעדים eco</description>
       <programDate>02/09/2021</programDate>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_beyonce_2021b.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_beyonce_2021b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|02/09/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_beyonce_2021.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>מצעדים eco</description>
       <programDate>06/08/2021</programDate>
       <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_red_hot_chili_peppers3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_red_hot_chili_peppers3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|06/08/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_91_red_hot_chili_peppers.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>מצעדים eco</description>
       <programDate>05/08/2021</programDate>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_rem.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_rem.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|05/08/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_91_rem.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>מצעדים eco</description>
       <programDate>30/07/2021</programDate>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_u2_02_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_u2_02_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|30/07/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_91_u2.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>מצעדים eco</description>
       <programDate>29/07/2021</programDate>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_pearl_jam_and_metallica_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_pearl_jam_and_metallica_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|29/07/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_91_pearl_jam_and_metallica.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>מצעדים eco</description>
       <programDate>24/07/2021</programDate>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/allefvinicius.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/allefvinicius.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|24/07/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_91_guns_n_roses.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>מצעדים eco</description>
       <programDate>16/07/2021</programDate>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_nirvana_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_charts_91_nirvana_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|16/07/2021|https://99sets.livecdn.biz/99sets/bands_special/special_charts_91_nirvana.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>מצעדים eco</description>
       <programDate>15/04/2021</programDate>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_Israel_great_duets_2021.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_Israel_great_duets_2021.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|15/04/2021|https://99sets.livecdn.biz/99sets/bands_special/special_Israel_great_duets_2021.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>מצעדים eco</description>
       <programDate>28/02/2021</programDate>
       <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_purim_2021_chart_the_worst_songs.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_purim_2021_chart_the_worst_songs.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|28/02/2021|https://99sets.livecdn.biz/99sets/bands_special/special_purim_2021_chart_the_worst_songs.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>מצעדים eco</description>
       <programDate>31/12/2020</programDate>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_annual_chart_2020_sofi.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/special_annual_chart_2020_sofi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|31/12/2020|https://99sets.livecdn.biz/99sets/bands_special/special_annual_chart_2020_sofi2.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>מצעדים eco</description>
       <programDate>10/07/2020</programDate>
       <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/cold2_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/cold2_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">362|14|10/07/2020|https://99sets.livecdn.biz/99sets/bands_special/special_coldplay_20_years.mp3</guid>
     </item>
   </channel>
