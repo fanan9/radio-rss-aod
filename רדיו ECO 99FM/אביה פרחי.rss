@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו ECO 99FM | אביה פרחי</title>
     <description>Programs from רדיו ECO 99FM, show: אביה פרחי</description>
     <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_100926.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg</url>
       <title>רדיו ECO 99FM | אביה פרחי</title>
@@ -18,7 +18,7 @@
       <description>אביה פרחי</description>
       <programDate>10/09/2026</programDate>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|10/09/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_100926.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>אביה פרחי</description>
       <programDate>03/09/2026</programDate>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|03/09/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_030926.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>אביה פרחי</description>
       <programDate>27/08/2026</programDate>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|27/08/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_270826.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>אביה פרחי</description>
       <programDate>13/08/2026</programDate>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|13/08/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_130826.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>אביה פרחי</description>
       <programDate>06/08/2026</programDate>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|06/08/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_060826.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>אביה פרחי</description>
       <programDate>30/07/2026</programDate>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|30/07/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_300726.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>אביה פרחי</description>
       <programDate>23/07/2026</programDate>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|23/07/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_230726.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>אביה פרחי</description>
       <programDate>09/07/2026</programDate>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|09/07/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_090726.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>אביה פרחי</description>
       <programDate>02/07/2026</programDate>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|02/07/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_020726.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>אביה פרחי</description>
       <programDate>25/06/2026</programDate>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|25/06/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_250626.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>אביה פרחי</description>
       <programDate>18/06/2026</programDate>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|18/06/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_180626.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>אביה פרחי</description>
       <programDate>11/06/2026</programDate>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|11/06/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_110626.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>אביה פרחי</description>
       <programDate>04/06/2026</programDate>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|04/06/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_040626.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>אביה פרחי</description>
       <programDate>28/05/2026</programDate>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|28/05/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_280526.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>אביה פרחי</description>
       <programDate>14/05/2026</programDate>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|14/05/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_140526.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>אביה פרחי</description>
       <programDate>07/05/2026</programDate>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|07/05/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_070526.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>אביה פרחי</description>
       <programDate>30/04/2026</programDate>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|30/04/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_300426.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>אביה פרחי</description>
       <programDate>23/04/2026</programDate>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|23/04/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_230426.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>אביה פרחי</description>
       <programDate>16/04/2026</programDate>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|16/04/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_160426.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>אביה פרחי</description>
       <programDate>26/02/2026</programDate>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|26/02/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_260226.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>אביה פרחי</description>
       <programDate>12/02/2026</programDate>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|12/02/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_120226.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>אביה פרחי</description>
       <programDate>05/02/2026</programDate>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|05/02/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_050226.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>אביה פרחי</description>
       <programDate>29/01/2026</programDate>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|29/01/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_290126.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>אביה פרחי</description>
       <programDate>22/01/2026</programDate>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|22/01/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_220126.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>אביה פרחי</description>
       <programDate>15/01/2026</programDate>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|15/01/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_150126.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>אביה פרחי</description>
       <programDate>08/01/2026</programDate>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|08/01/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_080126.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>אביה פרחי</description>
       <programDate>25/12/2025</programDate>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|25/12/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_251225.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>אביה פרחי</description>
       <programDate>18/12/2025</programDate>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|18/12/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_181225.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>אביה פרחי</description>
       <programDate>11/12/2025</programDate>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|11/12/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_111225.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>אביה פרחי</description>
       <programDate>04/12/2025</programDate>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|04/12/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_041225.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>אביה פרחי</description>
       <programDate>20/11/2025</programDate>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|20/11/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_201125.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>אביה פרחי</description>
       <programDate>13/11/2025</programDate>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|13/11/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_131125.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>אביה פרחי</description>
       <programDate>06/11/2025</programDate>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|06/11/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_061125.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>אביה פרחי</description>
       <programDate>29/10/2025</programDate>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|29/10/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_301025.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>אביה פרחי</description>
       <programDate>01/10/2025</programDate>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|01/10/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_231025.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>אביה פרחי</description>
       <programDate>05/09/2025</programDate>
       <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|05/09/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_180925.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>אביה פרחי</description>
       <programDate>27/08/2025</programDate>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|27/08/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_110925.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>אביה פרחי</description>
       <programDate>20/08/2025</programDate>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|20/08/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_040925.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>אביה פרחי</description>
       <programDate>13/08/2025</programDate>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|13/08/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_210825.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>אביה פרחי</description>
       <programDate>06/08/2025</programDate>
       <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|06/08/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_140825.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>אביה פרחי</description>
       <programDate>31/07/2025</programDate>
       <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|31/07/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_070825.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>אביה פרחי</description>
       <programDate>24/07/2025</programDate>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|24/07/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_310725.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>אביה פרחי</description>
       <programDate>09/07/2025</programDate>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|09/07/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_170725.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>אביה פרחי</description>
       <programDate>26/06/2025</programDate>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|26/06/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_100725.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>אביה פרחי</description>
       <programDate>19/06/2025</programDate>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|19/06/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_030725.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>אביה פרחי</description>
       <programDate>12/06/2025</programDate>
       <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|12/06/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_260625.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>אביה פרחי</description>
       <programDate>20/05/2025</programDate>
       <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_5.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_5.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|20/05/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_050625.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>אביה פרחי</description>
       <programDate>13/05/2025</programDate>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_8.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_8.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|13/05/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_290525b.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>אביה פרחי</description>
       <programDate>13/05/2025</programDate>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_5.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_5.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|13/05/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_120625.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>אביה פרחי</description>
       <programDate>06/05/2025</programDate>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_5.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_5.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|06/05/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_220525.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>אביה פרחי</description>
       <programDate>29/04/2025</programDate>
       <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|29/04/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_150525.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>אביה פרחי</description>
       <programDate>23/04/2025</programDate>
       <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">352|14|23/04/2025|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_080525.mp3</guid>
     </item>
   </channel>
