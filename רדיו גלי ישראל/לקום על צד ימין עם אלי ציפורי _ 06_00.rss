@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | לקום על צד ימין עם אלי ציפורי | 06:00</title>
     <description>Programs from רדיו גלי ישראל, show: לקום על צד ימין עם אלי ציפורי | 06:00</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum071026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg</url>
       <title>רדיו גלי ישראל | לקום על צד ימין עם אלי ציפורי | 06:00</title>
@@ -18,7 +18,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 07.10.2026</description>
       <programDate>07/10/2026</programDate>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|07/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum071026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 06.10.2026</description>
       <programDate>06/10/2026</programDate>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|06/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum061026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 05.10.2026</description>
       <programDate>05/10/2026</programDate>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|05/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum051026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 04.10.2026</description>
       <programDate>04/10/2026</programDate>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|04/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum041026.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 30.09.2026</description>
       <programDate>30/09/2026</programDate>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|30/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum300926.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 29.09.2026</description>
       <programDate>29/09/2026</programDate>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|29/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum290926.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 28.09.2026</description>
       <programDate>28/09/2026</programDate>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/2b9bf746-6443-41a2-b4f7-1ed513889a80.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|28/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/eli28092026.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 27.09.2026</description>
       <programDate>27/09/2026</programDate>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|27/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/eli27092026.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 23.09.2026</description>
       <programDate>23/09/2026</programDate>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|23/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum220926.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 22.09.2026</description>
       <programDate>22/09/2026</programDate>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|22/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yemiv22092026.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 20.09.2026</description>
       <programDate>20/09/2026</programDate>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|20/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum200926.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 16.09.2026</description>
       <programDate>16/09/2026</programDate>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|16/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum160926.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 15.09.2026</description>
       <programDate>15/09/2026</programDate>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|15/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum150926.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 14.09.2026</description>
       <programDate>14/09/2026</programDate>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|14/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum140926.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 09.09.2026</description>
       <programDate>09/09/2026</programDate>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|09/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum090926.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 08.09.2026</description>
       <programDate>08/09/2026</programDate>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|08/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum080926.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 07.09.2026</description>
       <programDate>07/09/2026</programDate>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|07/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum070926.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 06.09.2026</description>
       <programDate>06/09/2026</programDate>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|06/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum060926.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 02.09.2026</description>
       <programDate>02/09/2026</programDate>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|02/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/eli02092026.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 01.09.2026</description>
       <programDate>01/09/2026</programDate>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|01/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum010926.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 31.08.2026</description>
       <programDate>31/08/2026</programDate>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|31/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum310826.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 30.08.2026</description>
       <programDate>30/08/2026</programDate>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|30/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum300826.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 26.08.2026</description>
       <programDate>26/08/2026</programDate>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|26/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum260826.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 25.08.2026</description>
       <programDate>25/08/2026</programDate>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|25/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum250826.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 23.08.2026</description>
       <programDate>23/08/2026</programDate>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|23/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum230826.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 19.08.2026</description>
       <programDate>19/08/2026</programDate>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|19/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum190826.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 18.08.2026</description>
       <programDate>18/08/2026</programDate>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|18/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum180826.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 17.08.2026</description>
       <programDate>17/08/2026</programDate>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|17/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum170826.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 16.08.2026</description>
       <programDate>16/08/2026</programDate>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|16/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum160826.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 12.08.2026</description>
       <programDate>12/08/2026</programDate>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|12/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum120826.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 11.08.2026</description>
       <programDate>11/08/2026</programDate>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|11/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum110826.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 10.08.2026</description>
       <programDate>10/08/2026</programDate>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|10/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum100826.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 09.08.2026</description>
       <programDate>09/08/2026</programDate>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|09/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum090826.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>לקום על צד ימין עם אלי ציפורי | 06:00 ~ 05.08.2026</description>
       <programDate>05/08/2026</programDate>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f50d7011-9ed3-4fcf-baf5-4197af48a2d8.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">384|15|05/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lakum050826.mp3</guid>
     </item>
   </channel>
