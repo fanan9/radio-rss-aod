@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו תל אביב 102FM | דני וידיסלבסקי</title>
     <description>Programs from רדיו תל אביב 102FM, show: דני וידיסלבסקי</description>
     <link>https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED790D7-6931e167.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:04 +0000</lastBuildDate>
     <image>
       <url>https://fm102-recordings.s3.amazonaws.com/images/1764876649959__________.jpg</url>
       <title>רדיו תל אביב 102FM | דני וידיסלבסקי</title>
@@ -18,7 +18,7 @@
       <description>דני וידיסלבסקי ~ 04-12-2025 | 21:31</description>
       <programDate>04/12/2025</programDate>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1764876649959__________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1764876649959__________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|04/12/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED790D7-6931e167.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>דני וידיסלבסקי ~ 27-11-2025 | 21:48</description>
       <programDate>27/11/2025</programDate>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1764272829751_1763666479426_1763063045938______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1764272829751_1763666479426_1763063045938______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|27/11/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED79CD7-6928aabc.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>דני וידיסלבסקי ~ 20-11-2025 | 21:23</description>
       <programDate>20/11/2025</programDate>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1763666556157_1763063045938______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1763666556157_1763063045938______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|20/11/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED79CD7-691f6a7b.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>דני וידיסלבסקי ~ 13-11-2025 | 21:40</description>
       <programDate>13/11/2025</programDate>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1763062906990______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1763062906990______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|13/11/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED79CD7-69163478.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>דני וידיסלבסקי ~ 06-11-2025 | 21:26</description>
       <programDate>06/11/2025</programDate>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1762457121578_1758220991978______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1762457121578_1758220991978______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|06/11/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED790D7-690cf620.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>דני וידיסלבסקי ~ 18-09-2025 | 20:44</description>
       <programDate>18/09/2025</programDate>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1758220991978______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1758220991978______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|18/09/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED79CD7-68cc52be.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>דני וידיסלבסקי ~ 11-09-2025 | 20:17</description>
       <programDate>11/09/2025</programDate>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1757614598680__________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1757614598680__________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|11/09/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED790D7-68c31204.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>דני וידיסלבסקי ~ 04-09-2025 | 20:23</description>
       <programDate>04/09/2025</programDate>
       <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1757010289293__________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1757010289293__________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|04/09/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED790D7-68b9d96e.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>דני וידיסלבסקי ~ 14-08-2025 | 20:02</description>
       <programDate>14/08/2025</programDate>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1755194468430__________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1755194468430__________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|14/08/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED79CD7-689e245f.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>דני וידיסלבסקי ~ 07-08-2025 | 20:25</description>
       <programDate>07/08/2025</programDate>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1754591081657_688bb68fd9241ab99a23d61d.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1754591081657_688bb68fd9241ab99a23d61d.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|07/08/2025|https://podcast.go77.link/102fm/MONEYTIME2/4343-D79ED790D7-6894ef67.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>דני וידיסלבסקי ~ 30-07-2025 | 23:00</description>
       <programDate>30/07/2025</programDate>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/688bb57ad9241ab99a23d611.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/688bb57ad9241ab99a23d611.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|30/07/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/688bb57ad9241ab99a23d611.46434.a.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>דני וידיסלבסקי ~ 23-07-2025 | 23:00</description>
       <programDate>23/07/2025</programDate>
       <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6882796c78720a51c2ee29d3.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6882796c78720a51c2ee29d3.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|23/07/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6882796c78720a51c2ee29d3.46434.a.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>דני וידיסלבסקי ~ 16-07-2025 | 23:00</description>
       <programDate>16/07/2025</programDate>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/68793ea40619bef3c37fb199.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/68793ea40619bef3c37fb199.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|16/07/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/68793ea40619bef3c37fb199.46434.a.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>דני וידיסלבסקי ~ 09-07-2025 | 23:00</description>
       <programDate>09/07/2025</programDate>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/68700414ee32577497c21fb5.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/68700414ee32577497c21fb5.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|09/07/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/68700414ee32577497c21fb5.46434.a.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>דני וידיסלבסקי ~ 02-07-2025 | 23:00</description>
       <programDate>02/07/2025</programDate>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6866cccd0d5b7c7bec0bf65f.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6866cccd0d5b7c7bec0bf65f.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|02/07/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6866cccd0d5b7c7bec0bf65f.46434.a.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>דני וידיסלבסקי ~ 25-06-2025 | 23:00</description>
       <programDate>25/06/2025</programDate>
       <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/685d8deb9402bf7aed2d2294.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/685d8deb9402bf7aed2d2294.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|25/06/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/685d8deb9402bf7aed2d2294.46434.a.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>דני וידיסלבסקי ~ 11-06-2025 | 23:00</description>
       <programDate>11/06/2025</programDate>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/684b19a1897252517c6b3f49.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/684b19a1897252517c6b3f49.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|11/06/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/684b19a1897252517c6b3f49.46434.a.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>דני וידיסלבסקי ~ 28-05-2025 | 23:00</description>
       <programDate>28/05/2025</programDate>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6838aa25010ddd167d2fd6c4.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6838aa25010ddd167d2fd6c4.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|28/05/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6838aa25010ddd167d2fd6c4.46434.a.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>דני וידיסלבסקי ~ 21-05-2025 | 23:00</description>
       <programDate>21/05/2025</programDate>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/682f6ac8e9369aee7b31c80c.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/682f6ac8e9369aee7b31c80c.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|21/05/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/682f6ac8e9369aee7b31c80c.46434.a.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>דני וידיסלבסקי ~ 14-05-2025 | 23:00</description>
       <programDate>14/05/2025</programDate>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/682635aa430bf0e97517e344.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/682635aa430bf0e97517e344.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|14/05/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/682635aa430bf0e97517e344.46434.a.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>דני וידיסלבסקי ~ 09-04-2025 | 23:00</description>
       <programDate>09/04/2025</programDate>
       <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67f80b447334208fe1c26ff2.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67f80b447334208fe1c26ff2.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|09/04/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67f80b447334208fe1c26ff2.46434.a.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>דני וידיסלבסקי ~ 02-04-2025 | 23:00</description>
       <programDate>02/04/2025</programDate>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67eed440623b427384e16fd4.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67eed440623b427384e16fd4.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|02/04/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67eed440623b427384e16fd4.46434.a.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>דני וידיסלבסקי ~ 20-03-2025 | 00:00</description>
       <programDate>20/03/2025</programDate>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67dc68e5954f8e9e0a9f820d.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67dc68e5954f8e9e0a9f820d.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|20/03/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67dc68e5954f8e9e0a9f820d.46434.a.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>דני וידיסלבסקי ~ 13-03-2025 | 00:00</description>
       <programDate>13/03/2025</programDate>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67d33193dd3a36487d7a92bc.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67d33193dd3a36487d7a92bc.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|13/03/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67d33193dd3a36487d7a92bc.46434.a.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>דני וידיסלבסקי ~ 06-03-2025 | 00:00</description>
       <programDate>06/03/2025</programDate>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67c9f856f42e8e5db3b8008c.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67c9f856f42e8e5db3b8008c.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|06/03/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67c9f856f42e8e5db3b8008c.46434.a.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>דני וידיסלבסקי ~ 27-02-2025 | 00:00</description>
       <programDate>27/02/2025</programDate>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67c0bdce7c2415969ff7c9e3.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67c0bdce7c2415969ff7c9e3.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|27/02/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67c0bdce7c2415969ff7c9e3.46434.a.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>דני וידיסלבסקי ~ 13-02-2025 | 00:00</description>
       <programDate>13/02/2025</programDate>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67ae455e013999695bab7a55.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67ae455e013999695bab7a55.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|13/02/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67ae455e013999695bab7a55.46434.a.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>דני וידיסלבסקי ~ 06-02-2025 | 00:00</description>
       <programDate>06/02/2025</programDate>
       <pubDate>Thu, 06 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67a50fc63710f1b46900377d.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67a50fc63710f1b46900377d.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|06/02/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67a50fc63710f1b46900377d.46434.a.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>דני וידיסלבסקי ~ 01-02-2025 | 00:00</description>
       <programDate>01/02/2025</programDate>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6776e58b38020f478ea5539f.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6776e58b38020f478ea5539f.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|01/02/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6776e58b38020f478ea5539f.46434.a.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>דני וידיסלבסקי ~ 30-01-2025 | 00:00</description>
       <programDate>30/01/2025</programDate>
       <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/679bb7250d01adb6b62f0f5d.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/679bb7250d01adb6b62f0f5d.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|30/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/679bb7250d01adb6b62f0f5d.46434.a.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>דני וידיסלבסקי ~ 29-01-2025 | 00:00</description>
       <programDate>29/01/2025</programDate>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6799db7d221b752be6872db0.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6799db7d221b752be6872db0.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|29/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6799db7d221b752be6872db0.46434.a.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>דני וידיסלבסקי ~ 28-01-2025 | 00:00</description>
       <programDate>28/01/2025</programDate>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6798933b4a001ac3f62f2f0c.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6798933b4a001ac3f62f2f0c.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|28/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6798933b4a001ac3f62f2f0c.46434.a.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>דני וידיסלבסקי ~ 26-01-2025 | 00:00</description>
       <programDate>26/01/2025</programDate>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6795e4dab374e8d4a9bd3910.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6795e4dab374e8d4a9bd3910.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|26/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6795e4dab374e8d4a9bd3910.46434.a.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>דני וידיסלבסקי ~ 16-01-2025 | 00:00</description>
       <programDate>16/01/2025</programDate>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67867cf8aa6f93e1e3d798f8.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67867cf8aa6f93e1e3d798f8.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|16/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/67867cf8aa6f93e1e3d798f8.46434.a.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>דני וידיסלבסקי ~ 09-01-2025 | 00:00</description>
       <programDate>09/01/2025</programDate>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677f83b6f9000b3468ce6bdb.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677f83b6f9000b3468ce6bdb.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|09/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/677f83b6f9000b3468ce6bdb.46434.a.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>דני וידיסלבסקי ~ 08-01-2025 | 00:00</description>
       <programDate>08/01/2025</programDate>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677e2e15fd7a0a42ce6e11c5.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677e2e15fd7a0a42ce6e11c5.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|08/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/677e2e15fd7a0a42ce6e11c5.46434.a.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>דני וידיסלבסקי ~ 07-01-2025 | 00:00</description>
       <programDate>07/01/2025</programDate>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677cdf3efd7a0a42ce6bb1d7.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677cdf3efd7a0a42ce6bb1d7.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|07/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/677cdf3efd7a0a42ce6bb1d7.46434.a.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>דני וידיסלבסקי ~ 06-01-2025 | 00:00</description>
       <programDate>06/01/2025</programDate>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677b8f3439524abe6c60b327.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677b8f3439524abe6c60b327.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|06/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/677b8f3439524abe6c60b327.46434.a.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>דני וידיסלבסקי ~ 05-01-2025 | 00:00</description>
       <programDate>05/01/2025</programDate>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677a3c7f9b3a5c05886325ce.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/677a3c7f9b3a5c05886325ce.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|05/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/677a3c7f9b3a5c05886325ce.46434.a.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>דני וידיסלבסקי ~ 01-01-2025 | 00:00</description>
       <programDate>01/01/2025</programDate>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6774ec8e4e01be1ad0e4a63f.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6774ec8e4e01be1ad0e4a63f.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|01/01/2025|https://files102.livecdn.biz/102/getit/MONEYTIME2/6774ec8e4e01be1ad0e4a63f.46434.a.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>דני וידיסלבסקי ~ 31-12-2024 | 00:00</description>
       <programDate>31/12/2024</programDate>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67731e46755c78c05d20c348.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/67731e46755c78c05d20c348.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|31/12/2024|https://files102.livecdn.biz/102/getit/MONEYTIME2/67731e46755c78c05d20c348.46434.a.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>דני וידיסלבסקי ~ 30-12-2024 | 00:00</description>
       <programDate>30/12/2024</programDate>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6773886e755c78c05d2180af.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6773886e755c78c05d2180af.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|30/12/2024|https://files102.livecdn.biz/102/getit/MONEYTIME2/6773886e755c78c05d2180af.46434.a.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>דני וידיסלבסקי ~ 29-12-2024 | 00:00</description>
       <programDate>29/12/2024</programDate>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6771022e83493ce6de21a3c7.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/6771022e83493ce6de21a3c7.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|29/12/2024|https://files102.livecdn.biz/102/getit/MONEYTIME2/6771022e83493ce6de21a3c7.46434.a.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>דני וידיסלבסקי ~ 26-12-2024 | 00:00</description>
       <programDate>26/12/2024</programDate>
       <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/676db429a8250933f7c18f2c.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/676db429a8250933f7c18f2c.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|26/12/2024|https://files102.livecdn.biz/102/getit/MONEYTIME2/676db429a8250933f7c18f2c.46434.a.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>דני וידיסלבסקי ~ 26-12-2024 | 00:00</description>
       <programDate>26/12/2024</programDate>
       <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/MONEYTIME2/676d0232a8250933f7c05e06.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/MONEYTIME2/676d0232a8250933f7c05e06.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">461|19|26/12/2024|https://files102.livecdn.biz/102/getit/MONEYTIME2/676d0232a8250933f7c05e06.46434.a.mp3</guid>
     </item>
   </channel>
