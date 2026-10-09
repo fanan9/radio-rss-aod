@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו תל אביב 102FM | עו_ד רועי כהן</title>
     <description>Programs from רדיו תל אביב 102FM, show: עו_ד רועי כהן</description>
     <link>https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-692f2bb3.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:04 +0000</lastBuildDate>
     <image>
       <url>https://fm102-recordings.s3.amazonaws.com/images/1764699062355______.jpg</url>
       <title>רדיו תל אביב 102FM | עו_ד רועי כהן</title>
@@ -18,7 +18,7 @@
       <description>עו_ד רועי כהן ~ 02-12-2025 | 21:00</description>
       <programDate>02/12/2025</programDate>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1764699062355______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1764699062355______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|02/12/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-692f2bb3.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>עו_ד רועי כהן ~ 25-11-2025 | 21:16</description>
       <programDate>25/11/2025</programDate>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1764098130217______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1764098130217______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|25/11/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-6926004f.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>עו_ד רועי כהן ~ 18-11-2025 | 21:18</description>
       <programDate>18/11/2025</programDate>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1763493492048___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1763493492048___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|18/11/2025|https://podcast.go77.link/102fm/INDI/4343-D7A2D7A6D7-691cc671.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>עו_ד רועי כהן ~ 11-11-2025 | 21:16</description>
       <programDate>11/11/2025</programDate>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1762888553865______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1762888553865______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|11/11/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-69138b66.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>עו_ד רועי כהן ~ 04-11-2025 | 21:17</description>
       <programDate>04/11/2025</programDate>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1762283954030___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1762283954030___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|04/11/2025|https://podcast.go77.link/102fm/INDI/4343-D7A2D7A6D7-690a51af.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>עו_ד רועי כהן ~ 21-10-2025 | 20:23</description>
       <programDate>21/10/2025</programDate>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1761070922276_1759256344950___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1761070922276_1759256344950___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|21/10/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-68f7cf49.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>עו_ד רועי כהן ~ 30-09-2025 | 20:18</description>
       <programDate>30/09/2025</programDate>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1759256303595___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1759256303595___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|30/09/2025|https://podcast.go77.link/102fm/INDI/4343-D7A2D7A6D7-68dc1eec.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>עו_ד רועי כהן ~ 16-09-2025 | 20:32</description>
       <programDate>16/09/2025</programDate>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1758047505649_1757441056074______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1758047505649_1757441056074______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|16/09/2025|https://podcast.go77.link/102fm/INDI/4343-D7A2D7A6D7-68c9ad10.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>עו_ד רועי כהן ~ 09-09-2025 | 20:03</description>
       <programDate>09/09/2025</programDate>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1757440995166______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1757440995166______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|09/09/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-68c06bc1.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>עו_ד רועי כהן ~ 02-09-2025 | 17:00</description>
       <programDate>02/09/2025</programDate>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1756835997056______.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1756835997056______.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|02/09/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-68b73097.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>עו_ד רועי כהן ~ 12-08-2025 | 20:31</description>
       <programDate>12/08/2025</programDate>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1755023414032_WhatsApp_Image_2025-08-12_at_21.05.03.jpeg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1755023414032_WhatsApp_Image_2025-08-12_at_21.05.03.jpeg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|12/08/2025|https://podcast.go77.link/102fm/INDI/4343-D79ED79CD7-689b882e.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>עו_ד רועי כהן ~ 05-08-2025 | 20:27</description>
       <programDate>05/08/2025</programDate>
       <pubDate>Tue, 05 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://fm102-recordings.s3.amazonaws.com/images/1754418399423___________.jpg" />
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1754418399423___________.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|05/08/2025|https://podcast.go77.link/102fm/INDI/4343-D7A2D7A6D7-68924cdc.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>עו_ד רועי כהן ~ 28-07-2025 | 23:00</description>
       <programDate>28/07/2025</programDate>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/688912d561641c7544bf85f3.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/688912d561641c7544bf85f3.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|28/07/2025|https://files102.livecdn.biz/102/getit/INDI/688912d561641c7544bf85f3.46434.a.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>עו_ד רועי כהן ~ 21-07-2025 | 23:00</description>
       <programDate>21/07/2025</programDate>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/687fd574de2fb620b1d85074.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/687fd574de2fb620b1d85074.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|21/07/2025|https://files102.livecdn.biz/102/getit/INDI/687fd574de2fb620b1d85074.46434.a.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>עו_ד רועי כהן ~ 16-07-2025 | 23:00</description>
       <programDate>16/07/2025</programDate>
       <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6878dfac0619bef3c37fadaf.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6878dfac0619bef3c37fadaf.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|16/07/2025|https://files102.livecdn.biz/102/getit/INDI/6878dfac0619bef3c37fadaf.46434.a.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>עו_ד רועי כהן ~ 07-07-2025 | 23:00</description>
       <programDate>07/07/2025</programDate>
       <pubDate>Mon, 07 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/686d6281232557dce2b7006a.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/686d6281232557dce2b7006a.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|07/07/2025|https://files102.livecdn.biz/102/getit/INDI/686d6281232557dce2b7006a.46434.a.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>עו_ד רועי כהן ~ 09-06-2025 | 23:00</description>
       <programDate>09/06/2025</programDate>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/684875484915e7783d3650de.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/684875484915e7783d3650de.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|09/06/2025|https://files102.livecdn.biz/102/getit/INDI/684875484915e7783d3650de.46434.a.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>עו_ד רועי כהן ~ 02-06-2025 | 23:00</description>
       <programDate>02/06/2025</programDate>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/683f3fedf618a0010d91c96a.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/683f3fedf618a0010d91c96a.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|02/06/2025|https://files102.livecdn.biz/102/getit/INDI/683f3fedf618a0010d91c96a.46434.a.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>עו_ד רועי כהן ~ 26-05-2025 | 23:00</description>
       <programDate>26/05/2025</programDate>
       <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6836009df61ca8ecb7f1bfe3.46434.i.jpg" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6836009df61ca8ecb7f1bfe3.46434.i.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|26/05/2025|https://files102.livecdn.biz/102/getit/INDI/6836009df61ca8ecb7f1bfe3.46434.a.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>עו_ד רועי כהן ~ 19-05-2025 | 23:00</description>
       <programDate>19/05/2025</programDate>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/682cc75c5b43ff9119c4093b.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/682cc75c5b43ff9119c4093b.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|19/05/2025|https://files102.livecdn.biz/102/getit/INDI/682cc75c5b43ff9119c4093b.46434.a.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>עו_ד רועי כהן ~ 12-05-2025 | 23:00</description>
       <programDate>12/05/2025</programDate>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/68238e37bc201dcd37be933d.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/68238e37bc201dcd37be933d.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|12/05/2025|https://files102.livecdn.biz/102/getit/INDI/68238e37bc201dcd37be933d.46434.a.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>עו_ד רועי כהן ~ 05-05-2025 | 23:00</description>
       <programDate>05/05/2025</programDate>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/681a52d04a35f24ba747885b.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/681a52d04a35f24ba747885b.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|05/05/2025|https://files102.livecdn.biz/102/getit/INDI/681a52d04a35f24ba747885b.46434.a.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>עו_ד רועי כהן ~ 21-04-2025 | 23:00</description>
       <programDate>21/04/2025</programDate>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6807e61b3f23adf5b9236815.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6807e61b3f23adf5b9236815.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|21/04/2025|https://files102.livecdn.biz/102/getit/INDI/6807e61b3f23adf5b9236815.46434.a.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>עו_ד רועי כהן ~ 07-04-2025 | 23:00</description>
       <programDate>07/04/2025</programDate>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67f56974a6248ee9f4a5d402.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67f56974a6248ee9f4a5d402.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|07/04/2025|https://files102.livecdn.biz/102/getit/INDI/67f56974a6248ee9f4a5d402.46434.a.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>עו_ד רועי כהן ~ 31-03-2025 | 23:00</description>
       <programDate>31/03/2025</programDate>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67ec31d133332e64c5e22c0f.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67ec31d133332e64c5e22c0f.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|31/03/2025|https://files102.livecdn.biz/102/getit/INDI/67ec31d133332e64c5e22c0f.46434.a.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>עו_ד רועי כהן ~ 25-03-2025 | 00:00</description>
       <programDate>25/03/2025</programDate>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67e300de29350cadb8b61adf.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67e300de29350cadb8b61adf.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|25/03/2025|https://files102.livecdn.biz/102/getit/INDI/67e300de29350cadb8b61adf.46434.a.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>עו_ד רועי כהן ~ 18-03-2025 | 00:00</description>
       <programDate>18/03/2025</programDate>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67d9c87eec3922efabe86cd2.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67d9c87eec3922efabe86cd2.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|18/03/2025|https://files102.livecdn.biz/102/getit/INDI/67d9c87eec3922efabe86cd2.46434.a.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>עו_ד רועי כהן ~ 11-03-2025 | 00:00</description>
       <programDate>11/03/2025</programDate>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67d08c59d8426154f717ee62.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67d08c59d8426154f717ee62.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|11/03/2025|https://files102.livecdn.biz/102/getit/INDI/67d08c59d8426154f717ee62.46434.a.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>עו_ד רועי כהן ~ 04-03-2025 | 00:00</description>
       <programDate>04/03/2025</programDate>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67c75110761fb046d3e24a5d.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67c75110761fb046d3e24a5d.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|04/03/2025|https://files102.livecdn.biz/102/getit/INDI/67c75110761fb046d3e24a5d.46434.a.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>עו_ד רועי כהן ~ 25-02-2025 | 00:00</description>
       <programDate>25/02/2025</programDate>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67be1d305a6e1eab438436df.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67be1d305a6e1eab438436df.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|25/02/2025|https://files102.livecdn.biz/102/getit/INDI/67be1d305a6e1eab438436df.46434.a.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>עו_ד רועי כהן ~ 18-02-2025 | 00:00</description>
       <programDate>18/02/2025</programDate>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67b4ee423b2091a79fdeb535.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67b4ee423b2091a79fdeb535.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|18/02/2025|https://files102.livecdn.biz/102/getit/INDI/67b4ee423b2091a79fdeb535.46434.a.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>עו_ד רועי כהן ~ 12-02-2025 | 00:00</description>
       <programDate>12/02/2025</programDate>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67ac6efa843caa7c0f7c28f8.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67ac6efa843caa7c0f7c28f8.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|12/02/2025|https://files102.livecdn.biz/102/getit/INDI/67ac6efa843caa7c0f7c28f8.46434.a.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>עו_ד רועי כהן ~ 04-02-2025 | 00:00</description>
       <programDate>04/02/2025</programDate>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67a26862fa316e533eb27b8e.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67a26862fa316e533eb27b8e.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|04/02/2025|https://files102.livecdn.biz/102/getit/INDI/67a26862fa316e533eb27b8e.46434.a.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>עו_ד רועי כהן ~ 28-01-2025 | 00:00</description>
       <programDate>28/01/2025</programDate>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/67992f5ba36a55bfc14d6727.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/67992f5ba36a55bfc14d6727.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|28/01/2025|https://files102.livecdn.biz/102/getit/INDI/67992f5ba36a55bfc14d6727.46434.a.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>עו_ד רועי כהן ~ 21-01-2025 | 00:00</description>
       <programDate>21/01/2025</programDate>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/678ff66d923e1adeded3ccea.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/678ff66d923e1adeded3ccea.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|21/01/2025|https://files102.livecdn.biz/102/getit/INDI/678ff66d923e1adeded3ccea.46434.a.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>עו_ד רועי כהן ~ 14-01-2025 | 00:00</description>
       <programDate>14/01/2025</programDate>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6786b8d5aa6f93e1e3d805e9.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6786b8d5aa6f93e1e3d805e9.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|14/01/2025|https://files102.livecdn.biz/102/getit/INDI/6786b8d5aa6f93e1e3d805e9.46434.a.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>עו_ד רועי כהן ~ 07-01-2025 | 00:00</description>
       <programDate>07/01/2025</programDate>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/677d7b25fd7a0a42ce6ccba8.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/677d7b25fd7a0a42ce6ccba8.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|07/01/2025|https://files102.livecdn.biz/102/getit/INDI/677d7b25fd7a0a42ce6ccba8.46434.a.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>עו_ד רועי כהן ~ 31-12-2024 | 00:00</description>
       <programDate>31/12/2024</programDate>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6774443b755c78c05d22d775.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6774443b755c78c05d22d775.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|31/12/2024|https://files102.livecdn.biz/102/getit/INDI/6774443b755c78c05d22d775.46434.a.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>עו_ד רועי כהן ~ 24-12-2024 | 00:00</description>
       <programDate>24/12/2024</programDate>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/676865602e415e33511571da.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/676865602e415e33511571da.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|24/12/2024|https://files102.livecdn.biz/102/getit/INDI/676865602e415e33511571da.46434.a.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>עו_ד רועי כהן ~ 17-12-2024 | 00:00</description>
       <programDate>17/12/2024</programDate>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6761cd7783041fdf28ba9a2e.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6761cd7783041fdf28ba9a2e.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|17/12/2024|https://files102.livecdn.biz/102/getit/INDI/6761cd7783041fdf28ba9a2e.46434.a.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>עו_ד רועי כהן ~ 11-12-2024 | 00:00</description>
       <programDate>11/12/2024</programDate>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://files102.livecdn.biz/102/getit/INDI/6733b1e39d1a8f325ebec1a2.46434.i.png" />
+      <enclosure url="https://files102.livecdn.biz/102/getit/INDI/6733b1e39d1a8f325ebec1a2.46434.i.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">465|19|11/12/2024|https://files102.livecdn.biz/102/getit/INDI/6733b1e39d1a8f325ebec1a2.46434.a.mp3</guid>
     </item>
   </channel>
