@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו ECO 99FM | משנה לשנה עם בועז כהן</title>
+    <description>Programs from רדיו ECO 99FM, show: משנה לשנה עם בועז כהן</description>
+    <link>https://99sets.livecdn.biz/99sets/ecoalternative/the_set_boaz_cohen_year_hour_2017.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 12:52:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/the_set_boaz_cohen_year_hour_2017.jpg</url>
+      <title>רדיו ECO 99FM | משנה לשנה עם בועז כהן</title>
+      <link>https://99sets.livecdn.biz/99sets/ecoalternative/the_set_boaz_cohen_year_hour_2017.mp3</link>
+    </image>
+    <item>
+      <title>משנה לשנה עם בועז כהן</title>
+      <link>https://99sets.livecdn.biz/99sets/ecoalternative/the_set_boaz_cohen_year_hour_2017.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/ecoalternative/the_set_boaz_cohen_year_hour_2017.mp3" length="0" type="audio/mpeg" />
+      <description>משנה לשנה עם בועז כהן</description>
+      <programDate>05/01/2026</programDate>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/the_set_boaz_cohen_year_hour_2017.jpg" />
+      <guid isPermaLink="false">359|14|05/01/2026|https://99sets.livecdn.biz/99sets/ecoalternative/the_set_boaz_cohen_year_hour_2017.mp3</guid>
+    </item>
+    <item>
+      <title>משנה לשנה עם בועז כהן</title>
+      <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_year_hour_1974.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_year_hour_1974.mp3" length="0" type="audio/mpeg" />
+      <description>משנה לשנה עם בועז כהן</description>
+      <programDate>10/02/2025</programDate>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/boaz_cohen_year_to_year_02.jpg" />
+      <guid isPermaLink="false">359|14|10/02/2025|https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_year_hour_1974.mp3</guid>
+    </item>
+  </channel>
+</rss>
