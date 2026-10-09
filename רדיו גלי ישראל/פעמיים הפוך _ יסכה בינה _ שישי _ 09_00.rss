@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | פעמיים הפוך | יסכה בינה | שישי _ 09:00</title>
     <description>Programs from רדיו גלי ישראל, show: פעמיים הפוך | יסכה בינה | שישי _ 09:00</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama09102026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/e93777af-be13-4889-8ca3-b5804464bd38.jpg</url>
       <title>רדיו גלי ישראל | פעמיים הפוך | יסכה בינה | שישי _ 09:00</title>
@@ -18,7 +18,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 09.10.2026</description>
       <programDate>09/10/2026</programDate>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/e93777af-be13-4889-8ca3-b5804464bd38.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/e93777af-be13-4889-8ca3-b5804464bd38.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|09/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama09102026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 02.10.2026</description>
       <programDate>02/10/2026</programDate>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/e93777af-be13-4889-8ca3-b5804464bd38.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/e93777af-be13-4889-8ca3-b5804464bd38.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|02/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pamay210.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 25.09.2026</description>
       <programDate>25/09/2026</programDate>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|25/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pan25092026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 20.09.2026</description>
       <programDate>20/09/2026</programDate>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|20/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam200926.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 18.09.2026</description>
       <programDate>18/09/2026</programDate>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|18/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam18092026.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 11.09.2026</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|11/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam11092026.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 04.09.2026</description>
       <programDate>04/09/2026</programDate>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|04/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pamaym04092026.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 28.08.2026</description>
       <programDate>28/08/2026</programDate>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|28/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama28082026.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 21.08.2026</description>
       <programDate>21/08/2026</programDate>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|21/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/panay21082026.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>פעמיים הפוך | יסכה בינה | שישי _ 09:00 ~ 07.08.2026</description>
       <programDate>07/08/2026</programDate>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/87456e49-4874-4df3-8a39-d49c95b24ad0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">401|15|07/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pamym07082026.mp3</guid>
     </item>
   </channel>
