@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו רדיוס 100FM | יום שידורים מיוחד 7 באוקטובר</title>
     <description>Programs from רדיו רדיוס 100FM, show: יום שידורים מיוחד 7 באוקטובר</description>
     <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/54-Daniel-Bezgadov-Sanderson.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Daniel-Bezgodov.jpg</url>
       <title>רדיו רדיוס 100FM | יום שידורים מיוחד 7 באוקטובר</title>
@@ -18,7 +18,7 @@
       <description>הקדשה לזכרו של סמר דניאל בזגדוב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Daniel-Bezgodov.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Daniel-Bezgodov.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/54-Daniel-Bezgadov-Sanderson.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>הקדשה לזכרו של סמל יהונתן מימון זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yehonatan-Maimon.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yehonatan-Maimon.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/39-Yonatan-Maimon-Hizri-Elay.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>הקדשה לזכרו של רסל אלעד ששון זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Elad-Sasson.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Elad-Sasson.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/60-Elad-Sasson-Wonderful-Tonight.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>הקדשה לזכרו של סמר בן רובינשטיין זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ben-Rubinstein.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ben-Rubinstein.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/66-Ben-Rubinshtein-Meir-Banai.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>הקדשה לזכרו של סמר יאיר ניפוסי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yair-Nifusi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yair-Nifusi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/63-Yair-Nafusi-Peer-Netzah.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>הקדשה לזכרו של סמל בנימין יונה זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Binyamin-Yona.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Binyamin-Yona.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/45-Binyamin-Yona-Tahzor-Reichel.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>הקדשה לזכרו של סרן כפיר יצחק פרנקו זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Kfir-Franko.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Kfir-Franko.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/50-Kfir-Franco-Anan.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>הקדשה לזכרה של סמלת שירה שוחט זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shira-Shohat.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shira-Shohat.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/56-Shira-Shohat-Ivri.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>הקדשה לזכרו של רסל (במיל) עומר ביתן זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Omer-Bitan.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Omer-Bitan.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/OMER-BITAN.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>הקדשה לזכרו של סמר עידן רז זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Idan-Raz.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Idan-Raz.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/42-Idan-Raz-Osher.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>הקדשה לזכרו של סמר עידו אפל זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ido-Appel.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ido-Appel.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/47-Ido-Appel-Someone-You-Loved.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>הקדשה לזכרו של סמר תומר אחימס זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tomer-Ahimas.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tomer-Ahimas.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/64-Tomer-Ahimas-Stand-By-Me.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>הקדשה לזכרו של סמר עדי דנן זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Adi-Danan.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Adi-Danan.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/40-Adi-Danan.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>הקדשה לזכרו של רסן רועי מלדסי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Roei-Maldesi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Roei-Maldesi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/55-Roei-Meldasi-Dorbanim.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>הקדשה לזכרו של רסר (במיל) מתן מאיר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Matan-Meir.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Matan-Meir.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/46-Matan-Meir-Shlomo-ARtzi.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>הקדשה לזכרה של עדן בן רובי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-Ben-Rubi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-Ben-Rubi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/EDEN-BEN-RUBIN.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>הקדשה לזכרו של שחק יוסף מדר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shahak-Yosef-Madar.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shahak-Yosef-Madar.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/38-Shahak-Madar-Or-Gadol.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>הקדשה לזכרו של תומר שגב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tomer-Segev.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tomer-Segev.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/37-Tomer-Segev-Shvurei-Lev.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>הקדשה לזכרו של תומר סטרוסטה זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tomer-Satarosta.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tomer-Satarosta.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/TOMER-STRUTA.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>הקדשה לזכרה של שקד חבני זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shaked-Habani.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shaked-Habani.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/36-Shaked-Habani-Mathilim-Mehadash.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>הקדשה לזכרו של עדן דוד משה זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-David-Moshe.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-David-Moshe.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/35-Eden-Menashe-Shmor-Ana-Zak.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>הקדשה לזכרו של עמרי אחרק זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Omri-Ahrak.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Omri-Ahrak.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/34-Omri-Ahrak-Gibor.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>הקדשה לזכרו של דודי (דוד) תורגמן זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Dudi-Turgeman.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Dudi-Turgeman.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/33-Dudi-Turgeman-Akiva.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>הקדשה לזכרו של יניב סרודי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yaniv-Sarudi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yaniv-Sarudi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/32-Yaniv-Sarudi-Shmor-Al-Haolam.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>הקדשה לזכרה של תמר סמט זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tamar-Semet.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Tamar-Semet.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/31-Tamar-Sammet-Keren-Shemesh-Meuheret.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>הקדשה לזכרו של סאן אמנון יעקובוב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Sun-Amnon-Yaakobov.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Sun-Amnon-Yaakobov.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/30-Sun-Yaakobov-Eyal-Golan.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>הקדשה לזכרה של עדן בן רובי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-Ben-Rubi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-Ben-Rubi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/29-Eden-Ben-Rubi-Yalda-Ktana.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>הקדשה לזכרה של עדן בן רובי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-Ben-Rubi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eden-Ben-Rubi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/28-Eden-Ben-Rubi-Parparim.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>הקדשה לזכרו של לאור אברמוב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Laor-Abramov.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Laor-Abramov.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/27-Laor-Abramov-Guy-Yahel.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>הקדשה לזכרו של לוטן אביר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Lotan-Abir.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Lotan-Abir.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/LOTAN-ABIR.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>הקדשה לזכרו של אליה אילוז זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eliya-Iluz.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Eliya-Iluz.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/ELIYA-EILUZ.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>הקדשה לזכרו של רם שלום זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ram-Shalom.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ram-Shalom.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/24-Ram-Shalom-Blues-Cnaani.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>הקדשה לזכרו של יחזקאל חיזגיל (חזי) רזילוב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yehezkel-Razilov.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yehezkel-Razilov.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/23-Hezi-Hizkil-Leoreh-Hayam.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>הקדשה לזכרו של שובל יעקב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shoval-Yaakov.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shoval-Yaakov.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/SHOVAL-YAAKOV.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>הקדשה לזכרה של בר זהר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Bar-Zohar.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Bar-Zohar.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/22-Bar-Zohar-Sahara.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>הקדשה לזכרו של אלון שמלי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Alon-SHamli.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Alon-SHamli.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/20-Alon-Shamli-Jane-Bordeaux.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>הקדשה לזכרו של אלון שמלי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Alon-SHamli.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Alon-SHamli.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/19-Alon-Shamli-Peer-Netzah.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>הקדשה לזכרו של אלון שמלי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Alon-SHamli.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Alon-SHamli.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/18-Alon-Shamli-Ad-Shetahzor.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>הקדשה לזכרה של קארין זורנו זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Karin-Jorno.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Karin-Jorno.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/17-Karin-Jorno-Bar-Zabari.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>הקדשה לזכרה של רז מזרחי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Raz-Mizrahi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Raz-Mizrahi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/16-Raz-Mizrahi-Harel-Moyal.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>הקדשה לזכרו של יונתן חי אזולאי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yonatan-Hai-Azulay.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yonatan-Hai-Azulay.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/15-Yonatan-Azulay-Peer-Yoni.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>הקדשה לזכרו של איתי עמר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Itay-Amar-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Itay-Amar-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/21-Itai-Amar-Idan-Reichel.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>הקדשה לזכרו של אסף מסטר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Assaf-Master-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Assaf-Master-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/14-Assaf-Master-Shemesh.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>הקדשה לזכרו של דור אביטן זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Dor-Avitan-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Dor-Avitan-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/DOR-AVITAN.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>הקדשה לזכרו של אופק קמחי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ofek-Kimhi-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ofek-Kimhi-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/12-Ofek-Kimhi-Arik.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>הקדשה לזכרו של עידו פרץ זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ido-Peretz-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ido-Peretz-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/11-Ido-Peretz-Vibeish.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>הקדשה לזכרו של ניסים מעיין לוי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Nissim-Maayan-Levy-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Nissim-Maayan-Levy-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/10-Nissim-Levy-Zehava.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>הקדשה לזכרה של הדר פרינץ זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Hadar-Perintz-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Hadar-Perintz-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/09-Hadar-Prince-Sahara.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>הקדשה לזכרו של אוריאל ברוך זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Uriel-Baruch-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Uriel-Baruch-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/08-Oriel-Baruch-Narkis.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>הקדשה לזכרה של שי רגב זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shay-Regev-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shay-Regev-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/07-Shay-Regev-Brosh.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>הקדשה לזכרה של שני גבאי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shani-Gabay-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Shani-Gabay-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/06-Shani-Gabay-Yasmin.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>הקדשה לזכרה של ליבי כהן מגורי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Libi-Cohen-Meguri-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Libi-Cohen-Meguri-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/05-Libi-Cohen-Bnaya.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>הקדשה לזכרו של מור מאיר טרבלסי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Mor-Meir-Trabelsi-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Mor-Meir-Trabelsi-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/04-Mor-Trabelsi-Moshe-Peretz.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>הקדשה לזכרו של ברק דוידי זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Barak-Davidi-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Barak-Davidi-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/BARAK-DAVIDI.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>הקדשה לזכרו של יהב וינר זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yahav-Weiner-1.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yahav-Weiner-1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/YAHA-WEINER.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>הקדשה לזכרו של זיו פפה שפירא זל</description>
       <programDate>06/11/2024</programDate>
       <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ziv-Peppe-Shapira.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Ziv-Peppe-Shapira.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16|06/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/01-Ziv-Shapira-Rami-Kleinstein.mp3</guid>
     </item>
     <item>
@@ -576,7 +576,7 @@
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/58-Yoav-Malaev-Just-the-Two.mp3</link>
       <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/58-Yoav-Malaev-Just-the-Two.mp3" length="0" type="audio/mpeg" />
       <description>הקדשה לזכרו של סגן יואב מלייב זל</description>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yoav-Maleyev.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Yoav-Maleyev.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16||https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/58-Yoav-Malaev-Just-the-Two.mp3</guid>
     </item>
     <item>
@@ -584,7 +584,7 @@
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/43-Amir-Lavi-Ivry-Leader.mp3</link>
       <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/43-Amir-Lavi-Ivry-Leader.mp3" length="0" type="audio/mpeg" />
       <description>הקדשה לזכרו של סמל אמיר לביא זל</description>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Amir-Lavi.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Amir-Lavi.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">432|16||https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/43-Amir-Lavi-Ivry-Leader.mp3</guid>
     </item>
   </channel>
