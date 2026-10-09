@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו דרום | היציע הדרומי</title>
+    <description>Programs from רדיו דרום, show: היציע הדרומי</description>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/hizia200926.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 12:52:01 +0000</lastBuildDate>
+    <image>
+      <url>https://radiodarom.co.il/Upload/Media/Images/9ae79d13-662c-48d7-a036-4038b48253d7.jpeg</url>
+      <title>רדיו דרום | היציע הדרומי</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/hizia200926.mp3</link>
+    </image>
+    <item>
+      <title>היציע הדרומי  ~ 19.09.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/hizia200926.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/hizia200926.mp3" length="0" type="audio/mpeg" />
+      <description>היציע הדרומי  ~ 19.09.2026</description>
+      <programDate>19/09/2026</programDate>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://radiodarom.co.il/Upload/Media/Images/9ae79d13-662c-48d7-a036-4038b48253d7.jpeg" />
+      <guid isPermaLink="false">475|18|19/09/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/hizia200926.mp3</guid>
+    </item>
+  </channel>
+</rss>
