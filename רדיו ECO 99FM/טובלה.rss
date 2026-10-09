@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו ECO 99FM | טובלה</title>
+    <description>Programs from רדיו ECO 99FM, show: טובלה</description>
+    <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_05_231125.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 12:51:59 +0000</lastBuildDate>
+    <image>
+      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/podcast_tovale_plus_copy_2.jpg</url>
+      <title>רדיו ECO 99FM | טובלה</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_05_231125.mp3</link>
+    </image>
+    <item>
+      <title>טובלה</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_05_231125.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_05_231125.mp3" length="0" type="audio/mpeg" />
+      <description>טובלה</description>
+      <programDate>23/11/2025</programDate>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/podcast_tovale_plus_copy_2.jpg" />
+      <guid isPermaLink="false">356|14|23/11/2025|https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_05_231125.mp3</guid>
+    </item>
+    <item>
+      <title>טובלה</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_04_031125.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_04_031125.mp3" length="0" type="audio/mpeg" />
+      <description>טובלה</description>
+      <programDate>03/11/2025</programDate>
+      <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/podcast_tovale_plus_copy_2.jpg" />
+      <guid isPermaLink="false">356|14|03/11/2025|https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_04_031125.mp3</guid>
+    </item>
+    <item>
+      <title>טובלה</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_03_150925.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_03_150925.mp3" length="0" type="audio/mpeg" />
+      <description>טובלה</description>
+      <programDate>15/09/2025</programDate>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/podcast_tovale_plus_copy_2.jpg" />
+      <guid isPermaLink="false">356|14|15/09/2025|https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_03_150925.mp3</guid>
+    </item>
+    <item>
+      <title>טובלה</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_02_080925.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_02_080925.mp3" length="0" type="audio/mpeg" />
+      <description>טובלה</description>
+      <programDate>08/09/2025</programDate>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/podcast_tovale_plus_copy_2.jpg" />
+      <guid isPermaLink="false">356|14|08/09/2025|https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_02_080925.mp3</guid>
+    </item>
+    <item>
+      <title>טובלה</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_01_220825.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_01_220825.mp3" length="0" type="audio/mpeg" />
+      <description>טובלה</description>
+      <programDate>22/08/2025</programDate>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/podcast_tovale_plus_copy_2.jpg" />
+      <guid isPermaLink="false">356|14|22/08/2025|https://99sets.livecdn.biz/99sets/eco_podcast/podcast_tovale_plus_01_220825.mp3</guid>
+    </item>
+  </channel>
+</rss>
