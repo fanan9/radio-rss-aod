@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00</title>
     <description>Programs from רדיו גלי ישראל, show: פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama31072026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg</url>
       <title>רדיו גלי ישראל | פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00</title>
@@ -18,7 +18,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 31.07.2026</description>
       <programDate>31/07/2026</programDate>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|31/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama31072026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 24.07.2026</description>
       <programDate>24/07/2026</programDate>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|24/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam24072026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 17.07.2026</description>
       <programDate>17/07/2026</programDate>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|17/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pamem17072026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 10.07.2026</description>
       <programDate>10/07/2026</programDate>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|10/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam10072026.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 03.07.2026</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|03/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama03072026.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 26.06.2026</description>
       <programDate>26/06/2026</programDate>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|26/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama26062026.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 19.06.2026</description>
       <programDate>19/06/2026</programDate>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|19/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pamym19062026.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 12.06.2026</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|12/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pama12062026.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 05.06.2026</description>
       <programDate>05/06/2026</programDate>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|05/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/hafu05062026.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 29.05.2026</description>
       <programDate>29/05/2026</programDate>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|29/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam290526.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 21.05.2026</description>
       <programDate>21/05/2026</programDate>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|21/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam210526.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 15.05.2026</description>
       <programDate>15/05/2026</programDate>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|15/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam150526.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 08.05.2026</description>
       <programDate>08/05/2026</programDate>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|08/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam100526.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 01.05.2026</description>
       <programDate>01/05/2026</programDate>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|01/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam010526.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 24.04.2026</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|24/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam260426.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 17.04.2026</description>
       <programDate>17/04/2026</programDate>
       <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|17/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam170426.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 10.04.2026</description>
       <programDate>10/04/2026</programDate>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|10/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam100426.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 03.04.2026</description>
       <programDate>03/04/2026</programDate>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|03/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam030426.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 27.03.2026</description>
       <programDate>27/03/2026</programDate>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|27/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam270326.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 20.03.2026</description>
       <programDate>20/03/2026</programDate>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|20/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam200326.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 13.03.2026</description>
       <programDate>13/03/2026</programDate>
       <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|13/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam130326.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 06.03.2026</description>
       <programDate>06/03/2026</programDate>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|06/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam060326.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 27.02.2026</description>
       <programDate>27/02/2026</programDate>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|27/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam270226.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 20.02.2026</description>
       <programDate>20/02/2026</programDate>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|20/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam200226.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 13.02.2026</description>
       <programDate>13/02/2026</programDate>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|13/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam130226.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 06.02.2026</description>
       <programDate>06/02/2026</programDate>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|06/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam070226.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 30.01.2026</description>
       <programDate>30/01/2026</programDate>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/f56f8108-aa95-4cb6-83d8-49d97a1d4a3e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|30/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam300126.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 23.01.2026</description>
       <programDate>23/01/2026</programDate>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|23/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam230126.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 16.01.2026</description>
       <programDate>16/01/2026</programDate>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|16/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam160126.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 09.01.2026</description>
       <programDate>09/01/2026</programDate>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|09/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam090126.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 02.01.2026</description>
       <programDate>02/01/2026</programDate>
       <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|02/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam020126.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 26.12.2025</description>
       <programDate>26/12/2025</programDate>
       <pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|26/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam261225.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 19.12.2025</description>
       <programDate>19/12/2025</programDate>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|19/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam191225.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 12.12.2025</description>
       <programDate>12/12/2025</programDate>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|12/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam121225.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 05.12.2025</description>
       <programDate>05/12/2025</programDate>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|05/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam051225.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 28.11.2025</description>
       <programDate>28/11/2025</programDate>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|28/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam281125.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 21.11.2025</description>
       <programDate>21/11/2025</programDate>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|21/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam211125.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 14.11.2025</description>
       <programDate>14/11/2025</programDate>
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|14/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam141125.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 07.11.2025</description>
       <programDate>07/11/2025</programDate>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|07/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam071125.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 31.10.2025</description>
       <programDate>31/10/2025</programDate>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|31/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam311025.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 24.10.2025</description>
       <programDate>24/10/2025</programDate>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|24/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam241025.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 17.10.2025</description>
       <programDate>17/10/2025</programDate>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|17/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam171025.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 10.10.2025</description>
       <programDate>10/10/2025</programDate>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|10/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam101025.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 06.10.2025</description>
       <programDate>06/10/2025</programDate>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|06/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim06102025.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 03.10.2025</description>
       <programDate>03/10/2025</programDate>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|03/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam031025.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 01.10.2025</description>
       <programDate>01/10/2025</programDate>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|01/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim01102025.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 26.09.2025</description>
       <programDate>26/09/2025</programDate>
       <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|26/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam260925.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 19.09.2025</description>
       <programDate>19/09/2025</programDate>
       <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|19/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/Pam190925.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 12.09.2025</description>
       <programDate>12/09/2025</programDate>
       <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|12/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam120925.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 29.08.2025</description>
       <programDate>29/08/2025</programDate>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|29/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam290825.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 22.08.2025</description>
       <programDate>22/08/2025</programDate>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|22/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam220825.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 15.08.2025</description>
       <programDate>15/08/2025</programDate>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|15/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam150825.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 08.08.2025</description>
       <programDate>08/08/2025</programDate>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|08/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam080825.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 01.08.2025</description>
       <programDate>01/08/2025</programDate>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|01/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim01082025.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 25.07.2025</description>
       <programDate>25/07/2025</programDate>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|25/07/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim25072025.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 18.07.2025</description>
       <programDate>18/07/2025</programDate>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|18/07/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam180725.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 11.07.2025</description>
       <programDate>11/07/2025</programDate>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|11/07/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam110725.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 04.07.2025</description>
       <programDate>04/07/2025</programDate>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|04/07/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam040725.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 27.06.2025</description>
       <programDate>27/06/2025</programDate>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|27/06/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam270625.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 20.06.2025</description>
       <programDate>20/06/2025</programDate>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|20/06/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim200620526.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 06.06.2025</description>
       <programDate>06/06/2025</programDate>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|06/06/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam060625.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 30.05.2025</description>
       <programDate>30/05/2025</programDate>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|30/05/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim30052025.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 23.05.2025</description>
       <programDate>23/05/2025</programDate>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|23/05/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam230525.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 16.05.2025</description>
       <programDate>16/05/2025</programDate>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|16/05/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam160525.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 09.05.2025</description>
       <programDate>09/05/2025</programDate>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|09/05/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam090525.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 02.05.2025</description>
       <programDate>02/05/2025</programDate>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|02/05/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam020525.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 25.04.2025</description>
       <programDate>25/04/2025</programDate>
       <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|25/04/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam250425.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 18.04.2025</description>
       <programDate>18/04/2025</programDate>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|18/04/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/paamim17042025.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 11.04.2025</description>
       <programDate>11/04/2025</programDate>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|11/04/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam11042025.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 04.04.2025</description>
       <programDate>04/04/2025</programDate>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|04/04/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam040425.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 28.03.2025</description>
       <programDate>28/03/2025</programDate>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|28/03/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam280325.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 22.03.2025</description>
       <programDate>22/03/2025</programDate>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|22/03/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam220325.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 14.03.2025</description>
       <programDate>14/03/2025</programDate>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|14/03/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/Pam140325.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 07.03.2025</description>
       <programDate>07/03/2025</programDate>
       <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|07/03/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam070325.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 28.02.2025</description>
       <programDate>28/02/2025</programDate>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|28/02/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam280225.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 21.02.2025</description>
       <programDate>21/02/2025</programDate>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|21/02/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam210225.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 07.02.2025</description>
       <programDate>07/02/2025</programDate>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|07/02/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam0702225.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 31.01.2025</description>
       <programDate>31/01/2025</programDate>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|31/01/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam310125.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 24.01.2025</description>
       <programDate>24/01/2025</programDate>
       <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|24/01/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam240125.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 17.01.2025</description>
       <programDate>17/01/2025</programDate>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|17/01/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam170125.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>פעמיים הפוך | זיו מאור ויסכה בינה | שישי _ 09:00 ~ 10.01.2025</description>
       <programDate>10/01/2025</programDate>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/08e026c5-d17d-4777-9e27-7ef0b8b5b364.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">406|15|10/01/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pam100125.mp3</guid>
     </item>
   </channel>
