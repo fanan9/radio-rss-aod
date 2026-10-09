@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו ECO 99FM | ציל eco</title>
     <description>Programs from רדיו ECO 99FM, show: ציל eco</description>
     <link>https://99sets.livecdn.biz/99sets/with_friends/sea_all_the_year_57.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://eco99fm.maariv.co.il/download/Sets/pictures/sea_all_the_year_57.jpg</url>
       <title>רדיו ECO 99FM | ציל eco</title>
@@ -18,7 +18,7 @@
       <description>ציל eco</description>
       <programDate>23/10/2021</programDate>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/sea_all_the_year_57.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/sea_all_the_year_57.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|23/10/2021|https://99sets.livecdn.biz/99sets/with_friends/sea_all_the_year_57.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>ציל eco</description>
       <programDate>16/10/2021</programDate>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_27.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_27.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|16/10/2021|https://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_27.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>ציל eco</description>
       <programDate>12/10/2021</programDate>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/drive_far_away_75.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/drive_far_away_75.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|12/10/2021|https://99sets.livecdn.biz/99sets/roads/drive_far_away_75.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>ציל eco</description>
       <programDate>17/03/2021</programDate>
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_95.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/friday_afternoons_95.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|17/03/2021|https://99sets.livecdn.biz/99sets/at_home/friday_afternoons_95.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>ציל eco</description>
       <programDate>21/02/2021</programDate>
       <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/with_friends_on_the_couch_67.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/with_friends_on_the_couch_67.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|21/02/2021|https://99sets.livecdn.biz/99sets/with_friends/with_friends_on_the_couch_67.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>ציל eco</description>
       <programDate>10/12/2019</programDate>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_22_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_22_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|10/12/2019|https://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_22_chill_out.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>ציל eco</description>
       <programDate>14/05/2018</programDate>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/make_presentation_33_chill_out_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/make_presentation_33_chill_out_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|14/05/2018|https://99sets.livecdn.biz/99sets/at_work/make_presentation_33_chill_out.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>ציל eco</description>
       <programDate>21/04/2018</programDate>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_14_chill_out_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_14_chill_out_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|21/04/2018|https://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_14_chill_out.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>ציל eco</description>
       <programDate>25/03/2018</programDate>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/sea_all_the_year_29_chill_out_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/sea_all_the_year_29_chill_out_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|25/03/2018|https://99sets.livecdn.biz/99sets/with_friends/sea_all_the_year_29_chill_out.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>ציל eco</description>
       <programDate>04/03/2018</programDate>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_13_chill_out_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_13_chill_out_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|04/03/2018|https://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_13_chill_out.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>ציל eco</description>
       <programDate>10/01/2018</programDate>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/make_presentation_28_chill_out_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/make_presentation_28_chill_out_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|10/01/2018|https://99sets.livecdn.biz/99sets/at_work/make_presentation_28_chill_out.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>ציל eco</description>
       <programDate>09/01/2018</programDate>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_12_chill_out_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/relax_with_yoga_12_chill_out_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">372|14|09/01/2018|https://99sets.livecdn.biz/99sets/doing_sports/relax_with_yoga_12_chill_out.mp3</guid>
     </item>
   </channel>
