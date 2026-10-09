@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו רדיוס 100FM | הנבחרים</title>
     <description>Programs from רדיו רדיוס 100FM, show: הנבחרים</description>
     <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/haniharim24.04.26-1-1.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png</url>
       <title>רדיו רדיוס 100FM | הנבחרים</title>
@@ -18,7 +18,7 @@
       <description>דוד בן בסט מראיין את שרת החדשנות המדע והטכנולוגיה גילה גמליאל</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|24/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/haniharim24.04.26-1-1.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>דוד בן בסט מראיין את פרופסור ציפי שטראוס יוזמת ומנהלת מרכז הלונגביטי במרכז הרפואי שיבא</description>
       <programDate>24/04/2026</programDate>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|24/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/hanivharim24.04.26-2.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>דוד בן בסט מראיין את חברת הכנסת דר צגה מלקו</description>
       <programDate>30/01/2026</programDate>
       <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|30/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/02/hanivharim300126-2.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>דוד בן בסט מראיין את חבר הכנסת משה פסל</description>
       <programDate>31/10/2025</programDate>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|31/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/דוד-בן-בסט-מראיין-את-חבר-הכנסת-משה-פסל.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>דוד בן בסט מראיין את שר האנרגיה והתשתיות אלי כהן</description>
       <programDate>31/10/2025</programDate>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|31/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/דוד-בן-בסט-מראיין-את-שר-האנרגיה-והתשתיות-אלי-כהן.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>דוד בן בסט מראיין את מרכז האופוזיציה בוועדת הכספים  חבר הכנסת ולדימיר בליאק</description>
       <programDate>25/07/2025</programDate>
       <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|25/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/hanivharim250725-1.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>דוד בן בסט מראיין את חברת הכנסת דר מטי צרפתי הרכבי</description>
       <programDate>11/07/2025</programDate>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|11/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/hanivharim110725-2.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>דוד בן בסט מראיין את שר הביטחון לשעבר יור ישראל ביתנו חבר הכנסת אביגדור ליברמן</description>
       <programDate>11/07/2025</programDate>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|11/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/hanivharim110725-1.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>יש רק אדם אחד שיכול לגרום לתובע בהאג לרדת מהעץ הגבוה שעליו טיפס</description>
       <programDate>29/11/2024</programDate>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/david-article.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/david-article.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|29/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/infinitely-loud-silence-ils-74283-online-audio-converter.com-2.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>דוד בן בסט מראיין את שר התקשורת לשעבר   מגד במילואים  דר יועז הנדל</description>
       <programDate>27/09/2024</programDate>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|27/09/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/09/hanivharim270924-2.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>דוד בן בסט מראיין את סגן יור הכנסת חבר הכנסת הרב משה סולומון</description>
       <programDate>09/08/2024</programDate>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|09/08/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/08/hanivharim090824-3.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>דוד בן בסט מראיין את חבר הכנסת אושר שקלים</description>
       <programDate>28/06/2024</programDate>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|28/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/hanivharim-280624-3.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>דוד בן בסט מראיין את סגן יושב ראש  הכנסת  חבר הכנסת יבגני סובה</description>
       <programDate>28/06/2024</programDate>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|28/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/hanivharim-280624-2.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>דוד בן בסט מראיין את יושב ראש סיעת  המחנה הממלכתי חבר הכנסת זאב אלקין</description>
       <programDate>22/09/2023</programDate>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|22/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/hanivharim220923-3.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>דוד בן בסט מראיין את יושב ראש ועדת העלייה והקליטה חבר הכנסת עודד פורר</description>
       <programDate>22/09/2023</programDate>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/small-Hanivharim.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|22/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/hanivharim220923-2.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>הנבחרים 20.8.2021</description>
       <programDate>20/08/2021</programDate>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|20/08/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Anivharim-20.08.21.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>הנבחרים 30.07.2021</description>
       <programDate>30/07/2021</programDate>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|30/07/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/07/Anivharim-30.07.21.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>הנבחרים  29.01.2021</description>
       <programDate>29/01/2021</programDate>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/12/דוד2.jpg" />
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2019/12/דוד2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">427|16|29/01/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/01/Anivharim-29.01.21.mp3</guid>
     </item>
   </channel>
