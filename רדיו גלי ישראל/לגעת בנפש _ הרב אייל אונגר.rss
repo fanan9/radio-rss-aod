@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | לגעת בנפש | הרב אייל אונגר</title>
     <description>Programs from רדיו גלי ישראל, show: לגעת בנפש | הרב אייל אונגר</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagatbanefe28092026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png</url>
       <title>רדיו גלי ישראל | לגעת בנפש | הרב אייל אונגר</title>
@@ -18,7 +18,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 13.09.2026</description>
       <programDate>13/09/2026</programDate>
       <pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|13/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagatbanefe28092026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 06.09.2026</description>
       <programDate>06/09/2026</programDate>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|06/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagay06026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 30.08.2026</description>
       <programDate>30/08/2026</programDate>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|30/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat30082026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 12.07.2026</description>
       <programDate>12/07/2026</programDate>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|12/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat12072026.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 28.06.2026</description>
       <programDate>28/06/2026</programDate>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|28/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat28062026.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 21.06.2026</description>
       <programDate>21/06/2026</programDate>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|21/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat21062026.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 07.06.2026</description>
       <programDate>07/06/2026</programDate>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|07/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat07062026.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 31.05.2026</description>
       <programDate>31/05/2026</programDate>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|31/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat310526.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>לגעת בנפש | הרב אייל אונגר ~ 24.05.2026</description>
       <programDate>24/05/2026</programDate>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/890964a3-9aa0-458b-ab93-1646a3ef5521.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">407|15|24/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lagat240526.mp3</guid>
     </item>
   </channel>
