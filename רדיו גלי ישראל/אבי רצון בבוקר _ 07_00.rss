@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | אבי רצון בבוקר | 07:00</title>
     <description>Programs from רדיו גלי ישראל, show: אבי רצון בבוקר | 07:00</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim081026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg</url>
       <title>רדיו גלי ישראל | אבי רצון בבוקר | 07:00</title>
@@ -18,7 +18,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.10.2026</description>
       <programDate>08/10/2026</programDate>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim081026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.10.2026</description>
       <programDate>07/10/2026</programDate>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim071026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.10.2026</description>
       <programDate>06/10/2026</programDate>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim061026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.10.2026</description>
       <programDate>05/10/2026</programDate>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim051026.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.10.2026</description>
       <programDate>04/10/2026</programDate>
       <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim041026.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.10.2026</description>
       <programDate>01/10/2026</programDate>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim011026.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.09.2026</description>
       <programDate>30/09/2026</programDate>
       <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim300926.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.09.2026</description>
       <programDate>29/09/2026</programDate>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim290926.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.09.2026</description>
       <programDate>28/09/2026</programDate>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi28092026.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.09.2026</description>
       <programDate>27/09/2026</programDate>
       <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi27092026.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.09.2026</description>
       <programDate>23/09/2026</programDate>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim220926.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.09.2026</description>
       <programDate>22/09/2026</programDate>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi22092026.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.09.2026</description>
       <programDate>20/09/2026</programDate>
       <pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim200926.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.09.2026</description>
       <programDate>16/09/2026</programDate>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim160926.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.09.2026</description>
       <programDate>15/09/2026</programDate>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim150926.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.09.2026</description>
       <programDate>14/09/2026</programDate>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim140926.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.09.2026</description>
       <programDate>10/09/2026</programDate>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim100926.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.09.2026</description>
       <programDate>09/09/2026</programDate>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim090926.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.09.2026</description>
       <programDate>08/09/2026</programDate>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim080926.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.09.2026</description>
       <programDate>07/09/2026</programDate>
       <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi070926.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.09.2026</description>
       <programDate>06/09/2026</programDate>
       <pubDate>Sun, 06 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim060926.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.09.2026</description>
       <programDate>03/09/2026</programDate>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim030926.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.09.2026</description>
       <programDate>02/09/2026</programDate>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avir02092026.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.09.2026</description>
       <programDate>01/09/2026</programDate>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim010926.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 31.08.2026</description>
       <programDate>31/08/2026</programDate>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|31/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim310826.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.08.2026</description>
       <programDate>30/08/2026</programDate>
       <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim300826.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.08.2026</description>
       <programDate>27/08/2026</programDate>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim270826.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.08.2026</description>
       <programDate>26/08/2026</programDate>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim260826.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.08.2026</description>
       <programDate>25/08/2026</programDate>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi250826.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.08.2026</description>
       <programDate>24/08/2026</programDate>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim240826.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.08.2026</description>
       <programDate>23/08/2026</programDate>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim230826.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.08.2026</description>
       <programDate>20/08/2026</programDate>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim200826.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.08.2026</description>
       <programDate>19/08/2026</programDate>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim190826.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.08.2026</description>
       <programDate>18/08/2026</programDate>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim180826.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.08.2026</description>
       <programDate>17/08/2026</programDate>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim170826.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.08.2026</description>
       <programDate>16/08/2026</programDate>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim160826.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.08.2026</description>
       <programDate>13/08/2026</programDate>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim130826.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.08.2026</description>
       <programDate>12/08/2026</programDate>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim120826.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.08.2026</description>
       <programDate>11/08/2026</programDate>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim110826.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.08.2026</description>
       <programDate>10/08/2026</programDate>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avirazon100826.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.08.2026</description>
       <programDate>09/08/2026</programDate>
       <pubDate>Sun, 09 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim090826.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.08.2026</description>
       <programDate>06/08/2026</programDate>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim060826.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.08.2026</description>
       <programDate>05/08/2026</programDate>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim050826.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.08.2026</description>
       <programDate>04/08/2026</programDate>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim040826.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.08.2026</description>
       <programDate>03/08/2026</programDate>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim030826.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.08.2026</description>
       <programDate>02/08/2026</programDate>
       <pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim020826.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.07.2026</description>
       <programDate>30/07/2026</programDate>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim300726.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.07.2026</description>
       <programDate>29/07/2026</programDate>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim290726.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.07.2026</description>
       <programDate>28/07/2026</programDate>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim280726.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.07.2026</description>
       <programDate>27/07/2026</programDate>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erez270726.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.07.2026</description>
       <programDate>26/07/2026</programDate>
       <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim260726.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.07.2026</description>
       <programDate>23/07/2026</programDate>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim230726.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.07.2026</description>
       <programDate>22/07/2026</programDate>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erez220726.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.07.2026</description>
       <programDate>21/07/2026</programDate>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim210726.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.07.2026</description>
       <programDate>20/07/2026</programDate>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim200726.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.07.2026</description>
       <programDate>19/07/2026</programDate>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim190726.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.07.2026</description>
       <programDate>15/07/2026</programDate>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim150726.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.07.2026</description>
       <programDate>14/07/2026</programDate>
       <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim140726.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.07.2026</description>
       <programDate>13/07/2026</programDate>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim130726.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.07.2026</description>
       <programDate>12/07/2026</programDate>
       <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim120726.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.07.2026</description>
       <programDate>09/07/2026</programDate>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/aviraz090726.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.07.2026</description>
       <programDate>08/07/2026</programDate>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avirazon080726.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.07.2026</description>
       <programDate>07/07/2026</programDate>
       <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avirazon070726.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.07.2026</description>
       <programDate>06/07/2026</programDate>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim060726.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.07.2026</description>
       <programDate>05/07/2026</programDate>
       <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/aviraz050726.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.07.2026</description>
       <programDate>02/07/2026</programDate>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avum020726.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.07.2026</description>
       <programDate>01/07/2026</programDate>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim010726.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.06.2026</description>
       <programDate>30/06/2026</programDate>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim300626.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.06.2026</description>
       <programDate>29/06/2026</programDate>
       <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim290626.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.06.2026</description>
       <programDate>28/06/2026</programDate>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim280626.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.06.2026</description>
       <programDate>25/06/2026</programDate>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim250626.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.06.2026</description>
       <programDate>24/06/2026</programDate>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim240626.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.06.2026</description>
       <programDate>23/06/2026</programDate>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim230626.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.06.2026</description>
       <programDate>22/06/2026</programDate>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim220626.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.06.2026</description>
       <programDate>21/06/2026</programDate>
       <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim210626.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.06.2026</description>
       <programDate>18/06/2026</programDate>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim180626.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.06.2026</description>
       <programDate>17/06/2026</programDate>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim170626.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.06.2026</description>
       <programDate>16/06/2026</programDate>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim160626.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.06.2026</description>
       <programDate>15/06/2026</programDate>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim150626.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.06.2026</description>
       <programDate>14/06/2026</programDate>
       <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim140626.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.06.2026</description>
       <programDate>11/06/2026</programDate>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/aviraz110626.mp3</guid>
     </item>
     <item>
@@ -828,7 +828,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.06.2026</description>
       <programDate>10/06/2026</programDate>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim100626.mp3</guid>
     </item>
     <item>
@@ -838,7 +838,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.06.2026</description>
       <programDate>09/06/2026</programDate>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim090626.mp3</guid>
     </item>
     <item>
@@ -848,7 +848,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.06.2026</description>
       <programDate>08/06/2026</programDate>
       <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim080626.mp3</guid>
     </item>
     <item>
@@ -858,7 +858,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.06.2026</description>
       <programDate>07/06/2026</programDate>
       <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi070626.mp3</guid>
     </item>
     <item>
@@ -868,7 +868,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.06.2026</description>
       <programDate>04/06/2026</programDate>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim040626.mp3</guid>
     </item>
     <item>
@@ -878,7 +878,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.06.2026</description>
       <programDate>03/06/2026</programDate>
       <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim030626.mp3</guid>
     </item>
     <item>
@@ -888,7 +888,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.06.2026</description>
       <programDate>02/06/2026</programDate>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim020626.mp3</guid>
     </item>
     <item>
@@ -898,7 +898,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.06.2026</description>
       <programDate>01/06/2026</programDate>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avirazon01062026.mp3</guid>
     </item>
     <item>
@@ -908,7 +908,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 31.05.2026</description>
       <programDate>31/05/2026</programDate>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|31/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim310526.mp3</guid>
     </item>
     <item>
@@ -918,7 +918,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.05.2026</description>
       <programDate>28/05/2026</programDate>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim280526.mp3</guid>
     </item>
     <item>
@@ -928,7 +928,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.05.2026</description>
       <programDate>27/05/2026</programDate>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avum270526.mp3</guid>
     </item>
     <item>
@@ -938,7 +938,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.05.2026</description>
       <programDate>26/05/2026</programDate>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim260526.mp3</guid>
     </item>
     <item>
@@ -948,7 +948,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.05.2026</description>
       <programDate>25/05/2026</programDate>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim250526.mp3</guid>
     </item>
     <item>
@@ -958,7 +958,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.05.2026</description>
       <programDate>24/05/2026</programDate>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim240526.mp3</guid>
     </item>
     <item>
@@ -968,7 +968,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.05.2026</description>
       <programDate>20/05/2026</programDate>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim200526.mp3</guid>
     </item>
     <item>
@@ -978,7 +978,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.05.2026</description>
       <programDate>19/05/2026</programDate>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim190526.mp3</guid>
     </item>
     <item>
@@ -988,7 +988,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.05.2026</description>
       <programDate>18/05/2026</programDate>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim180526.mp3</guid>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.05.2026</description>
       <programDate>17/05/2026</programDate>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim170526.mp3</guid>
     </item>
     <item>
@@ -1008,7 +1008,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.05.2026</description>
       <programDate>14/05/2026</programDate>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim140526.mp3</guid>
     </item>
     <item>
@@ -1018,7 +1018,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.05.2026</description>
       <programDate>13/05/2026</programDate>
       <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim130526.mp3</guid>
     </item>
     <item>
@@ -1028,7 +1028,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.05.2026</description>
       <programDate>12/05/2026</programDate>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim120526.mp3</guid>
     </item>
     <item>
@@ -1038,7 +1038,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.05.2026</description>
       <programDate>11/05/2026</programDate>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim110526.mp3</guid>
     </item>
     <item>
@@ -1048,7 +1048,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.05.2026</description>
       <programDate>10/05/2026</programDate>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim100526.mp3</guid>
     </item>
     <item>
@@ -1058,7 +1058,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.05.2026</description>
       <programDate>06/05/2026</programDate>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim060526.mp3</guid>
     </item>
     <item>
@@ -1068,7 +1068,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.05.2026</description>
       <programDate>05/05/2026</programDate>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim050526.mp3</guid>
     </item>
     <item>
@@ -1078,7 +1078,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.05.2026</description>
       <programDate>04/05/2026</programDate>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim040526.mp3</guid>
     </item>
     <item>
@@ -1088,7 +1088,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.05.2026</description>
       <programDate>03/05/2026</programDate>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim030526.mp3</guid>
     </item>
     <item>
@@ -1098,7 +1098,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.04.2026</description>
       <programDate>30/04/2026</programDate>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim300426.mp3</guid>
     </item>
     <item>
@@ -1108,7 +1108,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.04.2026</description>
       <programDate>29/04/2026</programDate>
       <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim290426.mp3</guid>
     </item>
     <item>
@@ -1118,7 +1118,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.04.2026</description>
       <programDate>27/04/2026</programDate>
       <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim270426.mp3</guid>
     </item>
     <item>
@@ -1128,7 +1128,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.04.2026</description>
       <programDate>26/04/2026</programDate>
       <pubDate>Sun, 26 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim260426.mp3</guid>
     </item>
     <item>
@@ -1138,7 +1138,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.04.2026</description>
       <programDate>23/04/2026</programDate>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim230426.mp3</guid>
     </item>
     <item>
@@ -1148,7 +1148,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.04.2026</description>
       <programDate>21/04/2026</programDate>
       <pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim210426.mp3</guid>
     </item>
     <item>
@@ -1158,7 +1158,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.04.2026</description>
       <programDate>20/04/2026</programDate>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim200426.mp3</guid>
     </item>
     <item>
@@ -1168,7 +1168,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.04.2026</description>
       <programDate>19/04/2026</programDate>
       <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim190426.mp3</guid>
     </item>
     <item>
@@ -1178,7 +1178,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.04.2026</description>
       <programDate>16/04/2026</programDate>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim160426.mp3</guid>
     </item>
     <item>
@@ -1188,7 +1188,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.04.2026</description>
       <programDate>15/04/2026</programDate>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avimmm150426.mp3</guid>
     </item>
     <item>
@@ -1198,7 +1198,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.04.2026</description>
       <programDate>14/04/2026</programDate>
       <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim140426.mp3</guid>
     </item>
     <item>
@@ -1208,7 +1208,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.04.2026</description>
       <programDate>13/04/2026</programDate>
       <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim130426.mp3</guid>
     </item>
     <item>
@@ -1218,7 +1218,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.04.2026</description>
       <programDate>12/04/2026</programDate>
       <pubDate>Sun, 12 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim120426.mp3</guid>
     </item>
     <item>
@@ -1228,7 +1228,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.04.2026</description>
       <programDate>09/04/2026</programDate>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim090426.mp3</guid>
     </item>
     <item>
@@ -1238,7 +1238,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.04.2026</description>
       <programDate>07/04/2026</programDate>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim070426.mp3</guid>
     </item>
     <item>
@@ -1248,7 +1248,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.04.2026</description>
       <programDate>06/04/2026</programDate>
       <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim060426.mp3</guid>
     </item>
     <item>
@@ -1258,7 +1258,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.04.2026</description>
       <programDate>05/04/2026</programDate>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim050426.mp3</guid>
     </item>
     <item>
@@ -1268,7 +1268,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 31.03.2026</description>
       <programDate>31/03/2026</programDate>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|31/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim310326.mp3</guid>
     </item>
     <item>
@@ -1278,7 +1278,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.03.2026</description>
       <programDate>30/03/2026</programDate>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim300326.mp3</guid>
     </item>
     <item>
@@ -1288,7 +1288,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.03.2026</description>
       <programDate>29/03/2026</programDate>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim290326.mp3</guid>
     </item>
     <item>
@@ -1298,7 +1298,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.03.2026</description>
       <programDate>26/03/2026</programDate>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim260326.mp3</guid>
     </item>
     <item>
@@ -1308,7 +1308,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.03.2026</description>
       <programDate>25/03/2026</programDate>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim250326.mp3</guid>
     </item>
     <item>
@@ -1318,7 +1318,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.03.2026</description>
       <programDate>24/03/2026</programDate>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim240326.mp3</guid>
     </item>
     <item>
@@ -1328,7 +1328,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.03.2026</description>
       <programDate>23/03/2026</programDate>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim230326.mp3</guid>
     </item>
     <item>
@@ -1338,7 +1338,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.03.2026</description>
       <programDate>22/03/2026</programDate>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim220326.mp3</guid>
     </item>
     <item>
@@ -1348,7 +1348,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.03.2026</description>
       <programDate>19/03/2026</programDate>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim190326.mp3</guid>
     </item>
     <item>
@@ -1358,7 +1358,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.03.2026</description>
       <programDate>17/03/2026</programDate>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim170326.mp3</guid>
     </item>
     <item>
@@ -1368,7 +1368,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.03.2026</description>
       <programDate>16/03/2026</programDate>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim160326.mp3</guid>
     </item>
     <item>
@@ -1378,7 +1378,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.03.2026</description>
       <programDate>15/03/2026</programDate>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim150326.mp3</guid>
     </item>
     <item>
@@ -1388,7 +1388,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.03.2026</description>
       <programDate>12/03/2026</programDate>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim130326.mp3</guid>
     </item>
     <item>
@@ -1398,7 +1398,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.03.2026</description>
       <programDate>11/03/2026</programDate>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi110326.mp3</guid>
     </item>
     <item>
@@ -1408,7 +1408,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.03.2026</description>
       <programDate>10/03/2026</programDate>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/ziv100326.mp3</guid>
     </item>
     <item>
@@ -1418,7 +1418,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.03.2026</description>
       <programDate>09/03/2026</programDate>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim090326.mp3</guid>
     </item>
     <item>
@@ -1428,7 +1428,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.03.2026</description>
       <programDate>08/03/2026</programDate>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim080326.mp3</guid>
     </item>
     <item>
@@ -1438,7 +1438,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.03.2026</description>
       <programDate>05/03/2026</programDate>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim050326.mp3</guid>
     </item>
     <item>
@@ -1448,7 +1448,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.03.2026</description>
       <programDate>04/03/2026</programDate>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim040326.mp3</guid>
     </item>
     <item>
@@ -1458,7 +1458,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.03.2026</description>
       <programDate>03/03/2026</programDate>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim030326.mp3</guid>
     </item>
     <item>
@@ -1468,7 +1468,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.03.2026</description>
       <programDate>02/03/2026</programDate>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim020326.mp3</guid>
     </item>
     <item>
@@ -1478,7 +1478,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.03.2026</description>
       <programDate>01/03/2026</programDate>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim010326.mp3</guid>
     </item>
     <item>
@@ -1488,7 +1488,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.02.2026</description>
       <programDate>25/02/2026</programDate>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim250226.mp3</guid>
     </item>
     <item>
@@ -1498,7 +1498,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.02.2026</description>
       <programDate>24/02/2026</programDate>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim240226.mp3</guid>
     </item>
     <item>
@@ -1508,7 +1508,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.02.2026</description>
       <programDate>23/02/2026</programDate>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim230226.mp3</guid>
     </item>
     <item>
@@ -1518,7 +1518,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.02.2026</description>
       <programDate>22/02/2026</programDate>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim220226.mp3</guid>
     </item>
     <item>
@@ -1528,7 +1528,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.02.2026</description>
       <programDate>19/02/2026</programDate>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim190226.mp3</guid>
     </item>
     <item>
@@ -1538,7 +1538,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.02.2026</description>
       <programDate>18/02/2026</programDate>
       <pubDate>Wed, 18 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim180226.mp3</guid>
     </item>
     <item>
@@ -1548,7 +1548,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.02.2026</description>
       <programDate>17/02/2026</programDate>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim170226.mp3</guid>
     </item>
     <item>
@@ -1558,7 +1558,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.02.2026</description>
       <programDate>15/02/2026</programDate>
       <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim150226.mp3</guid>
     </item>
     <item>
@@ -1568,7 +1568,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.02.2026</description>
       <programDate>12/02/2026</programDate>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim120226.mp3</guid>
     </item>
     <item>
@@ -1578,7 +1578,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.02.2026</description>
       <programDate>11/02/2026</programDate>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim110226.mp3</guid>
     </item>
     <item>
@@ -1588,7 +1588,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.02.2026</description>
       <programDate>10/02/2026</programDate>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim100226.mp3</guid>
     </item>
     <item>
@@ -1598,7 +1598,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.02.2026</description>
       <programDate>09/02/2026</programDate>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim090226.mp3</guid>
     </item>
     <item>
@@ -1608,7 +1608,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.02.2026</description>
       <programDate>08/02/2026</programDate>
       <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim080226.mp3</guid>
     </item>
     <item>
@@ -1618,7 +1618,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.02.2026</description>
       <programDate>05/02/2026</programDate>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim050226.mp3</guid>
     </item>
     <item>
@@ -1628,7 +1628,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.02.2026</description>
       <programDate>04/02/2026</programDate>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim040226.mp3</guid>
     </item>
     <item>
@@ -1638,7 +1638,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.02.2026</description>
       <programDate>03/02/2026</programDate>
       <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim030226.mp3</guid>
     </item>
     <item>
@@ -1648,7 +1648,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.02.2026</description>
       <programDate>02/02/2026</programDate>
       <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim020226.mp3</guid>
     </item>
     <item>
@@ -1658,7 +1658,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.02.2026</description>
       <programDate>01/02/2026</programDate>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim010226.mp3</guid>
     </item>
     <item>
@@ -1668,7 +1668,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.01.2026</description>
       <programDate>29/01/2026</programDate>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim2901126.mp3</guid>
     </item>
     <item>
@@ -1678,7 +1678,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.01.2026</description>
       <programDate>28/01/2026</programDate>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5b25f579-565a-477c-a5d2-b27070e56ee9.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim280126.mp3</guid>
     </item>
     <item>
@@ -1688,7 +1688,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.01.2026</description>
       <programDate>27/01/2026</programDate>
       <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim270126.mp3</guid>
     </item>
     <item>
@@ -1698,7 +1698,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.01.2026</description>
       <programDate>26/01/2026</programDate>
       <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim260126.mp3</guid>
     </item>
     <item>
@@ -1708,7 +1708,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.01.2026</description>
       <programDate>25/01/2026</programDate>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi250126.mp3</guid>
     </item>
     <item>
@@ -1718,7 +1718,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.01.2026</description>
       <programDate>22/01/2026</programDate>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi220126.mp3</guid>
     </item>
     <item>
@@ -1728,7 +1728,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.01.2026</description>
       <programDate>21/01/2026</programDate>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi210126.mp3</guid>
     </item>
     <item>
@@ -1738,7 +1738,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.01.2026</description>
       <programDate>20/01/2026</programDate>
       <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/ziv200126.mp3</guid>
     </item>
     <item>
@@ -1748,7 +1748,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.01.2026</description>
       <programDate>19/01/2026</programDate>
       <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi190120226.mp3</guid>
     </item>
     <item>
@@ -1758,7 +1758,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.01.2026</description>
       <programDate>18/01/2026</programDate>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi1801206.mp3</guid>
     </item>
     <item>
@@ -1768,7 +1768,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.01.2026</description>
       <programDate>15/01/2026</programDate>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi15012026.mp3</guid>
     </item>
     <item>
@@ -1778,7 +1778,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.01.2026</description>
       <programDate>14/01/2026</programDate>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi14012026.mp3</guid>
     </item>
     <item>
@@ -1788,7 +1788,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.01.2026</description>
       <programDate>13/01/2026</programDate>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi13012026.mp3</guid>
     </item>
     <item>
@@ -1798,7 +1798,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.01.2026</description>
       <programDate>12/01/2026</programDate>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi12012026.mp3</guid>
     </item>
     <item>
@@ -1808,7 +1808,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.01.2026</description>
       <programDate>11/01/2026</programDate>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi11012026.mp3</guid>
     </item>
     <item>
@@ -1818,7 +1818,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.01.2026</description>
       <programDate>08/01/2026</programDate>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi080120026.mp3</guid>
     </item>
     <item>
@@ -1828,7 +1828,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.01.2026</description>
       <programDate>07/01/2026</programDate>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi07012026.mp3</guid>
     </item>
     <item>
@@ -1838,7 +1838,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.01.2026</description>
       <programDate>06/01/2026</programDate>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi06012026.mp3</guid>
     </item>
     <item>
@@ -1848,7 +1848,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.01.2026</description>
       <programDate>05/01/2026</programDate>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi05012026.mp3</guid>
     </item>
     <item>
@@ -1858,7 +1858,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.01.2026</description>
       <programDate>04/01/2026</programDate>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avira04012026.mp3</guid>
     </item>
     <item>
@@ -1868,7 +1868,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.01.2026</description>
       <programDate>01/01/2026</programDate>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim010125.mp3</guid>
     </item>
     <item>
@@ -1878,7 +1878,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 31.12.2025</description>
       <programDate>31/12/2025</programDate>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|31/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim311225.mp3</guid>
     </item>
     <item>
@@ -1888,7 +1888,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.12.2025</description>
       <programDate>30/12/2025</programDate>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim301225.mp3</guid>
     </item>
     <item>
@@ -1898,7 +1898,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.12.2025</description>
       <programDate>29/12/2025</programDate>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi29122025.mp3</guid>
     </item>
     <item>
@@ -1908,7 +1908,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.12.2025</description>
       <programDate>28/12/2025</programDate>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi28122025.mp3</guid>
     </item>
     <item>
@@ -1918,7 +1918,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.12.2025</description>
       <programDate>25/12/2025</programDate>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avir25122025.mp3</guid>
     </item>
     <item>
@@ -1928,7 +1928,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.12.2025</description>
       <programDate>24/12/2025</programDate>
       <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim241225.mp3</guid>
     </item>
     <item>
@@ -1938,7 +1938,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.12.2025</description>
       <programDate>23/12/2025</programDate>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim231225.mp3</guid>
     </item>
     <item>
@@ -1948,7 +1948,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.12.2025</description>
       <programDate>22/12/2025</programDate>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim221225.mp3</guid>
     </item>
     <item>
@@ -1958,7 +1958,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.12.2025</description>
       <programDate>21/12/2025</programDate>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim211225.mp3</guid>
     </item>
     <item>
@@ -1968,7 +1968,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.12.2025</description>
       <programDate>18/12/2025</programDate>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/ziv181225.mp3</guid>
     </item>
     <item>
@@ -1978,7 +1978,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.12.2025</description>
       <programDate>17/12/2025</programDate>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim171225.mp3</guid>
     </item>
     <item>
@@ -1988,7 +1988,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.12.2025</description>
       <programDate>16/12/2025</programDate>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim161225.mp3</guid>
     </item>
     <item>
@@ -1998,7 +1998,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.12.2025</description>
       <programDate>15/12/2025</programDate>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim151225.mp3</guid>
     </item>
     <item>
@@ -2008,7 +2008,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 14.12.2025</description>
       <programDate>14/12/2025</programDate>
       <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|14/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim141225.mp3</guid>
     </item>
     <item>
@@ -2018,7 +2018,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.12.2025</description>
       <programDate>11/12/2025</programDate>
       <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim111225.mp3</guid>
     </item>
     <item>
@@ -2028,7 +2028,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.12.2025</description>
       <programDate>10/12/2025</programDate>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim101225.mp3</guid>
     </item>
     <item>
@@ -2038,7 +2038,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.12.2025</description>
       <programDate>09/12/2025</programDate>
       <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim091225.mp3</guid>
     </item>
     <item>
@@ -2048,7 +2048,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.12.2025</description>
       <programDate>08/12/2025</programDate>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi08122025.mp3</guid>
     </item>
     <item>
@@ -2058,7 +2058,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 07.12.2025</description>
       <programDate>07/12/2025</programDate>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|07/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avu07122025.mp3</guid>
     </item>
     <item>
@@ -2068,7 +2068,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.12.2025</description>
       <programDate>03/12/2025</programDate>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi03122025.mp3</guid>
     </item>
     <item>
@@ -2078,7 +2078,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.12.2025</description>
       <programDate>02/12/2025</programDate>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi021220252.mp3</guid>
     </item>
     <item>
@@ -2088,7 +2088,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.12.2025</description>
       <programDate>01/12/2025</programDate>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi01122025.mp3</guid>
     </item>
     <item>
@@ -2098,7 +2098,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.11.2025</description>
       <programDate>30/11/2025</programDate>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi30112025.mp3</guid>
     </item>
     <item>
@@ -2108,7 +2108,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 27.11.2025</description>
       <programDate>27/11/2025</programDate>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|27/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi27112025.mp3</guid>
     </item>
     <item>
@@ -2118,7 +2118,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.11.2025</description>
       <programDate>26/11/2025</programDate>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi26112025.mp3</guid>
     </item>
     <item>
@@ -2128,7 +2128,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 25.11.2025</description>
       <programDate>25/11/2025</programDate>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|25/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi25112025.mp3</guid>
     </item>
     <item>
@@ -2138,7 +2138,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 24.11.2025</description>
       <programDate>24/11/2025</programDate>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|24/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi24112025.mp3</guid>
     </item>
     <item>
@@ -2148,7 +2148,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.11.2025</description>
       <programDate>23/11/2025</programDate>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi231120225.mp3</guid>
     </item>
     <item>
@@ -2158,7 +2158,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.11.2025</description>
       <programDate>20/11/2025</programDate>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi20112025.mp3</guid>
     </item>
     <item>
@@ -2168,7 +2168,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.11.2025</description>
       <programDate>19/11/2025</programDate>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi191120255.mp3</guid>
     </item>
     <item>
@@ -2178,7 +2178,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.11.2025</description>
       <programDate>18/11/2025</programDate>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi18112025.mp3</guid>
     </item>
     <item>
@@ -2188,7 +2188,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.11.2025</description>
       <programDate>17/11/2025</programDate>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi17112025.mp3</guid>
     </item>
     <item>
@@ -2198,7 +2198,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.11.2025</description>
       <programDate>16/11/2025</programDate>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/AVI161120255.mp3</guid>
     </item>
     <item>
@@ -2208,7 +2208,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.11.2025</description>
       <programDate>13/11/2025</programDate>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi13112025.mp3</guid>
     </item>
     <item>
@@ -2218,7 +2218,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.11.2025</description>
       <programDate>12/11/2025</programDate>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi12112025.mp3</guid>
     </item>
     <item>
@@ -2228,7 +2228,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 11.11.2025</description>
       <programDate>11/11/2025</programDate>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|11/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi11112025.mp3</guid>
     </item>
     <item>
@@ -2238,7 +2238,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 10.11.2025</description>
       <programDate>10/11/2025</programDate>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|10/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi10112025.mp3</guid>
     </item>
     <item>
@@ -2248,7 +2248,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.11.2025</description>
       <programDate>09/11/2025</programDate>
       <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi09112025.mp3</guid>
     </item>
     <item>
@@ -2258,7 +2258,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.11.2025</description>
       <programDate>05/11/2025</programDate>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim051125.mp3</guid>
     </item>
     <item>
@@ -2268,7 +2268,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 04.11.2025</description>
       <programDate>04/11/2025</programDate>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|04/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi04112025.mp3</guid>
     </item>
     <item>
@@ -2278,7 +2278,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 03.11.2025</description>
       <programDate>03/11/2025</programDate>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|03/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi03112025.mp3</guid>
     </item>
     <item>
@@ -2288,7 +2288,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 02.11.2025</description>
       <programDate>02/11/2025</programDate>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|02/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi02112025.mp3</guid>
     </item>
     <item>
@@ -2298,7 +2298,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.10.2025</description>
       <programDate>30/10/2025</programDate>
       <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi30102025.mp3</guid>
     </item>
     <item>
@@ -2308,7 +2308,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.10.2025</description>
       <programDate>29/10/2025</programDate>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi29102025.mp3</guid>
     </item>
     <item>
@@ -2318,7 +2318,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.10.2025</description>
       <programDate>28/10/2025</programDate>
       <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/ziv28102025.mp3</guid>
     </item>
     <item>
@@ -2328,7 +2328,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.10.2025</description>
       <programDate>26/10/2025</programDate>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi261020225.mp3</guid>
     </item>
     <item>
@@ -2338,7 +2338,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 26.10.2025</description>
       <programDate>26/10/2025</programDate>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|26/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi27102025.mp3</guid>
     </item>
     <item>
@@ -2348,7 +2348,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 23.10.2025</description>
       <programDate>23/10/2025</programDate>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|23/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi23102025.mp3</guid>
     </item>
     <item>
@@ -2358,7 +2358,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.10.2025</description>
       <programDate>22/10/2025</programDate>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi22102025.mp3</guid>
     </item>
     <item>
@@ -2368,7 +2368,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.10.2025</description>
       <programDate>21/10/2025</programDate>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi21102025.mp3</guid>
     </item>
     <item>
@@ -2378,7 +2378,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 20.10.2025</description>
       <programDate>20/10/2025</programDate>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|20/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi20102025.mp3</guid>
     </item>
     <item>
@@ -2388,7 +2388,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 19.10.2025</description>
       <programDate>19/10/2025</programDate>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|19/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi19102025.mp3</guid>
     </item>
     <item>
@@ -2398,7 +2398,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.10.2025</description>
       <programDate>16/10/2025</programDate>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi16102025.mp3</guid>
     </item>
     <item>
@@ -2408,7 +2408,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 15.10.2025</description>
       <programDate>15/10/2025</programDate>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|15/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim151025.mp3</guid>
     </item>
     <item>
@@ -2418,7 +2418,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 13.10.2025</description>
       <programDate>13/10/2025</programDate>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|13/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim131025.mp3</guid>
     </item>
     <item>
@@ -2428,7 +2428,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 12.10.2025</description>
       <programDate>12/10/2025</programDate>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|12/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi12102025.mp3</guid>
     </item>
     <item>
@@ -2438,7 +2438,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 09.10.2025</description>
       <programDate>09/10/2025</programDate>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|09/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi0991020225.mp3</guid>
     </item>
     <item>
@@ -2448,7 +2448,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 08.10.2025</description>
       <programDate>08/10/2025</programDate>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|08/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi08102025.mp3</guid>
     </item>
     <item>
@@ -2458,7 +2458,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 06.10.2025</description>
       <programDate>06/10/2025</programDate>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|06/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi06102025.mp3</guid>
     </item>
     <item>
@@ -2468,7 +2468,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 05.10.2025</description>
       <programDate>05/10/2025</programDate>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|05/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi051022025.mp3</guid>
     </item>
     <item>
@@ -2478,7 +2478,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 01.10.2025</description>
       <programDate>01/10/2025</programDate>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|01/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi01102025.mp3</guid>
     </item>
     <item>
@@ -2488,7 +2488,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 30.09.2025</description>
       <programDate>30/09/2025</programDate>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|30/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi30092025.mp3</guid>
     </item>
     <item>
@@ -2498,7 +2498,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 29.09.2025</description>
       <programDate>29/09/2025</programDate>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|29/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi29092025.mp3</guid>
     </item>
     <item>
@@ -2508,7 +2508,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 28.09.2025</description>
       <programDate>28/09/2025</programDate>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|28/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi28092025.mp3</guid>
     </item>
     <item>
@@ -2518,7 +2518,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 22.09.2025</description>
       <programDate>22/09/2025</programDate>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|22/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi220925.mp3ז</guid>
     </item>
     <item>
@@ -2528,7 +2528,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 21.09.2025</description>
       <programDate>21/09/2025</programDate>
       <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|21/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim210925.mp3</guid>
     </item>
     <item>
@@ -2538,7 +2538,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 18.09.2025</description>
       <programDate>18/09/2025</programDate>
       <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|18/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/asvi18092025.mp3</guid>
     </item>
     <item>
@@ -2548,7 +2548,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 17.09.2025</description>
       <programDate>17/09/2025</programDate>
       <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|17/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi170920205.mp3</guid>
     </item>
     <item>
@@ -2558,7 +2558,7 @@
       <description>אבי רצון בבוקר | 07:00 ~ 16.09.2025</description>
       <programDate>16/09/2025</programDate>
       <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg"/>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/b9a9c464-658a-44b9-a91e-3780a59c9189.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">381|15|16/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avi16092025.mp3</guid>
     </item>
   </channel>
