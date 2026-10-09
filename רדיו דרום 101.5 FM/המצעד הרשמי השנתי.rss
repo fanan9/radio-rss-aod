@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו דרום 101.5 FM | המצעד הרשמי השנתי</title>
+    <description>Programs from רדיו דרום 101.5 FM, show: המצעד הרשמי השנתי</description>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/MZADSH100926.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 12:52:01 +0000</lastBuildDate>
+    <image>
+      <url>https://1015.radiodarom.co.il/Upload/Media/Images/3775898e-a48c-43ac-89e3-b686da09355d.png</url>
+      <title>רדיו דרום 101.5 FM | המצעד הרשמי השנתי</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/MZADSH100926.mp3</link>
+    </image>
+    <item>
+      <title>המצעד הרשמי השנתי ~ 11.09.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/MZADSH100926.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/MZADSH100926.mp3" length="0" type="audio/mpeg" />
+      <description>המצעד הרשמי השנתי ~ 11.09.2026</description>
+      <programDate>11/09/2026</programDate>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://1015.radiodarom.co.il/Upload/Media/Images/3775898e-a48c-43ac-89e3-b686da09355d.png" />
+      <guid isPermaLink="false">473|17|11/09/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/MZADSH100926.mp3</guid>
+    </item>
+  </channel>
+</rss>
