@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | ועדת העורכים | דורון כהן ואיתן אורקיבי</title>
     <description>Programs from רדיו גלי ישראל, show: ועדת העורכים | דורון כהן ואיתן אורקיבי</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat09102026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg</url>
       <title>רדיו גלי ישראל | ועדת העורכים | דורון כהן ואיתן אורקיבי</title>
@@ -18,7 +18,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 09.10.2026</description>
       <programDate>09/10/2026</programDate>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|09/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat09102026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 02.10.2026</description>
       <programDate>02/10/2026</programDate>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|02/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 25.09.2026</description>
       <programDate>25/09/2026</programDate>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|25/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vad25092026.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 18.09.2026</description>
       <programDate>18/09/2026</programDate>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|18/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vada18092026.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 11.09.2026</description>
       <programDate>11/09/2026</programDate>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|11/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vada11092026.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 04.09.2026</description>
       <programDate>04/09/2026</programDate>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|04/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat04092026.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 28.08.2026</description>
       <programDate>28/08/2026</programDate>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|28/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat28082026.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 21.08.2026</description>
       <programDate>21/08/2026</programDate>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|21/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat21082026.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 14.08.2026</description>
       <programDate>14/08/2026</programDate>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|14/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vada14082026.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 07.08.2026</description>
       <programDate>07/08/2026</programDate>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|07/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vada07082026.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 31.07.2026</description>
       <programDate>31/07/2026</programDate>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|31/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vaday31072026.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 24.07.2026</description>
       <programDate>24/07/2026</programDate>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|24/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat24072026.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 17.07.2026</description>
       <programDate>17/07/2026</programDate>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|17/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat17072026.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 10.07.2026</description>
       <programDate>10/07/2026</programDate>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|10/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/or10072026.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 03.07.2026</description>
       <programDate>03/07/2026</programDate>
       <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|03/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadt03072026.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 26.06.2026</description>
       <programDate>26/06/2026</programDate>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|26/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vada26062026.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 19.06.2026</description>
       <programDate>19/06/2026</programDate>
       <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|19/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat19062025.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 12.06.2026</description>
       <programDate>12/06/2026</programDate>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|12/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat120626.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 05.06.2026</description>
       <programDate>05/06/2026</programDate>
       <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/5ee5967b-8fac-4bd4-a684-9d29c26f6a6b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|05/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat050626.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>ועדת העורכים | דורון כהן ואיתן אורקיבי ~ 29.05.2026</description>
       <programDate>29/05/2026</programDate>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/d0f86d4b-1e45-4ec3-89f6-90ad44425435.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">398|15|29/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/vadat290526.mp3</guid>
     </item>
   </channel>
