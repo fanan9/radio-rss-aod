@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00</title>
     <description>Programs from רדיו גלי ישראל, show: איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais081026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/e581aa81-1149-4eb7-8b14-a0eda9fe298f.jpg</url>
       <title>רדיו גלי ישראל | איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00</title>
@@ -18,7 +18,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 08.10.2026</description>
       <programDate>08/10/2026</programDate>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/e581aa81-1149-4eb7-8b14-a0eda9fe298f.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/e581aa81-1149-4eb7-8b14-a0eda9fe298f.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|08/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais081026.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 01.10.2026</description>
       <programDate>01/10/2026</programDate>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/e581aa81-1149-4eb7-8b14-a0eda9fe298f.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/e581aa81-1149-4eb7-8b14-a0eda9fe298f.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|01/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais011026.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 24.09.2026</description>
       <programDate>24/09/2026</programDate>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|24/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/pl2309.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 10.09.2026</description>
       <programDate>10/09/2026</programDate>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|10/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais100926.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 03.09.2026</description>
       <programDate>03/09/2026</programDate>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|03/09/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais030926.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 27.08.2026</description>
       <programDate>27/08/2026</programDate>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|27/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flias270826.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 20.08.2026</description>
       <programDate>20/08/2026</programDate>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|20/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/busi200826.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 13.08.2026</description>
       <programDate>13/08/2026</programDate>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|13/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais130826.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 06.08.2026</description>
       <programDate>06/08/2026</programDate>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|06/08/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais060826.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 30.07.2026</description>
       <programDate>30/07/2026</programDate>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|30/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais300726.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 23.07.2026</description>
       <programDate>23/07/2026</programDate>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|23/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis230726.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 09.07.2026</description>
       <programDate>09/07/2026</programDate>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|09/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais090726.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 02.07.2026</description>
       <programDate>02/07/2026</programDate>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|02/07/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis020726.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 25.06.2026</description>
       <programDate>25/06/2026</programDate>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|25/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/fluas250626.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 18.06.2026</description>
       <programDate>18/06/2026</programDate>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|18/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis180626.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 11.06.2026</description>
       <programDate>11/06/2026</programDate>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|11/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis110626.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 04.06.2026</description>
       <programDate>04/06/2026</programDate>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|04/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais040626.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 28.05.2026</description>
       <programDate>28/05/2026</programDate>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|28/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis280526.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 14.05.2026</description>
       <programDate>14/05/2026</programDate>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|14/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis140526.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 30.04.2026</description>
       <programDate>30/04/2026</programDate>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|30/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais300426.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 23.04.2026</description>
       <programDate>23/04/2026</programDate>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|23/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis230426.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 16.04.2026</description>
       <programDate>16/04/2026</programDate>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|16/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais160426.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 09.04.2026</description>
       <programDate>09/04/2026</programDate>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|09/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais090426.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 26.03.2026</description>
       <programDate>26/03/2026</programDate>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|26/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/busi260326.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 19.03.2026</description>
       <programDate>19/03/2026</programDate>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|19/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais190326.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 12.03.2026</description>
       <programDate>12/03/2026</programDate>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|12/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flis120326.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 05.03.2026</description>
       <programDate>05/03/2026</programDate>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|05/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/busi050326.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 19.02.2026</description>
       <programDate>19/02/2026</programDate>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|19/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/fliss190226.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 12.02.2026</description>
       <programDate>12/02/2026</programDate>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|12/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/busi12022026.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 05.02.2026</description>
       <programDate>05/02/2026</programDate>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|05/02/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/busi050226.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>איתמר פליישמן ועו_ד גיא בוסי | חמישי 8:00_10:00 ~ 29.01.2026</description>
       <programDate>29/01/2026</programDate>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/826c58c4-5ec6-4d5c-b0ae-f3a382ce4c22.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">382|15|29/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/flais290126.mp3</guid>
     </item>
   </channel>
