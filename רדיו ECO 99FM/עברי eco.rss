@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו ECO 99FM | עברי eco</title>
     <description>Programs from רדיו ECO 99FM, show: עברי eco</description>
     <link>https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_637.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_637_copy_1.jpg</url>
       <title>רדיו ECO 99FM | עברי eco</title>
@@ -18,7 +18,7 @@
       <description>עברי eco</description>
       <programDate>04/12/2020</programDate>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_637_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_637_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/12/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_637.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>עברי eco</description>
       <programDate>29/11/2020</programDate>
       <pubDate>Sun, 29 Nov 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_636_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_636_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|29/11/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_636.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>עברי eco</description>
       <programDate>24/10/2020</programDate>
       <pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_635_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_635_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_635.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>עברי eco</description>
       <programDate>23/10/2020</programDate>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_632d_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_632d_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_632.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>עברי eco</description>
       <programDate>18/10/2020</programDate>
       <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_631_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_631_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|18/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_631.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>עברי eco</description>
       <programDate>17/10/2020</programDate>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_630_unsplash_copy_3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_630_unsplash_copy_3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_630.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>עברי eco</description>
       <programDate>13/10/2020</programDate>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_629_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_629_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|13/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_629.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>עברי eco</description>
       <programDate>10/10/2020</programDate>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_633_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_633_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_633.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>עברי eco</description>
       <programDate>09/10/2020</programDate>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_634_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_634_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/10/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_634.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>עברי eco</description>
       <programDate>09/08/2020</programDate>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_628_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_628_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/08/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_628.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>עברי eco</description>
       <programDate>08/08/2020</programDate>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_627_unsplash_copy_3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_627_unsplash_copy_3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/08/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_627.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>עברי eco</description>
       <programDate>26/05/2020</programDate>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_626_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_626_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/05/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_626.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>עברי eco</description>
       <programDate>26/05/2020</programDate>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_625_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_625_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/05/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_625.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>עברי eco</description>
       <programDate>12/04/2020</programDate>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_624b.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_624b.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/04/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_624.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>עברי eco</description>
       <programDate>10/04/2020</programDate>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_623_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_623_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/04/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_623.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>עברי eco</description>
       <programDate>08/04/2020</programDate>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_622_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_622_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/04/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_622.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>עברי eco</description>
       <programDate>21/03/2020</programDate>
       <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_602_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_602_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/03/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_602.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>עברי eco</description>
       <programDate>27/02/2020</programDate>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_568_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_568_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/02/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_568.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>עברי eco</description>
       <programDate>23/02/2020</programDate>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_525_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_525_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/02/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_525.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>עברי eco</description>
       <programDate>14/02/2020</programDate>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_586_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_586_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|14/02/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_586.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>עברי eco</description>
       <programDate>28/01/2020</programDate>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_569_unsplash_copy_2.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_569_unsplash_copy_2.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_569.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>עברי eco</description>
       <programDate>24/01/2020</programDate>
       <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_592_unsplash_copy_3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_592_unsplash_copy_3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_592.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>עברי eco</description>
       <programDate>18/01/2020</programDate>
       <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_591_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_591_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|18/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_591.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>עברי eco</description>
       <programDate>15/01/2020</programDate>
       <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_589_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_589_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|15/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_589.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>עברי eco</description>
       <programDate>14/01/2020</programDate>
       <pubDate>Tue, 14 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_590_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_590_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|14/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_590.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>עברי eco</description>
       <programDate>11/01/2020</programDate>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_567_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_567_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_567.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>עברי eco</description>
       <programDate>09/01/2020</programDate>
       <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_506_unsplash_copy_3.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_506_unsplash_copy_3.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_506.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>עברי eco</description>
       <programDate>07/01/2020</programDate>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_594_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_594_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/01/2020|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_594.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>עברי eco</description>
       <programDate>28/12/2019</programDate>
       <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_544_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_544_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_544.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>עברי eco</description>
       <programDate>26/12/2019</programDate>
       <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_583_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_583_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_583.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>עברי eco</description>
       <programDate>25/12/2019</programDate>
       <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_584_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_584_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_584.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>עברי eco</description>
       <programDate>21/12/2019</programDate>
       <pubDate>Sat, 21 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_576_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_576_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_576.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>עברי eco</description>
       <programDate>19/12/2019</programDate>
       <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_579_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_579_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|19/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_579.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>עברי eco</description>
       <programDate>10/12/2019</programDate>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_580_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_580_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_580.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>עברי eco</description>
       <programDate>06/12/2019</programDate>
       <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_578_bunsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_578_bunsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/12/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_578.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>עברי eco</description>
       <programDate>28/11/2019</programDate>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_571_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_571_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/11/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_571.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>עברי eco</description>
       <programDate>22/11/2019</programDate>
       <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_585_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_585_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/11/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_585.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>עברי eco</description>
       <programDate>17/11/2019</programDate>
       <pubDate>Sun, 17 Nov 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_572_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_572_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/11/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_572.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>עברי eco</description>
       <programDate>12/11/2019</programDate>
       <pubDate>Tue, 12 Nov 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_581_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_581_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/11/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_581.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>עברי eco</description>
       <programDate>25/10/2019</programDate>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_617_unsplash_copy_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_617_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/10/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_617.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>עברי eco</description>
       <programDate>18/10/2019</programDate>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="http://eco99-prod.moveodevelop.com/download/Sets/pictures/nostalgic_563_unsplash_copy_1.jpg" />
+      <enclosure url="http://eco99-prod.moveodevelop.com/download/Sets/pictures/nostalgic_563_unsplash_copy_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|18/10/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_563.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>עברי eco</description>
       <programDate>12/10/2019</programDate>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_593_unsplash.1570868439238.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_593_unsplash.1570868439238.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/10/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_593.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>עברי eco</description>
       <programDate>12/10/2019</programDate>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_565_unsplash.1570873039334.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_565_unsplash.1570873039334.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/10/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_565.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>עברי eco</description>
       <programDate>11/10/2019</programDate>
       <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_564_unsplash.1570780380363.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_564_unsplash.1570780380363.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/10/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_564.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>עברי eco</description>
       <programDate>06/10/2019</programDate>
       <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_561_unsplash.1570370714438.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_561_unsplash.1570370714438.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/10/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_561.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>עברי eco</description>
       <programDate>30/09/2019</programDate>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_560_unsplash.1569849381602.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_560_unsplash.1569849381602.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|30/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_560.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>עברי eco</description>
       <programDate>27/09/2019</programDate>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_559_unsplash.1569569645063.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_559_unsplash.1569569645063.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_559.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>עברי eco</description>
       <programDate>22/09/2019</programDate>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_558_unsplash.1569149983473.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_558_unsplash.1569149983473.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_558.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>עברי eco</description>
       <programDate>22/09/2019</programDate>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_557_unsplash.1569148747433.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_557_unsplash.1569148747433.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_557.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>עברי eco</description>
       <programDate>15/09/2019</programDate>
       <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_555_unsplash.1569331806079.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_555_unsplash.1569331806079.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|15/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_555.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>עברי eco</description>
       <programDate>10/09/2019</programDate>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_554_unsplash.1569331195124.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_554_unsplash.1569331195124.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_554.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>עברי eco</description>
       <programDate>08/09/2019</programDate>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_534_unsplash.1569331169477.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_534_unsplash.1569331169477.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_534.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>עברי eco</description>
       <programDate>04/09/2019</programDate>
       <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_553_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_553_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_553.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>עברי eco</description>
       <programDate>01/09/2019</programDate>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_545_unsplash.1569331142087.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_545_unsplash.1569331142087.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/09/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_545.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>עברי eco</description>
       <programDate>25/08/2019</programDate>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_546_unsplash.1569329919515.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_546_unsplash.1569329919515.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_546.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>עברי eco</description>
       <programDate>22/08/2019</programDate>
       <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_530_unsplash.1569329886427.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_530_unsplash.1569329886427.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_530.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>עברי eco</description>
       <programDate>17/08/2019</programDate>
       <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_541_unsplash.1570028630751.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_541_unsplash.1570028630751.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_541.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>עברי eco</description>
       <programDate>13/08/2019</programDate>
       <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_535_unsplash.1570028607745.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_535_unsplash.1570028607745.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|13/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_535.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>עברי eco</description>
       <programDate>12/08/2019</programDate>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_540_unsplash.1570028572881.jpg" />
+      <enclosure url="https://modex-files.s3.eu-central-1.amazonaws.com/nostalgic_540_unsplash.1570028572881.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_540.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>עברי eco</description>
       <programDate>08/08/2019</programDate>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_536_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_536_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_536.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>עברי eco</description>
       <programDate>07/08/2019</programDate>
       <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_533_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_533_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_533.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>עברי eco</description>
       <programDate>01/08/2019</programDate>
       <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_532_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_532_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/08/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_532.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>עברי eco</description>
       <programDate>28/07/2019</programDate>
       <pubDate>Sun, 28 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_531_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_531_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_531.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>עברי eco</description>
       <programDate>26/07/2019</programDate>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_539_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_539_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_539.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>עברי eco</description>
       <programDate>23/07/2019</programDate>
       <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_529_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_529_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_529.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>עברי eco</description>
       <programDate>20/07/2019</programDate>
       <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_528_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_528_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|20/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_528.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>עברי eco</description>
       <programDate>16/07/2019</programDate>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_475_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_475_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|16/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/%20nostalgic_475.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>עברי eco</description>
       <programDate>13/07/2019</programDate>
       <pubDate>Sat, 13 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_527_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_527_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|13/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_527.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>עברי eco</description>
       <programDate>11/07/2019</programDate>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_526_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_526_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_526.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>עברי eco</description>
       <programDate>07/07/2019</programDate>
       <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_524_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_524_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_524.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>עברי eco</description>
       <programDate>04/07/2019</programDate>
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_519b_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_519b_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/07/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_519.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>עברי eco</description>
       <programDate>29/06/2019</programDate>
       <pubDate>Sat, 29 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_523_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_523_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|29/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_523.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>עברי eco</description>
       <programDate>23/06/2019</programDate>
       <pubDate>Sun, 23 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_518_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_518_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_518.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>עברי eco</description>
       <programDate>21/06/2019</programDate>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_516_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_516_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_516.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>עברי eco</description>
       <programDate>16/06/2019</programDate>
       <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_509_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_509_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|16/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_509.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>עברי eco</description>
       <programDate>11/06/2019</programDate>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_514_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_514_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_514.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>עברי eco</description>
       <programDate>10/06/2019</programDate>
       <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_522_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_522_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_522.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>עברי eco</description>
       <programDate>08/06/2019</programDate>
       <pubDate>Sat, 08 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_517_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_517_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_517.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>עברי eco</description>
       <programDate>06/06/2019</programDate>
       <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_515_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_515_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_515.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>עברי eco</description>
       <programDate>04/06/2019</programDate>
       <pubDate>Tue, 04 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_512_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_512_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_512.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>עברי eco</description>
       <programDate>01/06/2019</programDate>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_504_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_504_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/06/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_504.mp3</guid>
     </item>
     <item>
@@ -828,7 +828,7 @@
       <description>עברי eco</description>
       <programDate>31/05/2019</programDate>
       <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_511_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_511_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|31/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_511.mp3</guid>
     </item>
     <item>
@@ -838,7 +838,7 @@
       <description>עברי eco</description>
       <programDate>29/05/2019</programDate>
       <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_496_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_496_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|29/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_496.mp3</guid>
     </item>
     <item>
@@ -848,7 +848,7 @@
       <description>עברי eco</description>
       <programDate>26/05/2019</programDate>
       <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_510_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_510_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_510.mp3</guid>
     </item>
     <item>
@@ -858,7 +858,7 @@
       <description>עברי eco</description>
       <programDate>19/05/2019</programDate>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_508_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_508_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|19/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_508.mp3</guid>
     </item>
     <item>
@@ -868,7 +868,7 @@
       <description>עברי eco</description>
       <programDate>15/05/2019</programDate>
       <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_507_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_507_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|15/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_507.mp3</guid>
     </item>
     <item>
@@ -878,7 +878,7 @@
       <description>עברי eco</description>
       <programDate>12/05/2019</programDate>
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_505_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_505_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_505.mp3</guid>
     </item>
     <item>
@@ -888,7 +888,7 @@
       <description>עברי eco</description>
       <programDate>07/05/2019</programDate>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_550_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_550_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_550_zikron.mp3</guid>
     </item>
     <item>
@@ -898,7 +898,7 @@
       <description>עברי eco</description>
       <programDate>07/05/2019</programDate>
       <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_552_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_552_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_552.mp3</guid>
     </item>
     <item>
@@ -908,7 +908,7 @@
       <description>עברי eco</description>
       <programDate>05/05/2019</programDate>
       <pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_502_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_502_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_502.mp3</guid>
     </item>
     <item>
@@ -918,7 +918,7 @@
       <description>עברי eco</description>
       <programDate>01/05/2019</programDate>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_549_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_549_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/05/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_549.mp3</guid>
     </item>
     <item>
@@ -928,7 +928,7 @@
       <description>עברי eco</description>
       <programDate>28/04/2019</programDate>
       <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_501_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_501_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_501.mp3</guid>
     </item>
     <item>
@@ -938,7 +938,7 @@
       <description>עברי eco</description>
       <programDate>27/04/2019</programDate>
       <pubDate>Sat, 27 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_500_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_500_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_500.mp3</guid>
     </item>
     <item>
@@ -948,7 +948,7 @@
       <description>עברי eco</description>
       <programDate>25/04/2019</programDate>
       <pubDate>Thu, 25 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_495_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_495_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_495.mp3</guid>
     </item>
     <item>
@@ -958,7 +958,7 @@
       <description>עברי eco</description>
       <programDate>24/04/2019</programDate>
       <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_494_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_494_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_494.mp3</guid>
     </item>
     <item>
@@ -968,7 +968,7 @@
       <description>עברי eco</description>
       <programDate>22/04/2019</programDate>
       <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_493_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_493_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_493.mp3</guid>
     </item>
     <item>
@@ -978,7 +978,7 @@
       <description>עברי eco</description>
       <programDate>21/04/2019</programDate>
       <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_493_unsplash_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_493_unsplash_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_492.mp3</guid>
     </item>
     <item>
@@ -988,7 +988,7 @@
       <description>עברי eco</description>
       <programDate>14/04/2019</programDate>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_491_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_491_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|14/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_491.mp3</guid>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <description>עברי eco</description>
       <programDate>14/04/2019</programDate>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_490_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_490_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|14/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_490.mp3</guid>
     </item>
     <item>
@@ -1008,7 +1008,7 @@
       <description>עברי eco</description>
       <programDate>09/04/2019</programDate>
       <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_489_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_489_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_489.mp3</guid>
     </item>
     <item>
@@ -1018,7 +1018,7 @@
       <description>עברי eco</description>
       <programDate>07/04/2019</programDate>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_488_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_488_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/04/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_488.mp3</guid>
     </item>
     <item>
@@ -1028,7 +1028,7 @@
       <description>עברי eco</description>
       <programDate>31/03/2019</programDate>
       <pubDate>Sun, 31 Mar 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_487_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_487_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|31/03/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_487.mp3</guid>
     </item>
     <item>
@@ -1038,7 +1038,7 @@
       <description>עברי eco</description>
       <programDate>27/03/2019</programDate>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_486_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_486_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/03/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_486.mp3</guid>
     </item>
     <item>
@@ -1048,7 +1048,7 @@
       <description>עברי eco</description>
       <programDate>26/03/2019</programDate>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_485_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_485_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/03/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_485.mp3</guid>
     </item>
     <item>
@@ -1058,7 +1058,7 @@
       <description>עברי eco</description>
       <programDate>24/03/2019</programDate>
       <pubDate>Sun, 24 Mar 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_484_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_484_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/03/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_484.mp3</guid>
     </item>
     <item>
@@ -1068,7 +1068,7 @@
       <description>עברי eco</description>
       <programDate>10/03/2019</programDate>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_483_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_483_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/03/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_483.mp3</guid>
     </item>
     <item>
@@ -1078,7 +1078,7 @@
       <description>עברי eco</description>
       <programDate>07/03/2019</programDate>
       <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_482_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_482_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/03/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_482.mp3</guid>
     </item>
     <item>
@@ -1088,7 +1088,7 @@
       <description>עברי eco</description>
       <programDate>28/02/2019</programDate>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_480_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_480_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_480.mp3</guid>
     </item>
     <item>
@@ -1098,7 +1098,7 @@
       <description>עברי eco</description>
       <programDate>25/02/2019</programDate>
       <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_479_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_479_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_479.mp3</guid>
     </item>
     <item>
@@ -1108,7 +1108,7 @@
       <description>עברי eco</description>
       <programDate>23/02/2019</programDate>
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_478_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_478_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_478.mp3</guid>
     </item>
     <item>
@@ -1118,7 +1118,7 @@
       <description>עברי eco</description>
       <programDate>20/02/2019</programDate>
       <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_477_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_477_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|20/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_477.mp3</guid>
     </item>
     <item>
@@ -1128,7 +1128,7 @@
       <description>עברי eco</description>
       <programDate>09/02/2019</programDate>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_476_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_476_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_476.mp3</guid>
     </item>
     <item>
@@ -1138,7 +1138,7 @@
       <description>עברי eco</description>
       <programDate>04/02/2019</programDate>
       <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_474_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_474_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_474.mp3</guid>
     </item>
     <item>
@@ -1148,7 +1148,7 @@
       <description>עברי eco</description>
       <programDate>02/02/2019</programDate>
       <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_473_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_473_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|02/02/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_473.mp3</guid>
     </item>
     <item>
@@ -1158,7 +1158,7 @@
       <description>עברי eco</description>
       <programDate>29/01/2019</programDate>
       <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_472_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_472_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|29/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_472.mp3</guid>
     </item>
     <item>
@@ -1168,7 +1168,7 @@
       <description>עברי eco</description>
       <programDate>26/01/2019</programDate>
       <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_471_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_471_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_471.mp3</guid>
     </item>
     <item>
@@ -1178,7 +1178,7 @@
       <description>עברי eco</description>
       <programDate>24/01/2019</programDate>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_470_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_470_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_470.mp3</guid>
     </item>
     <item>
@@ -1188,7 +1188,7 @@
       <description>עברי eco</description>
       <programDate>19/01/2019</programDate>
       <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_469_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_469_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|19/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_469.mp3</guid>
     </item>
     <item>
@@ -1198,7 +1198,7 @@
       <description>עברי eco</description>
       <programDate>17/01/2019</programDate>
       <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_468_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_468_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_468.mp3</guid>
     </item>
     <item>
@@ -1208,7 +1208,7 @@
       <description>עברי eco</description>
       <programDate>13/01/2019</programDate>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_467_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_467_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|13/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_467.mp3</guid>
     </item>
     <item>
@@ -1218,7 +1218,7 @@
       <description>עברי eco</description>
       <programDate>06/01/2019</programDate>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_466_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_466_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_466.mp3</guid>
     </item>
     <item>
@@ -1228,7 +1228,7 @@
       <description>עברי eco</description>
       <programDate>03/01/2019</programDate>
       <pubDate>Thu, 03 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_465_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_465_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|03/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_465.mp3</guid>
     </item>
     <item>
@@ -1238,7 +1238,7 @@
       <description>עברי eco</description>
       <programDate>02/01/2019</programDate>
       <pubDate>Wed, 02 Jan 2019 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_463_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_463_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|02/01/2019|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_463.mp3</guid>
     </item>
     <item>
@@ -1248,7 +1248,7 @@
       <description>עברי eco</description>
       <programDate>28/12/2018</programDate>
       <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_458_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_458_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/12/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_458.mp3</guid>
     </item>
     <item>
@@ -1258,7 +1258,7 @@
       <description>עברי eco</description>
       <programDate>26/12/2018</programDate>
       <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_462_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_462_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/12/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_462.mp3</guid>
     </item>
     <item>
@@ -1268,7 +1268,7 @@
       <description>עברי eco</description>
       <programDate>19/12/2018</programDate>
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_464_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_464_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|19/12/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_464.mp3</guid>
     </item>
     <item>
@@ -1278,7 +1278,7 @@
       <description>עברי eco</description>
       <programDate>17/12/2018</programDate>
       <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_461_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_461_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/12/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_461.mp3</guid>
     </item>
     <item>
@@ -1288,7 +1288,7 @@
       <description>עברי eco</description>
       <programDate>09/12/2018</programDate>
       <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_460_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_460_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/12/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_460.mp3</guid>
     </item>
     <item>
@@ -1298,7 +1298,7 @@
       <description>עברי eco</description>
       <programDate>05/12/2018</programDate>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_459_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_459_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/12/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_459.mp3</guid>
     </item>
     <item>
@@ -1308,7 +1308,7 @@
       <description>עברי eco</description>
       <programDate>26/11/2018</programDate>
       <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_457_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_457_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/11/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_457.mp3</guid>
     </item>
     <item>
@@ -1318,7 +1318,7 @@
       <description>עברי eco</description>
       <programDate>25/11/2018</programDate>
       <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_456_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_456_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/11/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_456.mp3</guid>
     </item>
     <item>
@@ -1328,7 +1328,7 @@
       <description>עברי eco</description>
       <programDate>17/11/2018</programDate>
       <pubDate>Sat, 17 Nov 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_455_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_455_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/11/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_455.mp3</guid>
     </item>
     <item>
@@ -1338,7 +1338,7 @@
       <description>עברי eco</description>
       <programDate>11/11/2018</programDate>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_454_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_454_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/11/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_454.mp3</guid>
     </item>
     <item>
@@ -1348,7 +1348,7 @@
       <description>עברי eco</description>
       <programDate>08/11/2018</programDate>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_453_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_453_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/11/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_453.mp3</guid>
     </item>
     <item>
@@ -1358,7 +1358,7 @@
       <description>עברי eco</description>
       <programDate>04/11/2018</programDate>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_444_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_444_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/11/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_444.mp3</guid>
     </item>
     <item>
@@ -1368,7 +1368,7 @@
       <description>עברי eco</description>
       <programDate>29/10/2018</programDate>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_440_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_440_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|29/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_440.mp3</guid>
     </item>
     <item>
@@ -1378,7 +1378,7 @@
       <description>עברי eco</description>
       <programDate>23/10/2018</programDate>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_436_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_436_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_436.mp3</guid>
     </item>
     <item>
@@ -1388,7 +1388,7 @@
       <description>עברי eco</description>
       <programDate>23/10/2018</programDate>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_435_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_435_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_435.mp3</guid>
     </item>
     <item>
@@ -1398,7 +1398,7 @@
       <description>עברי eco</description>
       <programDate>21/10/2018</programDate>
       <pubDate>Sun, 21 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_431_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_431_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_431.mp3</guid>
     </item>
     <item>
@@ -1408,7 +1408,7 @@
       <description>עברי eco</description>
       <programDate>20/10/2018</programDate>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_430_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_430_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|20/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_430.mp3</guid>
     </item>
     <item>
@@ -1418,7 +1418,7 @@
       <description>עברי eco</description>
       <programDate>19/10/2018</programDate>
       <pubDate>Fri, 19 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_425_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_425_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|19/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_425.mp3</guid>
     </item>
     <item>
@@ -1428,7 +1428,7 @@
       <description>עברי eco</description>
       <programDate>18/10/2018</programDate>
       <pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_426_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_426_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|18/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_426.mp3</guid>
     </item>
     <item>
@@ -1438,7 +1438,7 @@
       <description>עברי eco</description>
       <programDate>17/10/2018</programDate>
       <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_405_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_405_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_405.mp3</guid>
     </item>
     <item>
@@ -1448,7 +1448,7 @@
       <description>עברי eco</description>
       <programDate>14/10/2018</programDate>
       <pubDate>Sun, 14 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_420_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_420_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|14/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_420.mp3</guid>
     </item>
     <item>
@@ -1458,7 +1458,7 @@
       <description>עברי eco</description>
       <programDate>11/10/2018</programDate>
       <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_410_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_410_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_410.mp3</guid>
     </item>
     <item>
@@ -1468,7 +1468,7 @@
       <description>עברי eco</description>
       <programDate>09/10/2018</programDate>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_400_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_400_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_400.mp3</guid>
     </item>
     <item>
@@ -1478,7 +1478,7 @@
       <description>עברי eco</description>
       <programDate>08/10/2018</programDate>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_397_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_397_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_397.mp3</guid>
     </item>
     <item>
@@ -1488,7 +1488,7 @@
       <description>עברי eco</description>
       <programDate>07/10/2018</programDate>
       <pubDate>Sun, 07 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_391_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_391_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_391.mp3</guid>
     </item>
     <item>
@@ -1498,7 +1498,7 @@
       <description>עברי eco</description>
       <programDate>06/10/2018</programDate>
       <pubDate>Sat, 06 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_386_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_386_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_386.mp3</guid>
     </item>
     <item>
@@ -1508,7 +1508,7 @@
       <description>עברי eco</description>
       <programDate>05/10/2018</programDate>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_396_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_396_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_396.mp3</guid>
     </item>
     <item>
@@ -1518,7 +1518,7 @@
       <description>עברי eco</description>
       <programDate>05/10/2018</programDate>
       <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_385_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_385_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_385.mp3</guid>
     </item>
     <item>
@@ -1528,7 +1528,7 @@
       <description>עברי eco</description>
       <programDate>04/10/2018</programDate>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_384_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_384_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_384.mp3</guid>
     </item>
     <item>
@@ -1538,7 +1538,7 @@
       <description>עברי eco</description>
       <programDate>04/10/2018</programDate>
       <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_382_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_382_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_382.mp3</guid>
     </item>
     <item>
@@ -1548,7 +1548,7 @@
       <description>עברי eco</description>
       <programDate>03/10/2018</programDate>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_379_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_379_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|03/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_379.mp3</guid>
     </item>
     <item>
@@ -1558,7 +1558,7 @@
       <description>עברי eco</description>
       <programDate>03/10/2018</programDate>
       <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_378_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_378_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|03/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_378.mp3</guid>
     </item>
     <item>
@@ -1568,7 +1568,7 @@
       <description>עברי eco</description>
       <programDate>02/10/2018</programDate>
       <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_377_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_377_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|02/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_377.mp3</guid>
     </item>
     <item>
@@ -1578,7 +1578,7 @@
       <description>עברי eco</description>
       <programDate>01/10/2018</programDate>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_376_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_376_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/10/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_376.mp3</guid>
     </item>
     <item>
@@ -1588,7 +1588,7 @@
       <description>עברי eco</description>
       <programDate>30/09/2018</programDate>
       <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_375_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_375_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|30/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_375.mp3</guid>
     </item>
     <item>
@@ -1598,7 +1598,7 @@
       <description>עברי eco</description>
       <programDate>27/09/2018</programDate>
       <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_374_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_374_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_374.mp3</guid>
     </item>
     <item>
@@ -1608,7 +1608,7 @@
       <description>עברי eco</description>
       <programDate>26/09/2018</programDate>
       <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_373_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_373_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_373.mp3</guid>
     </item>
     <item>
@@ -1618,7 +1618,7 @@
       <description>עברי eco</description>
       <programDate>25/09/2018</programDate>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_371_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_371_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_371.mp3</guid>
     </item>
     <item>
@@ -1628,7 +1628,7 @@
       <description>עברי eco</description>
       <programDate>25/09/2018</programDate>
       <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_372_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_372_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_372.mp3</guid>
     </item>
     <item>
@@ -1638,7 +1638,7 @@
       <description>עברי eco</description>
       <programDate>24/09/2018</programDate>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_370_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_370_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_370.mp3</guid>
     </item>
     <item>
@@ -1648,7 +1648,7 @@
       <description>עברי eco</description>
       <programDate>24/09/2018</programDate>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_369_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_369_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_369.mp3</guid>
     </item>
     <item>
@@ -1658,7 +1658,7 @@
       <description>עברי eco</description>
       <programDate>23/09/2018</programDate>
       <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_368_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_368_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_368.mp3</guid>
     </item>
     <item>
@@ -1668,7 +1668,7 @@
       <description>עברי eco</description>
       <programDate>22/09/2018</programDate>
       <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_367_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_367_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_367.mp3</guid>
     </item>
     <item>
@@ -1678,7 +1678,7 @@
       <description>עברי eco</description>
       <programDate>21/09/2018</programDate>
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_366_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_366_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_366.mp3</guid>
     </item>
     <item>
@@ -1688,7 +1688,7 @@
       <description>עברי eco</description>
       <programDate>17/09/2018</programDate>
       <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_383_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_383_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_383_holiday.mp3</guid>
     </item>
     <item>
@@ -1698,7 +1698,7 @@
       <description>עברי eco</description>
       <programDate>16/09/2018</programDate>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_421_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_421_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|16/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_421.mp3</guid>
     </item>
     <item>
@@ -1708,7 +1708,7 @@
       <description>עברי eco</description>
       <programDate>12/09/2018</programDate>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_363_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_363_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_363.mp3</guid>
     </item>
     <item>
@@ -1718,7 +1718,7 @@
       <description>עברי eco</description>
       <programDate>11/09/2018</programDate>
       <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_362_unsplash_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_362_unsplash_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_362.mp3</guid>
     </item>
     <item>
@@ -1728,7 +1728,7 @@
       <description>עברי eco</description>
       <programDate>09/09/2018</programDate>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_361_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_361_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_361.mp3</guid>
     </item>
     <item>
@@ -1738,7 +1738,7 @@
       <description>עברי eco</description>
       <programDate>05/09/2018</programDate>
       <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_365_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_365_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_365.mp3</guid>
     </item>
     <item>
@@ -1748,7 +1748,7 @@
       <description>עברי eco</description>
       <programDate>04/09/2018</programDate>
       <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_358_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_358_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_358.mp3</guid>
     </item>
     <item>
@@ -1758,7 +1758,7 @@
       <description>עברי eco</description>
       <programDate>02/09/2018</programDate>
       <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_401_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_401_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|02/09/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_401.mp3</guid>
     </item>
     <item>
@@ -1768,7 +1768,7 @@
       <description>עברי eco</description>
       <programDate>31/08/2018</programDate>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_411_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_411_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|31/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_411.mp3</guid>
     </item>
     <item>
@@ -1778,7 +1778,7 @@
       <description>עברי eco</description>
       <programDate>29/08/2018</programDate>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_415_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_415_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|29/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_415.mp3</guid>
     </item>
     <item>
@@ -1788,7 +1788,7 @@
       <description>עברי eco</description>
       <programDate>28/08/2018</programDate>
       <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_416_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_416_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_416.mp3</guid>
     </item>
     <item>
@@ -1798,7 +1798,7 @@
       <description>עברי eco</description>
       <programDate>26/08/2018</programDate>
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_360_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_360_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_360.mp3</guid>
     </item>
     <item>
@@ -1808,7 +1808,7 @@
       <description>עברי eco</description>
       <programDate>22/08/2018</programDate>
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_357_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_357_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_357.mp3</guid>
     </item>
     <item>
@@ -1818,7 +1818,7 @@
       <description>עברי eco</description>
       <programDate>21/08/2018</programDate>
       <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_350_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_350_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_350.mp3</guid>
     </item>
     <item>
@@ -1828,7 +1828,7 @@
       <description>עברי eco</description>
       <programDate>20/08/2018</programDate>
       <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_406_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_406_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|20/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_406.mp3</guid>
     </item>
     <item>
@@ -1838,7 +1838,7 @@
       <description>עברי eco</description>
       <programDate>12/08/2018</programDate>
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_359_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_359_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_359.mp3</guid>
     </item>
     <item>
@@ -1848,7 +1848,7 @@
       <description>עברי eco</description>
       <programDate>08/08/2018</programDate>
       <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_353_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_353_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_353.mp3</guid>
     </item>
     <item>
@@ -1858,7 +1858,7 @@
       <description>עברי eco</description>
       <programDate>07/08/2018</programDate>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_355_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_355_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_355.mp3</guid>
     </item>
     <item>
@@ -1868,7 +1868,7 @@
       <description>עברי eco</description>
       <programDate>06/08/2018</programDate>
       <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_354_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_354_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_354.mp3</guid>
     </item>
     <item>
@@ -1878,7 +1878,7 @@
       <description>עברי eco</description>
       <programDate>05/08/2018</programDate>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_352_unsplash_1.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_352_unsplash_1.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_352.mp3</guid>
     </item>
     <item>
@@ -1888,7 +1888,7 @@
       <description>עברי eco</description>
       <programDate>05/08/2018</programDate>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_351_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_351_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/08/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_351.mp3</guid>
     </item>
     <item>
@@ -1898,7 +1898,7 @@
       <description>עברי eco</description>
       <programDate>25/07/2018</programDate>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_349_b_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_349_b_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_349.mp3</guid>
     </item>
     <item>
@@ -1908,7 +1908,7 @@
       <description>עברי eco</description>
       <programDate>17/07/2018</programDate>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_348_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_348_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_348.mp3</guid>
     </item>
     <item>
@@ -1918,7 +1918,7 @@
       <description>עברי eco</description>
       <programDate>12/07/2018</programDate>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_347_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_347_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_347.mp3</guid>
     </item>
     <item>
@@ -1928,7 +1928,7 @@
       <description>עברי eco</description>
       <programDate>10/07/2018</programDate>
       <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_346_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_346_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_346.mp3</guid>
     </item>
     <item>
@@ -1938,7 +1938,7 @@
       <description>עברי eco</description>
       <programDate>09/07/2018</programDate>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_345_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_345_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_345.mp3</guid>
     </item>
     <item>
@@ -1948,7 +1948,7 @@
       <description>עברי eco</description>
       <programDate>08/07/2018</programDate>
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_343_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_343_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_343.mp3</guid>
     </item>
     <item>
@@ -1958,7 +1958,7 @@
       <description>עברי eco</description>
       <programDate>04/07/2018</programDate>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_342_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_342_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_342.mp3</guid>
     </item>
     <item>
@@ -1968,7 +1968,7 @@
       <description>עברי eco</description>
       <programDate>01/07/2018</programDate>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_395_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_395_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/07/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_395_eco_mundial.mp3</guid>
     </item>
     <item>
@@ -1978,7 +1978,7 @@
       <description>עברי eco</description>
       <programDate>28/06/2018</programDate>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_341_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_341_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_341.mp3</guid>
     </item>
     <item>
@@ -1988,7 +1988,7 @@
       <description>עברי eco</description>
       <programDate>27/06/2018</programDate>
       <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_340_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_340_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_340.mp3</guid>
     </item>
     <item>
@@ -1998,7 +1998,7 @@
       <description>עברי eco</description>
       <programDate>26/06/2018</programDate>
       <pubDate>Tue, 26 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_339_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_339_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|26/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_339.mp3</guid>
     </item>
     <item>
@@ -2008,7 +2008,7 @@
       <description>עברי eco</description>
       <programDate>25/06/2018</programDate>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_338_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_338_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_338.mp3</guid>
     </item>
     <item>
@@ -2018,7 +2018,7 @@
       <description>עברי eco</description>
       <programDate>24/06/2018</programDate>
       <pubDate>Sun, 24 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_337_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_337_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_337.mp3</guid>
     </item>
     <item>
@@ -2028,7 +2028,7 @@
       <description>עברי eco</description>
       <programDate>12/06/2018</programDate>
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_336_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_336_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|12/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_336.mp3</guid>
     </item>
     <item>
@@ -2038,7 +2038,7 @@
       <description>עברי eco</description>
       <programDate>11/06/2018</programDate>
       <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_335_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_335_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|11/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_335.mp3</guid>
     </item>
     <item>
@@ -2048,7 +2048,7 @@
       <description>עברי eco</description>
       <programDate>10/06/2018</programDate>
       <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_334_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_334_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_334.mp3</guid>
     </item>
     <item>
@@ -2058,7 +2058,7 @@
       <description>עברי eco</description>
       <programDate>07/06/2018</programDate>
       <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_333_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_333_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_333.mp3</guid>
     </item>
     <item>
@@ -2068,7 +2068,7 @@
       <description>עברי eco</description>
       <programDate>06/06/2018</programDate>
       <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_332_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_332_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_332.mp3</guid>
     </item>
     <item>
@@ -2078,7 +2078,7 @@
       <description>עברי eco</description>
       <programDate>05/06/2018</programDate>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_331_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_331_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|05/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_331.mp3</guid>
     </item>
     <item>
@@ -2088,7 +2088,7 @@
       <description>עברי eco</description>
       <programDate>04/06/2018</programDate>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_330_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_330_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|04/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_330.mp3</guid>
     </item>
     <item>
@@ -2098,7 +2098,7 @@
       <description>עברי eco</description>
       <programDate>03/06/2018</programDate>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_329_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_329_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|03/06/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_329.mp3</guid>
     </item>
     <item>
@@ -2108,7 +2108,7 @@
       <description>עברי eco</description>
       <programDate>30/05/2018</programDate>
       <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_328_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_328_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|30/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_328.mp3</guid>
     </item>
     <item>
@@ -2118,7 +2118,7 @@
       <description>עברי eco</description>
       <programDate>28/05/2018</programDate>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_327_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_327_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|28/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_327.mp3</guid>
     </item>
     <item>
@@ -2128,7 +2128,7 @@
       <description>עברי eco</description>
       <programDate>27/05/2018</programDate>
       <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_326_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_326_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|27/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_326.mp3</guid>
     </item>
     <item>
@@ -2138,7 +2138,7 @@
       <description>עברי eco</description>
       <programDate>24/05/2018</programDate>
       <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_325_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_325_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|24/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_325.mp3</guid>
     </item>
     <item>
@@ -2148,7 +2148,7 @@
       <description>עברי eco</description>
       <programDate>23/05/2018</programDate>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_324_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_324_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|23/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/%20nostalgic_324.mp3</guid>
     </item>
     <item>
@@ -2158,7 +2158,7 @@
       <description>עברי eco</description>
       <programDate>21/05/2018</programDate>
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_323_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_323_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|21/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_323.mp3</guid>
     </item>
     <item>
@@ -2168,7 +2168,7 @@
       <description>עברי eco</description>
       <programDate>13/05/2018</programDate>
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_322_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_322_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|13/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_322.mp3</guid>
     </item>
     <item>
@@ -2178,7 +2178,7 @@
       <description>עברי eco</description>
       <programDate>09/05/2018</programDate>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_321_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_321_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|09/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_321.mp3</guid>
     </item>
     <item>
@@ -2188,7 +2188,7 @@
       <description>עברי eco</description>
       <programDate>08/05/2018</programDate>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_320_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_320_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_320.mp3</guid>
     </item>
     <item>
@@ -2198,7 +2198,7 @@
       <description>עברי eco</description>
       <programDate>07/05/2018</programDate>
       <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_319_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_319_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_319.mp3</guid>
     </item>
     <item>
@@ -2208,7 +2208,7 @@
       <description>עברי eco</description>
       <programDate>06/05/2018</programDate>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_318_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_318_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|06/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_318.mp3</guid>
     </item>
     <item>
@@ -2218,7 +2218,7 @@
       <description>עברי eco</description>
       <programDate>01/05/2018</programDate>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_364_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_364_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|01/05/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_364.mp3</guid>
     </item>
     <item>
@@ -2228,7 +2228,7 @@
       <description>עברי eco</description>
       <programDate>22/04/2018</programDate>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_317_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_317_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|22/04/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_317.mp3</guid>
     </item>
     <item>
@@ -2238,7 +2238,7 @@
       <description>עברי eco</description>
       <programDate>19/04/2018</programDate>
       <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_316_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_316_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|19/04/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_316.mp3</guid>
     </item>
     <item>
@@ -2248,7 +2248,7 @@
       <description>עברי eco</description>
       <programDate>15/04/2018</programDate>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_315_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_315_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|15/04/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_315.mp3</guid>
     </item>
     <item>
@@ -2258,7 +2258,7 @@
       <description>עברי eco</description>
       <programDate>08/04/2018</programDate>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_314_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_314_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|08/04/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_314.mp3</guid>
     </item>
     <item>
@@ -2268,7 +2268,7 @@
       <description>עברי eco</description>
       <programDate>03/04/2018</programDate>
       <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_344_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_344_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|03/04/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_344.mp3</guid>
     </item>
     <item>
@@ -2278,7 +2278,7 @@
       <description>עברי eco</description>
       <programDate>25/03/2018</programDate>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_313_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_313_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/03/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_313.mp3</guid>
     </item>
     <item>
@@ -2288,7 +2288,7 @@
       <description>עברי eco</description>
       <programDate>25/03/2018</programDate>
       <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_312_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_312_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/03/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_312.mp3</guid>
     </item>
     <item>
@@ -2298,7 +2298,7 @@
       <description>עברי eco</description>
       <programDate>25/01/2018</programDate>
       <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_311b_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_311b_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|25/01/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_311.mp3</guid>
     </item>
     <item>
@@ -2308,7 +2308,7 @@
       <description>עברי eco</description>
       <programDate>18/01/2018</programDate>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_309_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_309_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|18/01/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_309.mp3</guid>
     </item>
     <item>
@@ -2318,7 +2318,7 @@
       <description>עברי eco</description>
       <programDate>17/01/2018</programDate>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_308_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_308_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|17/01/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_308.mp3</guid>
     </item>
     <item>
@@ -2328,7 +2328,7 @@
       <description>עברי eco</description>
       <programDate>16/01/2018</programDate>
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_307_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_307_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|16/01/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_307.mp3</guid>
     </item>
     <item>
@@ -2338,7 +2338,7 @@
       <description>עברי eco</description>
       <programDate>10/01/2018</programDate>
       <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_306_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_306_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|10/01/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_306.mp3</guid>
     </item>
     <item>
@@ -2348,7 +2348,7 @@
       <description>עברי eco</description>
       <programDate>07/01/2018</programDate>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_305_unsplash.jpg" />
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/nostalgic_305_unsplash.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">376|14|07/01/2018|https://99sets.livecdn.biz/99sets/nostalgic/nostalgic_305.mp3</guid>
     </item>
   </channel>
