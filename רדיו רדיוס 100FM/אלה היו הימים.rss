@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו רדיוס 100FM | אלה היו הימים</title>
     <description>Programs from רדיו רדיוס 100FM, show: אלה היו הימים</description>
     <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-29-08-26.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png</url>
       <title>רדיו רדיוס 100FM | אלה היו הימים</title>
@@ -18,7 +18,7 @@
       <description>אלה היו הימים  29.08.26</description>
       <programDate>29/08/2026</programDate>
       <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-29-08-26.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>אלה היו הימים  22.08.26</description>
       <programDate>22/08/2026</programDate>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-22-08-26.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>אלה היו הימים  15.08.26</description>
       <programDate>15/08/2026</programDate>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-15-08-26.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>אלה היו הימים  08.08.26</description>
       <programDate>08/08/2026</programDate>
       <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-08-08-26.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>אלה היו הימים  01.08.26</description>
       <programDate>01/08/2026</programDate>
       <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/08/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/07/Revital-Amit-01-08-26.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>אלה היו הימים  25.07.26</description>
       <programDate>25/07/2026</programDate>
       <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/07/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/07/Revital-Amit-25-07-26.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>אלה היו הימים  18.07.26</description>
       <programDate>18/07/2026</programDate>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/07/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/07/Revital-Amit-18-07-26.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>אלה היו הימים  11.07.26</description>
       <programDate>11/07/2026</programDate>
       <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/07/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/07/Revital-Amit-11-07-26.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>אלה היו הימים  04.007.26</description>
       <programDate>04/07/2026</programDate>
       <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/07/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Revital-Amit-04-07-26.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>אלה היו הימים  27.06.26</description>
       <programDate>27/06/2026</programDate>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Revital-Amit-27-06-26.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>אלה היו הימים  20.06.26</description>
       <programDate>20/06/2026</programDate>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Revital-Amit-20-06-26.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>אלה היו הימים  13.06.26</description>
       <programDate>13/06/2026</programDate>
       <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Revital-Amit-13-06-26.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>אלה היו הימים  06.06.26</description>
       <programDate>06/06/2026</programDate>
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/Revital-Amit-06-06-26.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>אלה היו הימים  30.05.26</description>
       <programDate>30/05/2026</programDate>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/05/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/05/Revital-Amit-30-05-26.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>אלה היו הימים  23.05.26</description>
       <programDate>23/05/2026</programDate>
       <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/05/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/05/Revital-23-05-26.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>אלה היו הימים  16.05.26</description>
       <programDate>16/05/2026</programDate>
       <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/05/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/05/Revital-Amit-16-05-26.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>אלה היו הימים  09.05.26</description>
       <programDate>09/05/2026</programDate>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/05/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/05/Revital-Amit-09-05-26.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>אלה היו הימים  02.05.26</description>
       <programDate>02/05/2026</programDate>
       <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/05/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Revital-Amit-02-05-26.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>אלה היו הימים  25.04.26</description>
       <programDate>25/04/2026</programDate>
       <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Revital-Amit-25-04-26.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>אלה היו הימים  18.04.26</description>
       <programDate>18/04/2026</programDate>
       <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Revital-Amit-18-04-26.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>אלה היו הימים  11.04.26</description>
       <programDate>11/04/2026</programDate>
       <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Revital-Amit-11-04-26.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>אלה היו הימים  04.04.26</description>
       <programDate>04/04/2026</programDate>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/04/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/04/Revital-Amit-04-04-26.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>אלה היו הימים  28.03.26</description>
       <programDate>28/03/2026</programDate>
       <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/03/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/03/Revital-Amit-28-03-26.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>אלה היו הימים  21.03.26</description>
       <programDate>21/03/2026</programDate>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/03/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/03/Revital-Amit-21-03-26.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>אלה היו הימים  14.03.26</description>
       <programDate>14/03/2026</programDate>
       <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/03/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/03/Revital-Amit-14-03-26.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>אלה היו הימים  28.02.26</description>
       <programDate>28/02/2026</programDate>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/02/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/02/Revital-Amit-28-02-26.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>אלה היו הימים  21.02.26</description>
       <programDate>21/02/2026</programDate>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/02/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/02/Revital-Amit-21-02-26.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>אלה היו הימים  14.02.26</description>
       <programDate>14/02/2026</programDate>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/02/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/02/Revital-Amit-14-02-26.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>אלה היו הימים  07.02.26</description>
       <programDate>07/02/2026</programDate>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/02/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/02/Revital-Amit-07-02-26.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>אלה היו הימים  31.01.26</description>
       <programDate>31/01/2026</programDate>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|31/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/Revital-Amit-31-01-26.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>אלה היו הימים  24.01.26</description>
       <programDate>24/01/2026</programDate>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/Revital-Amit-24-01-26.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>אלה היו הימים  17.01.26</description>
       <programDate>17/01/2026</programDate>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/Revital-Amit-17-01-26.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>אלה היו הימים  10.01.26</description>
       <programDate>10/01/2026</programDate>
       <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/Revital-10-01-26.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>אלה היו הימים  03.01.26</description>
       <programDate>03/01/2026</programDate>
       <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|03/01/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/01/Revital-Amit-03-01-25.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>אלה היו הימים  27.12.25</description>
       <programDate>27/12/2025</programDate>
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/12/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/Revital-Amit-27-12-25.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>אלה היו הימים  20.12.25</description>
       <programDate>20/12/2025</programDate>
       <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/12/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/Revital-Amit-20-12-25.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>אלה היו הימים  13.12.25</description>
       <programDate>13/12/2025</programDate>
       <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/12/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/Revital-Amit-13-12-25.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>אלה היו הימים  06.12.25</description>
       <programDate>06/12/2025</programDate>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/12/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/12/Revital-Amit-06-12-25.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>אלה היו הימים  29.11.25</description>
       <programDate>29/11/2025</programDate>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/11/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/11/Revital-Amit-28-11-25.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>אלה היו הימים  22.11.25</description>
       <programDate>22/11/2025</programDate>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/11/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/11/Revital-Amit-22-11-25.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>אלה היו הימים  15.11.25</description>
       <programDate>15/11/2025</programDate>
       <pubDate>Sat, 15 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/11/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/11/Revital-Amit-15-11-25.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>אלה היו הימים  08.11.25</description>
       <programDate>08/11/2025</programDate>
       <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/11/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/11/Revital-Amit-08-11-25.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>אלה היו הימים  01.11.25</description>
       <programDate>01/11/2025</programDate>
       <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/11/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/Revital-Amit-01-11-25.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>אלה היו הימים  25.10.25</description>
       <programDate>25/10/2025</programDate>
       <pubDate>Sat, 25 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/Revital-Amit-25-10-25.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>אלה היו הימים  18.10.25</description>
       <programDate>18/10/2025</programDate>
       <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/10/Revital-Amit-18-10-25.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>אלה היו הימים  04.10.25</description>
       <programDate>04/10/2025</programDate>
       <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/10/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Revital-Amit-04-10-25.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>אלה היו הימים  27.09.25</description>
       <programDate>27/09/2025</programDate>
       <pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/09/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Revital-Amit-27-09-25.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>אלה היו הימים  20.09.25</description>
       <programDate>20/09/2025</programDate>
       <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/09/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Revital-Amit-20-09-25.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>אלה היו הימים  13.09.25</description>
       <programDate>13/09/2025</programDate>
       <pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/09/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Revital-Amit-13-09-25.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>אלה היו הימים  06.09.25</description>
       <programDate>06/09/2025</programDate>
       <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/09/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/09/Revital-Amit-06-09-25.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>אלה היו הימים  30.08.25</description>
       <programDate>30/08/2025</programDate>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/Revital-Amit-30-08-25.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>אלה היו הימים  23.08.25</description>
       <programDate>23/08/2025</programDate>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/Revital-Amit-23-08-25.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>אלה היו הימים  16.08.25</description>
       <programDate>16/08/2025</programDate>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/Revital-Amit-16-08-25.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>אלה היו הימים  09.08.25</description>
       <programDate>09/08/2025</programDate>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/08/Revital-09-08-25.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>אלה היו הימים  02.08.25</description>
       <programDate>02/08/2025</programDate>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/08/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/Revital-Amit-02-08-25.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>אלה היו הימים  26.07.25</description>
       <programDate>26/07/2025</programDate>
       <pubDate>Sat, 26 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/Revital-Amit-26-07-25.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>אלה היו הימים  19.07.25</description>
       <programDate>19/07/2025</programDate>
       <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/Revital-Amit-19-07-25.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>אלה היו הימים  12.07.25</description>
       <programDate>12/07/2025</programDate>
       <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|12/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/Revital-Amit-12-07-25.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>אלה היו הימים  05.07.25</description>
       <programDate>05/07/2025</programDate>
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/07/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/07/Revital-Amit-05-07-25.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>אלה היו הימים  28.06.25</description>
       <programDate>28/06/2025</programDate>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/Revital-Amit-27-06-25.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>אלה היו הימים  14.06.25</description>
       <programDate>14/06/2025</programDate>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/Revital-Amit-14-06-25.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>אלה היו הימים  07.06.25</description>
       <programDate>07/06/2025</programDate>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/06/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/06/Revital-07-06-25.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>אלה היו הימים  31.05.25</description>
       <programDate>31/05/2025</programDate>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|31/05/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/Revital-Amit-31-05-25.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>אלה היו הימים  24.05.25</description>
       <programDate>24/05/2025</programDate>
       <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/05/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/Revital-Amit-24-05-25.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>אלה היו הימים  17.05.25</description>
       <programDate>17/05/2025</programDate>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/05/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/Revital-Amit-17-05-25.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>אלה היו הימים  10.05.25</description>
       <programDate>10/05/2025</programDate>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/05/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/05/Revital-Amit-10-05-25.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>אלה היו הימים  03.05.25</description>
       <programDate>03/05/2025</programDate>
       <pubDate>Sat, 03 May 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|03/05/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Revital-Amit-03-05-25.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>אלה היו הימים  26.04.25</description>
       <programDate>26/04/2025</programDate>
       <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/04/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Revital-Amit-26-04-25.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>אלה היו הימים  19.04.25</description>
       <programDate>19/04/2025</programDate>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/04/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Revital-Amit-19-04-25.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>אלה היו הימים  12.04.25</description>
       <programDate>12/04/2025</programDate>
       <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|12/04/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Revital-Amit-12-04-25.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>אלה היו הימים  05.04.25</description>
       <programDate>05/04/2025</programDate>
       <pubDate>Sat, 05 Apr 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/04/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/04/Revital-Amit-05-04-25.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>אלה היו הימים  29.03.25</description>
       <programDate>29/03/2025</programDate>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/03/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/Revital-Amit-29-03-25.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>אלה היו הימים  22.03.25</description>
       <programDate>22/03/2025</programDate>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/03/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/Revital-Amit-22-03-25.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>אלה היו הימים  15.03.25</description>
       <programDate>15/03/2025</programDate>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/03/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/Revital-Amit-15-03-25.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>אלה היו הימים  08.03.25</description>
       <programDate>08/03/2025</programDate>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/03/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/03/Revital-Amit-08-03-25.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>אלה היו הימים  01.03.25</description>
       <programDate>01/03/2025</programDate>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/03/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/02/Revital-Amit-01-03-25.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>אלה היו הימים  22.02.25</description>
       <programDate>22/02/2025</programDate>
       <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/02/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/02/Revital-Amit-22-02-25.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>אלה היו הימים  15.02.25</description>
       <programDate>15/02/2025</programDate>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/02/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/02/Revital-Amit-15-02-25.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>אלה היו הימים  08.02.25</description>
       <programDate>08/02/2025</programDate>
       <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/02/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/02/Revital-Amit-08-02-25.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>אלה היו הימים  01.02.25</description>
       <programDate>01/02/2025</programDate>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/02/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/Revital-Amit-01-02-25.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>אלה היו הימים  25.01.25</description>
       <programDate>25/01/2025</programDate>
       <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/01/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/Revital-Amit-25-01-25.mp3</guid>
     </item>
     <item>
@@ -828,7 +828,7 @@
       <description>אלה היו הימים  18.01.25</description>
       <programDate>18/01/2025</programDate>
       <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/01/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/Revital-18-01-25.mp3</guid>
     </item>
     <item>
@@ -838,7 +838,7 @@
       <description>אלה היו הימים  11.01.25</description>
       <programDate>11/01/2025</programDate>
       <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/01/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/Revital-Amit-11-01-25.mp3</guid>
     </item>
     <item>
@@ -848,7 +848,7 @@
       <description>אלה היו הימים  04.01.25</description>
       <programDate>04/01/2025</programDate>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/01/2025|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2025/01/Revital-Amit-04-01-25.mp3</guid>
     </item>
     <item>
@@ -858,7 +858,7 @@
       <description>אלה היו הימים  28.12.24</description>
       <programDate>28/12/2024</programDate>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/12/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Revital-Amit-28-12-24.mp3</guid>
     </item>
     <item>
@@ -868,7 +868,7 @@
       <description>אלה היו הימים  21.12.24</description>
       <programDate>21/12/2024</programDate>
       <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/12/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Revital-21-12-24.mp3</guid>
     </item>
     <item>
@@ -878,7 +878,7 @@
       <description>אלה היו הימים  14.12.24</description>
       <programDate>14/12/2024</programDate>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/12/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Revital-Amit-14-12-24.mp3</guid>
     </item>
     <item>
@@ -888,7 +888,7 @@
       <description>אלה היו הימים  07.12.24</description>
       <programDate>07/12/2024</programDate>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/12/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/12/Revital-Amit-07-12-24.mp3</guid>
     </item>
     <item>
@@ -898,7 +898,7 @@
       <description>אלה היו הימים  30.11.24</description>
       <programDate>30/11/2024</programDate>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Revital-Amit-30-11-24.mp3</guid>
     </item>
     <item>
@@ -908,7 +908,7 @@
       <description>אלה היו הימים  23.11.24</description>
       <programDate>23/11/2024</programDate>
       <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Revital-Amit-23-11-24.mp3</guid>
     </item>
     <item>
@@ -918,7 +918,7 @@
       <description>אלה היו הימים  16.11.24</description>
       <programDate>16/11/2024</programDate>
       <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Revital-16-11.mp3</guid>
     </item>
     <item>
@@ -928,7 +928,7 @@
       <description>אלה היו הימים  09.11.24</description>
       <programDate>09/11/2024</programDate>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/11/Revital-Amit-09-11-24.mp3</guid>
     </item>
     <item>
@@ -938,7 +938,7 @@
       <description>אלה היו הימים  02.11.24</description>
       <programDate>02/11/2024</programDate>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/11/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/10/Revital-Amit-02-11-24.mp3</guid>
     </item>
     <item>
@@ -948,7 +948,7 @@
       <description>אלה היו הימים  26.10.24</description>
       <programDate>26/10/2024</programDate>
       <pubDate>Sat, 26 Oct 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/10/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/10/Revital-26-10-24.mp3</guid>
     </item>
     <item>
@@ -958,7 +958,7 @@
       <description>אלה היו הימים  19.10.24</description>
       <programDate>19/10/2024</programDate>
       <pubDate>Sat, 19 Oct 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/10/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/10/Revital-Amit-19-10-24.mp3</guid>
     </item>
     <item>
@@ -968,7 +968,7 @@
       <description>אלה היו הימים  05.10.24</description>
       <programDate>05/10/2024</programDate>
       <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/10/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/10/Revital-Amit-05-10-24.mp3</guid>
     </item>
     <item>
@@ -978,7 +978,7 @@
       <description>אלה היו הימים  28.09.24</description>
       <programDate>28/09/2024</programDate>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/09/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/09/Revital-Amit-28-09-24.mp3</guid>
     </item>
     <item>
@@ -988,7 +988,7 @@
       <description>אלה היו הימים  21.09.24</description>
       <programDate>21/09/2024</programDate>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/09/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/09/Revital-Amit-21-09-24.mp3</guid>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <description>אלה היו הימים  14.09.24</description>
       <programDate>14/09/2024</programDate>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/09/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/09/Revital-Amit-14-09-24.mp3</guid>
     </item>
     <item>
@@ -1008,7 +1008,7 @@
       <description>אלה היו הימים  07.09.24</description>
       <programDate>07/09/2024</programDate>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/09/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/09/Revital-Amit-07-09-24.mp3</guid>
     </item>
     <item>
@@ -1018,7 +1018,7 @@
       <description>אלה היו הימים  31.08.24</description>
       <programDate>31/08/2024</programDate>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|31/08/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/08/Revital-Amit-31-08-24.mp3</guid>
     </item>
     <item>
@@ -1028,7 +1028,7 @@
       <description>אלה היו הימים  24.08.24</description>
       <programDate>24/08/2024</programDate>
       <pubDate>Sat, 24 Aug 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/08/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/08/Revital-Amit-24-08-24.mp3</guid>
     </item>
     <item>
@@ -1038,7 +1038,7 @@
       <description>אלה היו הימים  17.08.24</description>
       <programDate>17/08/2024</programDate>
       <pubDate>Sat, 17 Aug 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/08/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/08/Revital-Amit-17-08-24.mp3</guid>
     </item>
     <item>
@@ -1048,7 +1048,7 @@
       <description>אלה היו הימים  10.08.24</description>
       <programDate>10/08/2024</programDate>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/08/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/08/Revital-Amit-10-08-24.mp3</guid>
     </item>
     <item>
@@ -1058,7 +1058,7 @@
       <description>אלה היו הימים  03.08.24</description>
       <programDate>03/08/2024</programDate>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|03/08/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Revital-Amit-03-08-24.mp3</guid>
     </item>
     <item>
@@ -1068,7 +1068,7 @@
       <description>אלה היו הימים  27.07.24</description>
       <programDate>27/07/2024</programDate>
       <pubDate>Sat, 27 Jul 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/07/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Revital-Amit-27-07-24.mp3</guid>
     </item>
     <item>
@@ -1078,7 +1078,7 @@
       <description>אלה היו הימים  20.07.24</description>
       <programDate>20/07/2024</programDate>
       <pubDate>Sat, 20 Jul 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/07/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Revital-Amit-20-07-24.mp3</guid>
     </item>
     <item>
@@ -1088,7 +1088,7 @@
       <description>אלה היו הימים  13.07.24</description>
       <programDate>13/07/2024</programDate>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/07/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Revital-Amit-13-07-24.mp3</guid>
     </item>
     <item>
@@ -1098,7 +1098,7 @@
       <description>אלה היו הימים  06.07.24</description>
       <programDate>06/07/2024</programDate>
       <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/07/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/07/Revital-Amit-06-07-24.mp3</guid>
     </item>
     <item>
@@ -1108,7 +1108,7 @@
       <description>אלה היו הימים  29.6.24</description>
       <programDate>29/06/2024</programDate>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/Revital-Amit-29-06-24.mp3</guid>
     </item>
     <item>
@@ -1118,7 +1118,7 @@
       <description>אלה היו הימים  22.6.24</description>
       <programDate>22/06/2024</programDate>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/Revital-Amit-22-06-24.mp3</guid>
     </item>
     <item>
@@ -1128,7 +1128,7 @@
       <description>אלה היו הימים  15.06.24</description>
       <programDate>15/06/2024</programDate>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/Revital-Amit-15-06-24.mp3</guid>
     </item>
     <item>
@@ -1138,7 +1138,7 @@
       <description>אלה היו הימים  08.06.24</description>
       <programDate>08/06/2024</programDate>
       <pubDate>Sat, 08 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/06/Revital-Amit-08-06-24.mp3</guid>
     </item>
     <item>
@@ -1148,7 +1148,7 @@
       <description>אלה היו הימים  01.06.24</description>
       <programDate>01/06/2024</programDate>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/06/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/Revital-01-06-24.mp3</guid>
     </item>
     <item>
@@ -1158,7 +1158,7 @@
       <description>אלה היו הימים  25.05.24</description>
       <programDate>25/05/2024</programDate>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/Revital-Amit-25-05-24.mp3</guid>
     </item>
     <item>
@@ -1168,7 +1168,7 @@
       <description>אלה היו הימים  18.05.24</description>
       <programDate>18/05/2024</programDate>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/Ravital-Amit-18-05-24.mp3</guid>
     </item>
     <item>
@@ -1178,7 +1178,7 @@
       <description>אלה היו הימים  11.5.24</description>
       <programDate>11/05/2024</programDate>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/05/01-Revital-Amit-11-05-24.mp3</guid>
     </item>
     <item>
@@ -1188,7 +1188,7 @@
       <description>אלה היו הימים  04.05.24</description>
       <programDate>04/05/2024</programDate>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/05/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/Revital-Amit-04-05-24.mp3</guid>
     </item>
     <item>
@@ -1198,7 +1198,7 @@
       <description>אלה היו הימים  27.04.24</description>
       <programDate>27/04/2024</programDate>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/04/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/Revital-Amit-27-04-24.mp3</guid>
     </item>
     <item>
@@ -1208,7 +1208,7 @@
       <description>אלה היו הימים  20.04.24</description>
       <programDate>20/04/2024</programDate>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/04/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/Revital-Amit-20-04-24.mp3</guid>
     </item>
     <item>
@@ -1218,7 +1218,7 @@
       <description>אלה היו הימים  13.04.24</description>
       <programDate>13/04/2024</programDate>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/04/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/Revital-Amit-13-04-24.mp3</guid>
     </item>
     <item>
@@ -1228,7 +1228,7 @@
       <description>אלה היו הימים  06.04.24</description>
       <programDate>06/04/2024</programDate>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/04/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/04/Revital-Amit-06-04-24.mp3</guid>
     </item>
     <item>
@@ -1238,7 +1238,7 @@
       <description>אלה היו הימים  30.03.24</description>
       <programDate>30/03/2024</programDate>
       <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/03/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/Revital-Amit-30-03-24-1.mp3</guid>
     </item>
     <item>
@@ -1248,7 +1248,7 @@
       <description>אלה היו הימים  23.03.24</description>
       <programDate>23/03/2024</programDate>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/03/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/Revital-Amit-23-03-24.mp3</guid>
     </item>
     <item>
@@ -1258,7 +1258,7 @@
       <description>אלה היו הימים  16.03.24</description>
       <programDate>16/03/2024</programDate>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/03/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/Revital-Amit-16-03-24.mp3</guid>
     </item>
     <item>
@@ -1268,7 +1268,7 @@
       <description>אלה היו הימים  09.03.24</description>
       <programDate>09/03/2024</programDate>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/03/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/03/Revital-Amit-09-03-24.mp3</guid>
     </item>
     <item>
@@ -1278,7 +1278,7 @@
       <description>אלה היו הימים  02.03.24</description>
       <programDate>02/03/2024</programDate>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/03/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/02/Revital-Amit-02-03-24.mp3</guid>
     </item>
     <item>
@@ -1288,7 +1288,7 @@
       <description>אלה היו הימים  24.02.24</description>
       <programDate>24/02/2024</programDate>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/02/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/02/Revital-Amit-24-02-24.mp3</guid>
     </item>
     <item>
@@ -1298,7 +1298,7 @@
       <description>אלה היו הימים  17.02.24</description>
       <programDate>17/02/2024</programDate>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/02/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/02/Revital-Amit-17-02-24.mp3</guid>
     </item>
     <item>
@@ -1308,7 +1308,7 @@
       <description>אלה היו הימים  10.02.24</description>
       <programDate>10/02/2024</programDate>
       <pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/02/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/02/Revital-Amit-10-02-24.mp3</guid>
     </item>
     <item>
@@ -1318,7 +1318,7 @@
       <description>אלה היו הימים  03.02.24</description>
       <programDate>03/02/2024</programDate>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|03/02/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/01/Revital-Amit-03-02-24.mp3</guid>
     </item>
     <item>
@@ -1328,7 +1328,7 @@
       <description>אלה היו הימים  27.01.24</description>
       <programDate>27/01/2024</programDate>
       <pubDate>Sat, 27 Jan 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/01/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/01/Revital-Amit-27-01-24.mp3</guid>
     </item>
     <item>
@@ -1338,7 +1338,7 @@
       <description>אלה היו הימים  20.01.24</description>
       <programDate>20/01/2024</programDate>
       <pubDate>Sat, 20 Jan 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/01/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/01/Revital-Amit-20-01-24.mp3</guid>
     </item>
     <item>
@@ -1348,7 +1348,7 @@
       <description>אלה היו הימים  13.1.24</description>
       <programDate>13/01/2024</programDate>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/01/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/01/Revital-Amit-13-01-24.mp3</guid>
     </item>
     <item>
@@ -1358,7 +1358,7 @@
       <description>אלה היו הימים  6.1.24</description>
       <programDate>06/01/2024</programDate>
       <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/01/2024|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2024/01/Revital-Amit-06-01-24.mp3</guid>
     </item>
     <item>
@@ -1368,7 +1368,7 @@
       <description>אלה היו הימים  30.12.23</description>
       <programDate>30/12/2023</programDate>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/12/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/Revital-Amit-30-12-23.mp3</guid>
     </item>
     <item>
@@ -1378,7 +1378,7 @@
       <description>אלה היו הימים  23.12.23</description>
       <programDate>23/12/2023</programDate>
       <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/12/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/Revital-Amit-23-12-23.mp3</guid>
     </item>
     <item>
@@ -1388,7 +1388,7 @@
       <description>אלה היו הימים  16.12.23</description>
       <programDate>16/12/2023</programDate>
       <pubDate>Sat, 16 Dec 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/12/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/Revital-Amit-16-12-23.mp3</guid>
     </item>
     <item>
@@ -1398,7 +1398,7 @@
       <description>אלה היו הימים  09.12.23</description>
       <programDate>09/12/2023</programDate>
       <pubDate>Sat, 09 Dec 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/12/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/12/Revital-Amit-09-12-23.mp3</guid>
     </item>
     <item>
@@ -1408,7 +1408,7 @@
       <description>אלה היו הימים  02.12.23</description>
       <programDate>02/12/2023</programDate>
       <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/12/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/11/Revital-Amit-02-12-23.mp3</guid>
     </item>
     <item>
@@ -1418,7 +1418,7 @@
       <description>אלה היו הימים  25.11.23</description>
       <programDate>25/11/2023</programDate>
       <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/11/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/11/Revital-Amit-25-11-23.mp3</guid>
     </item>
     <item>
@@ -1428,7 +1428,7 @@
       <description>אלה היו הימים  18.11.23</description>
       <programDate>18/11/2023</programDate>
       <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/11/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/11/Revital-Amit-18-11-23.mp3</guid>
     </item>
     <item>
@@ -1438,7 +1438,7 @@
       <description>אלה היו הימים  11.11.23</description>
       <programDate>11/11/2023</programDate>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/11/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/11/Revital-Amit-11-11-23.mp3</guid>
     </item>
     <item>
@@ -1448,7 +1448,7 @@
       <description>אלה היו הימים  04.11.23</description>
       <programDate>04/11/2023</programDate>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/11/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/10/Revital-Amit-04-11-23.mp3</guid>
     </item>
     <item>
@@ -1458,7 +1458,7 @@
       <description>אלה היו הימים  28.10.23</description>
       <programDate>28/10/2023</programDate>
       <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/10/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/10/Revital-Amit-28-10-23.mp3</guid>
     </item>
     <item>
@@ -1468,7 +1468,7 @@
       <description>אלה היו הימים  07.10.23</description>
       <programDate>07/10/2023</programDate>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/10/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/10/REVITAL-07.10.23.mp3</guid>
     </item>
     <item>
@@ -1478,7 +1478,7 @@
       <description>אלה היו הימים  30.09.23</description>
       <programDate>30/09/2023</programDate>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Revital-30-09-23.mp3</guid>
     </item>
     <item>
@@ -1488,7 +1488,7 @@
       <description>אלה היו הימים  23.09.23</description>
       <programDate>23/09/2023</programDate>
       <pubDate>Sat, 23 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Revital-23-09-23.mp3</guid>
     </item>
     <item>
@@ -1498,7 +1498,7 @@
       <description>אלה היו הימים  09.09.23</description>
       <programDate>09/09/2023</programDate>
       <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/09/Revital-Amit-09-09-23.mp3</guid>
     </item>
     <item>
@@ -1508,7 +1508,7 @@
       <description>אלה היו הימים  02.09.23</description>
       <programDate>02/09/2023</programDate>
       <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/09/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Revital-Amit-02-09-23.mp3</guid>
     </item>
     <item>
@@ -1518,7 +1518,7 @@
       <description>אלה היו הימים  26.08.23</description>
       <programDate>26/08/2023</programDate>
       <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Revital-Amit-26-08-23.mp3</guid>
     </item>
     <item>
@@ -1528,7 +1528,7 @@
       <description>אלה היו הימים  19.08.23</description>
       <programDate>19/08/2023</programDate>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Revital-Amit-19-08-23.mp3</guid>
     </item>
     <item>
@@ -1538,7 +1538,7 @@
       <description>אלה היו הימים  12.08.23</description>
       <programDate>12/08/2023</programDate>
       <pubDate>Sat, 12 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|12/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Revital-Amit-12-08-23.mp3</guid>
     </item>
     <item>
@@ -1548,7 +1548,7 @@
       <description>אלה היו הימים  05.08.23</description>
       <programDate>05/08/2023</programDate>
       <pubDate>Sat, 05 Aug 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/08/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/08/Revital-Amit-05-08-23.mp3</guid>
     </item>
     <item>
@@ -1558,7 +1558,7 @@
       <description>אלה היו הימים  29.7.23</description>
       <programDate>29/07/2023</programDate>
       <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/07/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Revital-Amit-29-07-23.mp3</guid>
     </item>
     <item>
@@ -1568,7 +1568,7 @@
       <description>אלה היו הימים  22.07.23</description>
       <programDate>22/07/2023</programDate>
       <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/07/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Revital-Amit-22-07-23.mp3</guid>
     </item>
     <item>
@@ -1578,7 +1578,7 @@
       <description>אלה היו הימים  15.07.23</description>
       <programDate>15/07/2023</programDate>
       <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/07/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Revital-Amit-15-07-23.mp3</guid>
     </item>
     <item>
@@ -1588,7 +1588,7 @@
       <description>אלה היו הימים  08.07.23</description>
       <programDate>08/07/2023</programDate>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/07/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/07/Revital-08-07-23.mp3</guid>
     </item>
     <item>
@@ -1598,7 +1598,7 @@
       <description>אלה היו הימים  01.07.23</description>
       <programDate>01/07/2023</programDate>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/07/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Revital-Amit-01-07-23.mp3</guid>
     </item>
     <item>
@@ -1608,7 +1608,7 @@
       <description>אלה היו הימים  24.06.23</description>
       <programDate>24/06/2023</programDate>
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Revital-Amit-24-06-23.mp3</guid>
     </item>
     <item>
@@ -1618,7 +1618,7 @@
       <description>אלה היו הימים  17.6.23</description>
       <programDate>17/06/2023</programDate>
       <pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Revital-17-04-23.mp3</guid>
     </item>
     <item>
@@ -1628,7 +1628,7 @@
       <description>אלה היו הימים  10.06.23</description>
       <programDate>10/06/2023</programDate>
       <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/06/Revital-Amit-10-06-23.mp3</guid>
     </item>
     <item>
@@ -1638,7 +1638,7 @@
       <description>אלה היו הימים  03.06.23</description>
       <programDate>03/06/2023</programDate>
       <pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|03/06/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/Revital-Amit-03-06-23.mp3</guid>
     </item>
     <item>
@@ -1648,7 +1648,7 @@
       <description>אלה היו הימים  27.05.23</description>
       <programDate>27/05/2023</programDate>
       <pubDate>Sat, 27 May 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/05/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/Revital-Amit-27-05-23.mp3</guid>
     </item>
     <item>
@@ -1658,7 +1658,7 @@
       <description>אלה היו הימים  20.05.23</description>
       <programDate>20/05/2023</programDate>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/05/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/Revital-Amit-20-05-23.mp3</guid>
     </item>
     <item>
@@ -1668,7 +1668,7 @@
       <description>אלה היו הימים  13.05.23</description>
       <programDate>13/05/2023</programDate>
       <pubDate>Sat, 13 May 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/05/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/05/Revital-Amit-13-05-23.mp3</guid>
     </item>
     <item>
@@ -1678,7 +1678,7 @@
       <description>אלה היו הימים  29.04.23</description>
       <programDate>29/04/2023</programDate>
       <pubDate>Sat, 29 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/REVITAL-29.4.mp3</guid>
     </item>
     <item>
@@ -1688,7 +1688,7 @@
       <description>אלה היו הימים  22.04.23</description>
       <programDate>22/04/2023</programDate>
       <pubDate>Sat, 22 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/Revital-Amit-22-04-23.mp3</guid>
     </item>
     <item>
@@ -1698,7 +1698,7 @@
       <description>אלה היו הימים  15.04.23</description>
       <programDate>15/04/2023</programDate>
       <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/Revital-Amit-15-04-23.mp3</guid>
     </item>
     <item>
@@ -1708,7 +1708,7 @@
       <description>אלה היו הימים  08.04.23</description>
       <programDate>08/04/2023</programDate>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/04/Revital-Amit-08-04-23.mp3</guid>
     </item>
     <item>
@@ -1718,7 +1718,7 @@
       <description>אלה היו הימים  01.04.23</description>
       <programDate>01/04/2023</programDate>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/04/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-01-04-23.mp3</guid>
     </item>
     <item>
@@ -1728,7 +1728,7 @@
       <description>אלה היו הימים  25.03.23</description>
       <programDate>25/03/2023</programDate>
       <pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/03/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-25-03-23.mp3</guid>
     </item>
     <item>
@@ -1738,7 +1738,7 @@
       <description>אלה היו הימים  18.03.23</description>
       <programDate>18/03/2023</programDate>
       <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/03/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-18-03-23.mp3</guid>
     </item>
     <item>
@@ -1748,7 +1748,7 @@
       <description>אלה היו הימים  11.03.23</description>
       <programDate>11/03/2023</programDate>
       <pubDate>Sat, 11 Mar 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/03/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-11-03-23.mp3</guid>
     </item>
     <item>
@@ -1758,7 +1758,7 @@
       <description>אלה היו הימים  04.03.23</description>
       <programDate>04/03/2023</programDate>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/03/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-04-03-23-1.mp3</guid>
     </item>
     <item>
@@ -1768,7 +1768,7 @@
       <description>אלה היו הימים  04.03.23</description>
       <programDate>04/03/2023</programDate>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/03/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-04-03-23.mp3</guid>
     </item>
     <item>
@@ -1778,7 +1778,7 @@
       <description>אלה היו הימים  25.02.23</description>
       <programDate>25/02/2023</programDate>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/02/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-25-02-23-1.mp3</guid>
     </item>
     <item>
@@ -1788,7 +1788,7 @@
       <description>אלה היו הימים  25.02.23</description>
       <programDate>25/02/2023</programDate>
       <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/02/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/03/Revital-Amit-25-02-23.mp3</guid>
     </item>
     <item>
@@ -1798,7 +1798,7 @@
       <description>אלה היו הימים  18.02.23</description>
       <programDate>18/02/2023</programDate>
       <pubDate>Sat, 18 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/02/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/18.2.23.mp3</guid>
     </item>
     <item>
@@ -1808,7 +1808,7 @@
       <description>אלה היו הימים  11.02.23</description>
       <programDate>11/02/2023</programDate>
       <pubDate>Sat, 11 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/02/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Revital-Amit-11-02-23.mp3</guid>
     </item>
     <item>
@@ -1818,7 +1818,7 @@
       <description>אלה היו הימים  04.02.23</description>
       <programDate>04/02/2023</programDate>
       <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/02/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/02/Revital-04-02-23.mp3</guid>
     </item>
     <item>
@@ -1828,7 +1828,7 @@
       <description>אלה היו הימים  28.01.23</description>
       <programDate>28/01/2023</programDate>
       <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/01/Revital-Amit-28-01-23.mp3</guid>
     </item>
     <item>
@@ -1838,7 +1838,7 @@
       <description>אלה היו הימים  21.01.23</description>
       <programDate>21/01/2023</programDate>
       <pubDate>Sat, 21 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/01/Revital-Amit-21-01-23-1.mp3</guid>
     </item>
     <item>
@@ -1848,7 +1848,7 @@
       <description>אלה היו הימים  14.01.23</description>
       <programDate>14/01/2023</programDate>
       <pubDate>Sat, 14 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/01/Revital-Amit-14-01-23.mp3</guid>
     </item>
     <item>
@@ -1858,7 +1858,7 @@
       <description>אלה היו הימים  07.01.23</description>
       <programDate>07/01/2023</programDate>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/01/2023|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2023/01/Revital-Amit-07-01-23.mp3</guid>
     </item>
     <item>
@@ -1868,7 +1868,7 @@
       <description>אלה היו הימים  31.12.22</description>
       <programDate>31/12/2022</programDate>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|31/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Revital-Amit-31-12-22.mp3</guid>
     </item>
     <item>
@@ -1878,7 +1878,7 @@
       <description>אלה היו הימים  24.12.22</description>
       <programDate>24/12/2022</programDate>
       <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Revital-Amit-24-12-22.mp3</guid>
     </item>
     <item>
@@ -1888,7 +1888,7 @@
       <description>אלה היו הימים  17.12.22</description>
       <programDate>17/12/2022</programDate>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Revital-Amit-17-12-22.mp3</guid>
     </item>
     <item>
@@ -1898,7 +1898,7 @@
       <description>אלה היו הימים  10.12.22</description>
       <programDate>10/12/2022</programDate>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/12/Revital-Amit-10-12-22.mp3</guid>
     </item>
     <item>
@@ -1908,7 +1908,7 @@
       <description>אלה היו הימים  03.12.22</description>
       <programDate>03/12/2022</programDate>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|03/12/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/Revital-03-11-22.mp3</guid>
     </item>
     <item>
@@ -1918,7 +1918,7 @@
       <description>אלה היו הימים  26.11.22</description>
       <programDate>26/11/2022</programDate>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/11/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/Revital-Amit-26-11-22.mp3</guid>
     </item>
     <item>
@@ -1928,7 +1928,7 @@
       <description>אלה היו הימים  19.11.22</description>
       <programDate>19/11/2022</programDate>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/11/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/Revital-Amit-19-11-22.mp3</guid>
     </item>
     <item>
@@ -1938,7 +1938,7 @@
       <description>אלה היו הימים  12.11.22</description>
       <programDate>12/11/2022</programDate>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|12/11/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/Revital-Amit-12-11-22.mp3</guid>
     </item>
     <item>
@@ -1948,7 +1948,7 @@
       <description>אלה היו הימים  05.11.22</description>
       <programDate>05/11/2022</programDate>
       <pubDate>Sat, 05 Nov 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/11/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/11/Revital-Amit-05-11-22.mp3</guid>
     </item>
     <item>
@@ -1958,7 +1958,7 @@
       <description>אלה היו הימים  29.10.22</description>
       <programDate>29/10/2022</programDate>
       <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/10/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/Revital-29-10-22.mp3</guid>
     </item>
     <item>
@@ -1968,7 +1968,7 @@
       <description>אלה היו הימים  22.10.22</description>
       <programDate>22/10/2022</programDate>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/10/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/Revital-22-10-22.mp3</guid>
     </item>
     <item>
@@ -1978,7 +1978,7 @@
       <description>אלה היו הימים  15.10.22</description>
       <programDate>15/10/2022</programDate>
       <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/10/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/Revital-15-10-22.mp3</guid>
     </item>
     <item>
@@ -1988,7 +1988,7 @@
       <description>אלה היו הימים  08.10.22</description>
       <programDate>08/10/2022</programDate>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/10/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/10/Revital-08-11-22.mp3</guid>
     </item>
     <item>
@@ -1998,7 +1998,7 @@
       <description>אלה היו הימים  01.10.22</description>
       <programDate>01/10/2022</programDate>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/10/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/Revital-01-10-22.mp3</guid>
     </item>
     <item>
@@ -2008,7 +2008,7 @@
       <description>אלה היו הימים  24.09.22</description>
       <programDate>24/09/2022</programDate>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/09/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/Revital-24-09-22.mp3</guid>
     </item>
     <item>
@@ -2018,7 +2018,7 @@
       <description>אלה היו הימים  17.09.22</description>
       <programDate>17/09/2022</programDate>
       <pubDate>Sat, 17 Sep 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|17/09/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/Revital-17-09-22.mp3</guid>
     </item>
     <item>
@@ -2028,7 +2028,7 @@
       <description>אלה היו הימים  10.09.22</description>
       <programDate>10/09/2022</programDate>
       <pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|10/09/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/09/Revital-10-09-22.mp3</guid>
     </item>
     <item>
@@ -2038,7 +2038,7 @@
       <description>אלה היו הימים  20.08.22</description>
       <programDate>20/08/2022</programDate>
       <pubDate>Sat, 20 Aug 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/08/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/08/Revital-Amit-20-08-22.mp3</guid>
     </item>
     <item>
@@ -2048,7 +2048,7 @@
       <description>אלה היו הימים  13.08.22</description>
       <programDate>13/08/2022</programDate>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/08/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/08/Revital-Amit-13-08-22.mp3</guid>
     </item>
     <item>
@@ -2058,7 +2058,7 @@
       <description>אלה היום הימים  06.08.22</description>
       <programDate>06/08/2022</programDate>
       <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/08/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/08/Revital-Amit-06-08-22.mp3</guid>
     </item>
     <item>
@@ -2068,7 +2068,7 @@
       <description>אלה היו הימים  30.07.22</description>
       <programDate>30/07/2022</programDate>
       <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/07/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/07/Revital-Amit-30-07-22.mp3</guid>
     </item>
     <item>
@@ -2078,7 +2078,7 @@
       <description>אלה היו הימים  23.07.22</description>
       <programDate>23/07/2022</programDate>
       <pubDate>Sat, 23 Jul 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/07/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/07/Revital-Amit-23-07-22.mp3</guid>
     </item>
     <item>
@@ -2088,7 +2088,7 @@
       <description>אלה היו הימים  16.07.22</description>
       <programDate>16/07/2022</programDate>
       <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/07/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/07/Revital-16-07-22.mp3</guid>
     </item>
     <item>
@@ -2098,7 +2098,7 @@
       <description>אלה היו הימים  09.07.22</description>
       <programDate>09/07/2022</programDate>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/07/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/07/Revital-09-07-22.mp3</guid>
     </item>
     <item>
@@ -2108,7 +2108,7 @@
       <description>אלה היו הימים  25.06.22</description>
       <programDate>25/06/2022</programDate>
       <pubDate>Sat, 25 Jun 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/06/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/Revital-25-06-22.mp3</guid>
     </item>
     <item>
@@ -2118,7 +2118,7 @@
       <description>אלה היו הימים  18.06.22</description>
       <programDate>18/06/2022</programDate>
       <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/06/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/Revital-18-06-22.mp3</guid>
     </item>
     <item>
@@ -2128,7 +2128,7 @@
       <description>אלה היו הימים  11.06.22</description>
       <programDate>11/06/2022</programDate>
       <pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/06/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/Revital-Amit-11-06-22.mp3</guid>
     </item>
     <item>
@@ -2138,7 +2138,7 @@
       <description>אלה היו הימים  04.06.22</description>
       <programDate>04/06/2022</programDate>
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/06/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/06/Revital-04-06-22.mp3</guid>
     </item>
     <item>
@@ -2148,7 +2148,7 @@
       <description>אלה היו הימים  28.05.22</description>
       <programDate>28/05/2022</programDate>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/05/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/Revital-28-05-22.mp3</guid>
     </item>
     <item>
@@ -2158,7 +2158,7 @@
       <description>אלה היו הימים  21.05.22</description>
       <programDate>21/05/2022</programDate>
       <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/05/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/Revital-Amit-21-05-22.mp3</guid>
     </item>
     <item>
@@ -2168,7 +2168,7 @@
       <description>אלה היו הימים  14.05.22</description>
       <programDate>14/05/2022</programDate>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/05/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/14.5.22.mp3</guid>
     </item>
     <item>
@@ -2178,7 +2178,7 @@
       <description>אלה היו הימים  07.05.22</description>
       <programDate>07/05/2022</programDate>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/05/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/05/Revital-07-05-22.mp3</guid>
     </item>
     <item>
@@ -2188,7 +2188,7 @@
       <description>אלה היו הימים  30.04.22</description>
       <programDate>30/04/2022</programDate>
       <pubDate>Sat, 30 Apr 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/04/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/04/Revital-30-04-22.mp3</guid>
     </item>
     <item>
@@ -2198,7 +2198,7 @@
       <description>אלה היו הימים  23.04.22</description>
       <programDate>23/04/2022</programDate>
       <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/04/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/04/Revital-09-04-22-1.mp3</guid>
     </item>
     <item>
@@ -2208,7 +2208,7 @@
       <description>אלה היו הימים  16.04.22</description>
       <programDate>16/04/2022</programDate>
       <pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/04/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/04/Revital-16-04-22.mp3</guid>
     </item>
     <item>
@@ -2218,7 +2218,7 @@
       <description>אלה היו הימים  02.04.22</description>
       <programDate>02/04/2022</programDate>
       <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/04/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/03/Revital-02-04-22.mp3</guid>
     </item>
     <item>
@@ -2228,7 +2228,7 @@
       <description>אלה היו הימים  26.03.22</description>
       <programDate>26/03/2022</programDate>
       <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/03/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/03/Revital-26-03-22.mp3</guid>
     </item>
     <item>
@@ -2238,7 +2238,7 @@
       <description>אלה היו הימים  19.03.22</description>
       <programDate>19/03/2022</programDate>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/03/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/03/Revital-Amit-19-03-22.mp3</guid>
     </item>
     <item>
@@ -2248,7 +2248,7 @@
       <description>אלה היו הימים  12.03.22</description>
       <programDate>12/03/2022</programDate>
       <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|12/03/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/03/Revital-Amit-12-03-22.mp3</guid>
     </item>
     <item>
@@ -2258,7 +2258,7 @@
       <description>אלה היו הימים  05.03.22</description>
       <programDate>05/03/2022</programDate>
       <pubDate>Sat, 05 Mar 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/03/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/03/Revital-Amit-05-03-22.mp3</guid>
     </item>
     <item>
@@ -2268,7 +2268,7 @@
       <description>אלה היו הימים  26.02.22</description>
       <programDate>26/02/2022</programDate>
       <pubDate>Sat, 26 Feb 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|26/02/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/02/Revital-Amit-26-02-22.mp3</guid>
     </item>
     <item>
@@ -2278,7 +2278,7 @@
       <description>אלה היו הימים  19.02.22</description>
       <programDate>19/02/2022</programDate>
       <pubDate>Sat, 19 Feb 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|19/02/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/02/Revital-Amit-19-02-22.mp3</guid>
     </item>
     <item>
@@ -2288,7 +2288,7 @@
       <description>אלה היו הימים  12.02.22</description>
       <programDate>12/02/2022</programDate>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|12/02/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/02/Revital-Amit-12-02-22.mp3</guid>
     </item>
     <item>
@@ -2298,7 +2298,7 @@
       <description>אלה היו הימים  05.02.22</description>
       <programDate>05/02/2022</programDate>
       <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|05/02/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/Revital-Amit-05-02-22.mp3</guid>
     </item>
     <item>
@@ -2308,7 +2308,7 @@
       <description>אלה היו הימים  29.01.22</description>
       <programDate>29/01/2022</programDate>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|29/01/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/Revital-Amit-29-01-22.mp3</guid>
     </item>
     <item>
@@ -2318,7 +2318,7 @@
       <description>אלה היו הימים  22.01.22</description>
       <programDate>22/01/2022</programDate>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|22/01/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/Revital-Amit-22-01-22.mp3</guid>
     </item>
     <item>
@@ -2328,7 +2328,7 @@
       <description>אלה היו הימים  15.01.22</description>
       <programDate>15/01/2022</programDate>
       <pubDate>Sat, 15 Jan 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|15/01/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/15.1.22.mp3</guid>
     </item>
     <item>
@@ -2338,7 +2338,7 @@
       <description>אלה היו הימים  08.01.22</description>
       <programDate>08/01/2022</programDate>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|08/01/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/r-8.1.22.mp3</guid>
     </item>
     <item>
@@ -2348,7 +2348,7 @@
       <description>אלה היו הימים 01.01.22</description>
       <programDate>01/01/2022</programDate>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|01/01/2022|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2022/01/01.1.22.mp3</guid>
     </item>
     <item>
@@ -2358,7 +2358,7 @@
       <description>אלה היו הימים  25.12.21</description>
       <programDate>25/12/2021</programDate>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|25/12/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/25-12-21.mp3</guid>
     </item>
     <item>
@@ -2368,7 +2368,7 @@
       <description>אלה היו הימים  18.12.21</description>
       <programDate>18/12/2021</programDate>
       <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/12/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/18-12-21.mp3</guid>
     </item>
     <item>
@@ -2378,7 +2378,7 @@
       <description>אלה היו הימים  11.12.2021</description>
       <programDate>11/12/2021</programDate>
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/12/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/Revital-Amit-11-12-21.mp3</guid>
     </item>
     <item>
@@ -2388,7 +2388,7 @@
       <description>אלה היו הימים  04.12.21</description>
       <programDate>04/12/2021</programDate>
       <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/12/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/12/Revital-Amit-04-12-21-1.mp3</guid>
     </item>
     <item>
@@ -2398,7 +2398,7 @@
       <description>אלה היו הימים  27.11.21</description>
       <programDate>27/11/2021</programDate>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|27/11/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/Revital-Amit-27-11-21.mp3</guid>
     </item>
     <item>
@@ -2408,7 +2408,7 @@
       <description>אלה היו הימים  20.11.21</description>
       <programDate>20/11/2021</programDate>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|20/11/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/Revital-Amit-20-11-21.mp3</guid>
     </item>
     <item>
@@ -2418,7 +2418,7 @@
       <description>אלה היו הימים  13.11.21</description>
       <programDate>13/11/2021</programDate>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|13/11/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/Revital-Amit-13-11-21.mp3</guid>
     </item>
     <item>
@@ -2428,7 +2428,7 @@
       <description>אלה היו הימים  06.11.21</description>
       <programDate>06/11/2021</programDate>
       <pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|06/11/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/11/Revital-06-11-21.mp3</guid>
     </item>
     <item>
@@ -2438,7 +2438,7 @@
       <description>אלה היו הימים  30.10.21</description>
       <programDate>30/10/2021</programDate>
       <pubDate>Sat, 30 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|30/10/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/Revital-30-10-21.mp3</guid>
     </item>
     <item>
@@ -2448,7 +2448,7 @@
       <description>אלה היו הימים  23.10.21</description>
       <programDate>23/10/2021</programDate>
       <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|23/10/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/Revital-23-10-21.mp3</guid>
     </item>
     <item>
@@ -2458,7 +2458,7 @@
       <description>אלה היו הימים  16.10.21</description>
       <programDate>16/10/2021</programDate>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|16/10/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/Revital-16-10-21.mp3</guid>
     </item>
     <item>
@@ -2468,7 +2468,7 @@
       <description>אלה היו הימים  09.10.21</description>
       <programDate>09/10/2021</programDate>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|09/10/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/Revital-Amit-09-10-21.mp3</guid>
     </item>
     <item>
@@ -2478,7 +2478,7 @@
       <description>אלה היו הימים  02.10.21</description>
       <programDate>02/10/2021</programDate>
       <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|02/10/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/10/02.10.21.mp3</guid>
     </item>
     <item>
@@ -2488,7 +2488,7 @@
       <description>אלה היו הימים  18.09.21</description>
       <programDate>18/09/2021</programDate>
       <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|18/09/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/09/Revital-Amit-18-09-21.mp3</guid>
     </item>
     <item>
@@ -2498,7 +2498,7 @@
       <description>אלה היו הימים  11.09.21</description>
       <programDate>11/09/2021</programDate>
       <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|11/09/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/09/Revital-Amit-11-09-21.mp3</guid>
     </item>
     <item>
@@ -2508,7 +2508,7 @@
       <description>אלה היו הימים  04.09.21</description>
       <programDate>04/09/2021</programDate>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|04/09/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Revital-Amit-04-09-21.mp3</guid>
     </item>
     <item>
@@ -2518,7 +2518,7 @@
       <description>אלה היו הימים  28.08.21</description>
       <programDate>28/08/2021</programDate>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|28/08/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Revital-Amit-28-08-21.mp3</guid>
     </item>
     <item>
@@ -2528,7 +2528,7 @@
       <description>אלה היו הימים  21.08.21</description>
       <programDate>21/08/2021</programDate>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|21/08/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Revital-Amit-21-08-21.mp3</guid>
     </item>
     <item>
@@ -2538,7 +2538,7 @@
       <description>אלה היו הימים  14.08.21</description>
       <programDate>14/08/2021</programDate>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|14/08/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Revital-14-08-21.mp3</guid>
     </item>
     <item>
@@ -2548,7 +2548,7 @@
       <description>אלה היו הימים  07.08.21</description>
       <programDate>07/08/2021</programDate>
       <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|07/08/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Revital-Amit-07-08-21.mp3</guid>
     </item>
     <item>
@@ -2558,7 +2558,7 @@
       <description>אלה היו הימים  31.07.21</description>
       <programDate>31/07/2021</programDate>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|31/07/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/08/Revital-Amit-31-07-21.mp3</guid>
     </item>
     <item>
@@ -2568,7 +2568,7 @@
       <description>אלה היו הימים  24.07.21</description>
       <programDate>24/07/2021</programDate>
       <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" />
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">420|16|24/07/2021|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2021/07/Revital-Amit-24-07-21.mp3</guid>
     </item>
   </channel>
