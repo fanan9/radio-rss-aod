@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו דרום 101.5 FM | ישיבה מזרחית</title>
+    <description>Programs from רדיו דרום 101.5 FM, show: ישיבה מזרחית</description>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/150226 YASHVAZ.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <image>
+      <url>https://1015.radiodarom.co.il/Upload/Media/Images/85682a45-74b6-4046-b50b-28ee00a7f63d.jpeg</url>
+      <title>רדיו דרום 101.5 FM | ישיבה מזרחית</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/150226 YASHVAZ.mp3</link>
+    </image>
+    <item>
+      <title>ישיבה מזרחית ~ 15.02.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/150226 YASHVAZ.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/150226 YASHVAZ.mp3" length="0" type="audio/mpeg" />
+      <description>ישיבה מזרחית ~ 15.02.2026</description>
+      <programDate>15/02/2026</programDate>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://1015.radiodarom.co.il/Upload/Media/Images/85682a45-74b6-4046-b50b-28ee00a7f63d.jpeg" />
+      <guid isPermaLink="false">436|17|15/02/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/150226 YASHVAZ.mp3</guid>
+    </item>
+  </channel>
+</rss>
