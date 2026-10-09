@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו לב המדינה 91FM | לילה לא שקט</title>
     <description>Programs from רדיו לב המדינה 91FM, show: לילה לא שקט</description>
     <link>https://www.oles.tv/videos/91fm/__archive/20261008220000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:02 +0000</lastBuildDate>
     <image>
       <url>https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg</url>
       <title>רדיו לב המדינה 91FM | לילה לא שקט</title>
@@ -18,7 +18,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>08/10/2026</programDate>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|08/10/2026|https://www.oles.tv/videos/91fm/__archive/20261008220000.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>08/10/2026</programDate>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|08/10/2026|https://www.oles.tv/videos/91fm/__archive/20261008230000.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>01/10/2026</programDate>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|01/10/2026|https://www.oles.tv/videos/91fm/__archive/20261001220000.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>01/10/2026</programDate>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|01/10/2026|https://www.oles.tv/videos/91fm/__archive/20261001230000.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>24/09/2026</programDate>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|24/09/2026|https://www.oles.tv/videos/91fm/__archive/20260924220000.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>24/09/2026</programDate>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|24/09/2026|https://www.oles.tv/videos/91fm/__archive/20260924230000.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>17/09/2026</programDate>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|17/09/2026|https://www.oles.tv/videos/91fm/__archive/20260917220000.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>17/09/2026</programDate>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|17/09/2026|https://www.oles.tv/videos/91fm/__archive/20260917230000.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>10/09/2026</programDate>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|10/09/2026|https://www.oles.tv/videos/91fm/__archive/20260910220000.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>10/09/2026</programDate>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|10/09/2026|https://www.oles.tv/videos/91fm/__archive/20260910230000.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>03/09/2026</programDate>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|03/09/2026|https://www.oles.tv/videos/91fm/__archive/20260903220000.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>03/09/2026</programDate>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|03/09/2026|https://www.oles.tv/videos/91fm/__archive/20260903230000.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>27/08/2026</programDate>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|27/08/2026|https://www.oles.tv/videos/91fm/__archive/20260827220000.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>27/08/2026</programDate>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|27/08/2026|https://www.oles.tv/videos/91fm/__archive/20260827230000.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>20/08/2026</programDate>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|20/08/2026|https://www.oles.tv/videos/91fm/__archive/20260820220000.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>20/08/2026</programDate>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|20/08/2026|https://www.oles.tv/videos/91fm/__archive/20260820230000.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>13/08/2026</programDate>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|13/08/2026|https://www.oles.tv/videos/91fm/__archive/20260813220000.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>13/08/2026</programDate>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|13/08/2026|https://www.oles.tv/videos/91fm/__archive/20260813230000.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>06/08/2026</programDate>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|06/08/2026|https://www.oles.tv/videos/91fm/__archive/20260806220000.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>06/08/2026</programDate>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|06/08/2026|https://www.oles.tv/videos/91fm/__archive/20260806230000.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>30/07/2026</programDate>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|30/07/2026|https://www.oles.tv/videos/91fm/__archive/20260730220000.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>30/07/2026</programDate>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|30/07/2026|https://www.oles.tv/videos/91fm/__archive/20260730230000.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>23/07/2026</programDate>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|23/07/2026|https://www.oles.tv/videos/91fm/__archive/20260723220000.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>23/07/2026</programDate>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|23/07/2026|https://www.oles.tv/videos/91fm/__archive/20260723230000.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>16/07/2026</programDate>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|16/07/2026|https://www.oles.tv/videos/91fm/__archive/20260716220000.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>16/07/2026</programDate>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|16/07/2026|https://www.oles.tv/videos/91fm/__archive/20260716230000.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>09/07/2026</programDate>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|09/07/2026|https://www.oles.tv/videos/91fm/__archive/20260709220000.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>09/07/2026</programDate>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|09/07/2026|https://www.oles.tv/videos/91fm/__archive/20260709230000.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>02/07/2026</programDate>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|02/07/2026|https://www.oles.tv/videos/91fm/__archive/20260702220000.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>02/07/2026</programDate>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|02/07/2026|https://www.oles.tv/videos/91fm/__archive/20260702230000.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>25/06/2026</programDate>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|25/06/2026|https://www.oles.tv/videos/91fm/__archive/20260625220000.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>25/06/2026</programDate>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|25/06/2026|https://www.oles.tv/videos/91fm/__archive/20260625230000.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>18/06/2026</programDate>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|18/06/2026|https://www.oles.tv/videos/91fm/__archive/20260618220000.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>18/06/2026</programDate>
       <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|18/06/2026|https://www.oles.tv/videos/91fm/__archive/20260618230000.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>11/06/2026</programDate>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|11/06/2026|https://www.oles.tv/videos/91fm/__archive/20260611220000.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>11/06/2026</programDate>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|11/06/2026|https://www.oles.tv/videos/91fm/__archive/20260611230000.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>04/06/2026</programDate>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|04/06/2026|https://www.oles.tv/videos/91fm/__archive/20260604220000.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>04/06/2026</programDate>
       <pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|04/06/2026|https://www.oles.tv/videos/91fm/__archive/20260604230000.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>28/05/2026</programDate>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|28/05/2026|https://www.oles.tv/videos/91fm/__archive/20260528220000.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>28/05/2026</programDate>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|28/05/2026|https://www.oles.tv/videos/91fm/__archive/20260528230000.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>21/05/2026</programDate>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|21/05/2026|https://www.oles.tv/videos/91fm/__archive/20260521220000.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>21/05/2026</programDate>
       <pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|21/05/2026|https://www.oles.tv/videos/91fm/__archive/20260521230000.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>14/05/2026</programDate>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|14/05/2026|https://www.oles.tv/videos/91fm/__archive/20260514220000.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>14/05/2026</programDate>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|14/05/2026|https://www.oles.tv/videos/91fm/__archive/20260514230000.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>07/05/2026</programDate>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|07/05/2026|https://www.oles.tv/videos/91fm/__archive/20260507220000.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>07/05/2026</programDate>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|07/05/2026|https://www.oles.tv/videos/91fm/__archive/20260507230000.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>30/04/2026</programDate>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|30/04/2026|https://www.oles.tv/videos/91fm/__archive/20260430220000.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>30/04/2026</programDate>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|30/04/2026|https://www.oles.tv/videos/91fm/__archive/20260430230000.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>23/04/2026</programDate>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|23/04/2026|https://www.oles.tv/videos/91fm/__archive/20260423220000.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>23/04/2026</programDate>
       <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|23/04/2026|https://www.oles.tv/videos/91fm/__archive/20260423230000.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>16/04/2026</programDate>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|16/04/2026|https://www.oles.tv/videos/91fm/__archive/20260416220000.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>16/04/2026</programDate>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|16/04/2026|https://www.oles.tv/videos/91fm/__archive/20260416230000.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>09/04/2026</programDate>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|09/04/2026|https://www.oles.tv/videos/91fm/__archive/20260409220000.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>09/04/2026</programDate>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|09/04/2026|https://www.oles.tv/videos/91fm/__archive/20260409230000.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>02/04/2026</programDate>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|02/04/2026|https://www.oles.tv/videos/91fm/__archive/20260402220000.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>02/04/2026</programDate>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|02/04/2026|https://www.oles.tv/videos/91fm/__archive/20260402230000.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>26/03/2026</programDate>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|26/03/2026|https://www.oles.tv/videos/91fm/__archive/20260326220000.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>26/03/2026</programDate>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|26/03/2026|https://www.oles.tv/videos/91fm/__archive/20260326230000.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>19/03/2026</programDate>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|19/03/2026|https://www.oles.tv/videos/91fm/__archive/20260319220000.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>19/03/2026</programDate>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|19/03/2026|https://www.oles.tv/videos/91fm/__archive/20260319230000.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>12/03/2026</programDate>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|12/03/2026|https://www.oles.tv/videos/91fm/__archive/20260312220000.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>12/03/2026</programDate>
       <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|12/03/2026|https://www.oles.tv/videos/91fm/__archive/20260312230000.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>05/03/2026</programDate>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|05/03/2026|https://www.oles.tv/videos/91fm/__archive/20260305220000.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>05/03/2026</programDate>
       <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|05/03/2026|https://www.oles.tv/videos/91fm/__archive/20260305230000.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>26/02/2026</programDate>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|26/02/2026|https://www.oles.tv/videos/91fm/__archive/20260226220000.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>26/02/2026</programDate>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|26/02/2026|https://www.oles.tv/videos/91fm/__archive/20260226230000.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>19/02/2026</programDate>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|19/02/2026|https://www.oles.tv/videos/91fm/__archive/20260219220000.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>19/02/2026</programDate>
       <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|19/02/2026|https://www.oles.tv/videos/91fm/__archive/20260219230000.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>12/02/2026</programDate>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|12/02/2026|https://www.oles.tv/videos/91fm/__archive/20260212220000.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>12/02/2026</programDate>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|12/02/2026|https://www.oles.tv/videos/91fm/__archive/20260212230000.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>05/02/2026</programDate>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|05/02/2026|https://www.oles.tv/videos/91fm/__archive/20260205220000.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>05/02/2026</programDate>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|05/02/2026|https://www.oles.tv/videos/91fm/__archive/20260205230000.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>29/01/2026</programDate>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|29/01/2026|https://www.oles.tv/videos/91fm/__archive/20260129220000.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>29/01/2026</programDate>
       <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|29/01/2026|https://www.oles.tv/videos/91fm/__archive/20260129230000.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>22/01/2026</programDate>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|22/01/2026|https://www.oles.tv/videos/91fm/__archive/20260122220000.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>22/01/2026</programDate>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|22/01/2026|https://www.oles.tv/videos/91fm/__archive/20260122230000.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>15/01/2026</programDate>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|15/01/2026|https://www.oles.tv/videos/91fm/__archive/20260115220000.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>15/01/2026</programDate>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|15/01/2026|https://www.oles.tv/videos/91fm/__archive/20260115230000.mp3</guid>
     </item>
     <item>
@@ -798,7 +798,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>08/01/2026</programDate>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|08/01/2026|https://www.oles.tv/videos/91fm/__archive/20260108220000.mp3</guid>
     </item>
     <item>
@@ -808,7 +808,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>08/01/2026</programDate>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|08/01/2026|https://www.oles.tv/videos/91fm/__archive/20260108230000.mp3</guid>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>01/01/2026</programDate>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|01/01/2026|https://www.oles.tv/videos/91fm/__archive/20260101220000.mp3</guid>
     </item>
     <item>
@@ -828,7 +828,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>01/01/2026</programDate>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|01/01/2026|https://www.oles.tv/videos/91fm/__archive/20260101230000.mp3</guid>
     </item>
     <item>
@@ -838,7 +838,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>25/12/2025</programDate>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|25/12/2025|https://www.oles.tv/videos/91fm/__archive/20251225220000.mp3</guid>
     </item>
     <item>
@@ -848,7 +848,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>25/12/2025</programDate>
       <pubDate>Thu, 25 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|25/12/2025|https://www.oles.tv/videos/91fm/__archive/20251225230000.mp3</guid>
     </item>
     <item>
@@ -858,7 +858,7 @@
       <description>לילה לא שקט ~ שעה 1</description>
       <programDate>18/12/2025</programDate>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|18/12/2025|https://www.oles.tv/videos/91fm/__archive/20251218220000.mp3</guid>
     </item>
     <item>
@@ -868,7 +868,7 @@
       <description>לילה לא שקט ~ שעה 2</description>
       <programDate>18/12/2025</programDate>
       <pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" />
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">339|13|18/12/2025|https://www.oles.tv/videos/91fm/__archive/20251218230000.mp3</guid>
     </item>
   </channel>
