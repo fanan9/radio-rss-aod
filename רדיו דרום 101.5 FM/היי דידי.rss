@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו דרום | היי דידי</title>
+    <description>Programs from רדיו דרום, show: היי דידי</description>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/didi081026.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <image>
+      <url>https://radiodarom.co.il/Upload/Media/Images/07a0521c-5313-44c6-ba72-9121ca61ccb5.jpg</url>
+      <title>רדיו דרום | היי דידי</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/didi081026.mp3</link>
+    </image>
+    <item>
+      <title>היי דידי ~ 08.10.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/didi081026.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/didi081026.mp3" length="0" type="audio/mpeg" />
+      <description>היי דידי ~ 08.10.2026</description>
+      <programDate>08/10/2026</programDate>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://radiodarom.co.il/Upload/Media/Images/07a0521c-5313-44c6-ba72-9121ca61ccb5.jpg" />
+      <guid isPermaLink="false">474|18|08/10/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/didi081026.mp3</guid>
+    </item>
+  </channel>
+</rss>
