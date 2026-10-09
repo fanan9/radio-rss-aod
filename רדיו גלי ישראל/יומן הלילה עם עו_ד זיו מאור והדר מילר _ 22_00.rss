@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>רדיו גלי ישראל | יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00</title>
     <description>Programs from רדיו גלי ישראל, show: יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00</description>
     <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/02062026man.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:35:03 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png</url>
       <title>רדיו גלי ישראל | יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00</title>
@@ -18,7 +18,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 02.06.2026</description>
       <programDate>02/06/2026</programDate>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|02/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/02062026man.mp3</guid>
     </item>
     <item>
@@ -28,7 +28,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 01.06.2026</description>
       <programDate>01/06/2026</programDate>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|01/06/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yo1626.mp3</guid>
     </item>
     <item>
@@ -38,7 +38,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 31.05.2026</description>
       <programDate>31/05/2026</programDate>
       <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|31/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomenalila31,05,26.mp3</guid>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 18.05.2026</description>
       <programDate>18/05/2026</programDate>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|18/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila180526.mp3</guid>
     </item>
     <item>
@@ -58,7 +58,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 17.05.2026</description>
       <programDate>17/05/2026</programDate>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|17/05/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila170526.mp3</guid>
     </item>
     <item>
@@ -68,7 +68,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 05.04.2026</description>
       <programDate>05/04/2026</programDate>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|05/04/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila050426.mp3</guid>
     </item>
     <item>
@@ -78,7 +78,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 31.03.2026</description>
       <programDate>31/03/2026</programDate>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|31/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila310326.mp3</guid>
     </item>
     <item>
@@ -88,7 +88,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 29.03.2026</description>
       <programDate>29/03/2026</programDate>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|29/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila290326.mp3</guid>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 26.03.2026</description>
       <programDate>26/03/2026</programDate>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|26/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila260326.mp3</guid>
     </item>
     <item>
@@ -108,7 +108,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 25.03.2026</description>
       <programDate>25/03/2026</programDate>
       <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|25/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila250326.mp3</guid>
     </item>
     <item>
@@ -118,7 +118,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 24.03.2026</description>
       <programDate>24/03/2026</programDate>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|24/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila240326.mp3</guid>
     </item>
     <item>
@@ -128,7 +128,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 23.03.2026</description>
       <programDate>23/03/2026</programDate>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|23/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila230326.mp3</guid>
     </item>
     <item>
@@ -138,7 +138,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 22.03.2026</description>
       <programDate>22/03/2026</programDate>
       <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|22/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila220326.mp3</guid>
     </item>
     <item>
@@ -148,7 +148,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 19.03.2026</description>
       <programDate>19/03/2026</programDate>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|19/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/Lila190326.mp3</guid>
     </item>
     <item>
@@ -158,7 +158,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 18.03.2026</description>
       <programDate>18/03/2026</programDate>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|18/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila180326.mp3</guid>
     </item>
     <item>
@@ -168,7 +168,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 17.03.2026</description>
       <programDate>17/03/2026</programDate>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|17/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila170326.mp3</guid>
     </item>
     <item>
@@ -178,7 +178,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 16.03.2026</description>
       <programDate>16/03/2026</programDate>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|16/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila160326.mp3</guid>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 15.03.2026</description>
       <programDate>15/03/2026</programDate>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|15/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila150326.mp3</guid>
     </item>
     <item>
@@ -198,7 +198,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 11.03.2026</description>
       <programDate>11/03/2026</programDate>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|11/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila110326.mp3</guid>
     </item>
     <item>
@@ -208,7 +208,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 10.03.2026</description>
       <programDate>10/03/2026</programDate>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|10/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila100326.mp3</guid>
     </item>
     <item>
@@ -218,7 +218,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 09.03.2026</description>
       <programDate>09/03/2026</programDate>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/aeaa5c2d-9e6a-4928-9ea5-df716f6d69e4.png" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|09/03/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila090326.mp3</guid>
     </item>
     <item>
@@ -228,7 +228,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 18.01.2026</description>
       <programDate>18/01/2026</programDate>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|18/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal18012026.mp3</guid>
     </item>
     <item>
@@ -238,7 +238,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 14.01.2026</description>
       <programDate>14/01/2026</programDate>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|14/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal14012026.mp3</guid>
     </item>
     <item>
@@ -248,7 +248,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 13.01.2026</description>
       <programDate>13/01/2026</programDate>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|13/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal13012026.mp3</guid>
     </item>
     <item>
@@ -258,7 +258,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 12.01.2026</description>
       <programDate>12/01/2026</programDate>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|12/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal12012026.mp3</guid>
     </item>
     <item>
@@ -268,7 +268,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 11.01.2026</description>
       <programDate>11/01/2026</programDate>
       <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|11/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal11010226.mp3</guid>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 08.01.2026</description>
       <programDate>08/01/2026</programDate>
       <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|08/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal080120226.mp3</guid>
     </item>
     <item>
@@ -288,7 +288,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 07.01.2026</description>
       <programDate>07/01/2026</programDate>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|07/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal0701026.mp3</guid>
     </item>
     <item>
@@ -298,7 +298,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 05.01.2026</description>
       <programDate>05/01/2026</programDate>
       <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|05/01/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal05012026.mp3</guid>
     </item>
     <item>
@@ -308,7 +308,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 28.12.2025</description>
       <programDate>28/12/2025</programDate>
       <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|28/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal28122025.mp3</guid>
     </item>
     <item>
@@ -318,7 +318,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 07.12.2025</description>
       <programDate>07/12/2025</programDate>
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|07/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yossman07122025.mp3</guid>
     </item>
     <item>
@@ -328,7 +328,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 04.12.2025</description>
       <programDate>04/12/2025</programDate>
       <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|04/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal04122025.mp3</guid>
     </item>
     <item>
@@ -338,7 +338,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 03.12.2025</description>
       <programDate>03/12/2025</programDate>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|03/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalila03122025.mp3</guid>
     </item>
     <item>
@@ -348,7 +348,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 02.12.2025</description>
       <programDate>02/12/2025</programDate>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|02/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal021222025.mp3</guid>
     </item>
     <item>
@@ -358,7 +358,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 01.12.2025</description>
       <programDate>01/12/2025</programDate>
       <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|01/12/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal11220255.mp3</guid>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 27.11.2025</description>
       <programDate>27/11/2025</programDate>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|27/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalilk29112025.mp3</guid>
     </item>
     <item>
@@ -378,7 +378,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 26.11.2025</description>
       <programDate>26/11/2025</programDate>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|26/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal27112025.mp3</guid>
     </item>
     <item>
@@ -388,7 +388,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 25.11.2025</description>
       <programDate>25/11/2025</programDate>
       <pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|25/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal25112025.mp3</guid>
     </item>
     <item>
@@ -398,7 +398,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 24.11.2025</description>
       <programDate>24/11/2025</programDate>
       <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|24/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal24112025.mp3</guid>
     </item>
     <item>
@@ -408,7 +408,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 20.11.2025</description>
       <programDate>20/11/2025</programDate>
       <pubDate>Thu, 20 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|20/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal22112025.mp3.mp3</guid>
     </item>
     <item>
@@ -418,7 +418,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 19.11.2025</description>
       <programDate>19/11/2025</programDate>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|19/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal19112025.mp3</guid>
     </item>
     <item>
@@ -428,7 +428,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 18.11.2025</description>
       <programDate>18/11/2025</programDate>
       <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|18/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal181120253.mp3</guid>
     </item>
     <item>
@@ -438,7 +438,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 17.11.2025</description>
       <programDate>17/11/2025</programDate>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|17/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal1710112025.mp3</guid>
     </item>
     <item>
@@ -448,7 +448,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 16.11.2025</description>
       <programDate>16/11/2025</programDate>
       <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|16/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanala612025.mp3</guid>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 13.11.2025</description>
       <programDate>13/11/2025</programDate>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|13/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanala1311202205.mp3</guid>
     </item>
     <item>
@@ -468,7 +468,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 12.11.2025</description>
       <programDate>12/11/2025</programDate>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|12/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal12112025.mp3</guid>
     </item>
     <item>
@@ -478,7 +478,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 11.11.2025</description>
       <programDate>11/11/2025</programDate>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|11/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanala11112025.mp3</guid>
     </item>
     <item>
@@ -488,7 +488,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 10.11.2025</description>
       <programDate>10/11/2025</programDate>
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|10/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal10112025.mp3</guid>
     </item>
     <item>
@@ -498,7 +498,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 06.11.2025</description>
       <programDate>06/11/2025</programDate>
       <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|06/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal06112025.mp3</guid>
     </item>
     <item>
@@ -508,7 +508,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 05.11.2025</description>
       <programDate>05/11/2025</programDate>
       <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|05/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal0511202255.mp3</guid>
     </item>
     <item>
@@ -518,7 +518,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 04.11.2025</description>
       <programDate>04/11/2025</programDate>
       <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|04/11/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal04112025.mp3</guid>
     </item>
     <item>
@@ -528,7 +528,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 29.10.2025</description>
       <programDate>29/10/2025</programDate>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|29/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal29102025.mp3</guid>
     </item>
     <item>
@@ -538,7 +538,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 26.10.2025</description>
       <programDate>26/10/2025</programDate>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|26/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal26102024.mp3</guid>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 23.10.2025</description>
       <programDate>23/10/2025</programDate>
       <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|23/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal2310205.mp3</guid>
     </item>
     <item>
@@ -558,7 +558,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 22.10.2025</description>
       <programDate>22/10/2025</programDate>
       <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|22/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal22102025.mp3</guid>
     </item>
     <item>
@@ -568,7 +568,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 20.10.2025</description>
       <programDate>20/10/2025</programDate>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|20/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal20102025.mp3</guid>
     </item>
     <item>
@@ -578,7 +578,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 19.10.2025</description>
       <programDate>19/10/2025</programDate>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|19/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yo,mmanal191002025.mp3</guid>
     </item>
     <item>
@@ -588,7 +588,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 16.10.2025</description>
       <programDate>16/10/2025</programDate>
       <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|16/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal16102025.mp3</guid>
     </item>
     <item>
@@ -598,7 +598,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 15.10.2025</description>
       <programDate>15/10/2025</programDate>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|15/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal15102025.mp3</guid>
     </item>
     <item>
@@ -608,7 +608,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 09.10.2025</description>
       <programDate>09/10/2025</programDate>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|09/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal08102025.mp3</guid>
     </item>
     <item>
@@ -618,7 +618,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 09.10.2025</description>
       <programDate>09/10/2025</programDate>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|09/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanala091020255.mp3</guid>
     </item>
     <item>
@@ -628,7 +628,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 05.10.2025</description>
       <programDate>05/10/2025</programDate>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|05/10/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalila05102025.mp3</guid>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 30.09.2025</description>
       <programDate>30/09/2025</programDate>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|30/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal300920205.mp3</guid>
     </item>
     <item>
@@ -648,7 +648,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 29.09.2025</description>
       <programDate>29/09/2025</programDate>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|29/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal290092025.mp3</guid>
     </item>
     <item>
@@ -658,7 +658,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 10.09.2025</description>
       <programDate>10/09/2025</programDate>
       <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|10/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila100925.mp3</guid>
     </item>
     <item>
@@ -668,7 +668,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 02.09.2025</description>
       <programDate>02/09/2025</programDate>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|02/09/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/lila020925.mp3</guid>
     </item>
     <item>
@@ -678,7 +678,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 29.08.2025</description>
       <programDate>29/08/2025</programDate>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|29/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal28082025.mp3</guid>
     </item>
     <item>
@@ -688,7 +688,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 27.08.2025</description>
       <programDate>27/08/2025</programDate>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|27/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal27082025.mp3</guid>
     </item>
     <item>
@@ -698,7 +698,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 26.08.2025</description>
       <programDate>26/08/2025</programDate>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|26/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalail26082025.mp3</guid>
     </item>
     <item>
@@ -708,7 +708,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 24.08.2025</description>
       <programDate>24/08/2025</programDate>
       <pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|24/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal24082025.mp3</guid>
     </item>
     <item>
@@ -718,7 +718,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 21.08.2025</description>
       <programDate>21/08/2025</programDate>
       <pubDate>Thu, 21 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|21/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal21082025.mp3</guid>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 20.08.2025</description>
       <programDate>20/08/2025</programDate>
       <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|20/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalaila2000820525.mp3</guid>
     </item>
     <item>
@@ -738,7 +738,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 19.08.2025</description>
       <programDate>19/08/2025</programDate>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|19/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomalail190820205.mp3</guid>
     </item>
     <item>
@@ -748,7 +748,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 18.08.2025</description>
       <programDate>18/08/2025</programDate>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|18/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal18082025.mp3</guid>
     </item>
     <item>
@@ -758,7 +758,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 17.08.2025</description>
       <programDate>17/08/2025</programDate>
       <pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|17/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal17082025.mp3</guid>
     </item>
     <item>
@@ -768,7 +768,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 13.08.2025</description>
       <programDate>13/08/2025</programDate>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|13/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalila13082025.mp3</guid>
     </item>
     <item>
@@ -778,7 +778,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 12.08.2025</description>
       <programDate>12/08/2025</programDate>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|12/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanalil12082025.mp3</guid>
     </item>
     <item>
@@ -788,7 +788,7 @@
       <description>יומן הלילה עם עו_ד זיו מאור והדר מילר | 22:00 ~ 11.08.2025</description>
       <programDate>11/08/2025</programDate>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <ns0:thumbnail url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" />
+      <enclosure url="https://gly.co.il/Upload/Media/Images/a7563009-38ed-4d27-b136-f80ee49adcb0.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">409|15|11/08/2025|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/yomanal110820225.mp3</guid>
     </item>
   </channel>
