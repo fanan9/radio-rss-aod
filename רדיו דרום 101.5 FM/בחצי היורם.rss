@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>רדיו דרום | בחצי היורם</title>
+    <description>Programs from רדיו דרום, show: בחצי היורם</description>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/salh160925.mp3</link>
+    <language>he</language>
+    <lastBuildDate>Fri, 09 Oct 2026 13:24:09 +0000</lastBuildDate>
+    <image>
+      <url>https://radiodarom.co.il/Upload/Media/Images/3639fe98-65cf-49a1-9c9b-28d7c200bd1f.jpeg</url>
+      <title>רדיו דרום | בחצי היורם</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/salh160925.mp3</link>
+    </image>
+    <item>
+      <title>בחצי היורם ~ 16.09.2025</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/salh160925.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/salh160925.mp3" length="0" type="audio/mpeg" />
+      <description>בחצי היורם ~ 16.09.2025</description>
+      <programDate>16/09/2025</programDate>
+      <pubDate>Tue, 16 Sep 2025 00:00:00 +0000</pubDate>
+      <ns0:thumbnail url="https://radiodarom.co.il/Upload/Media/Images/3639fe98-65cf-49a1-9c9b-28d7c200bd1f.jpeg" />
+      <guid isPermaLink="false">446|18|16/09/2025|https://darom97-od.streamgates.net/Darom97_OD/Audio/salh160925.mp3</guid>
+    </item>
+  </channel>
+</rss>
