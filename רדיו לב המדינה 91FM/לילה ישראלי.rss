@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו לב המדינה 91FM | לילה ישראלי</title>
     <description>Programs from רדיו לב המדינה 91FM, show: לילה ישראלי</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261010000000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261011000000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sat, 10 Oct 2026 20:00:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:59:40 +0000</lastBuildDate>
     <image>
       <url>https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg</url>
       <title>רדיו לב המדינה 91FM | לילה ישראלי</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261010000000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261011000000.mp3</link>
     </image>
+    <item>
+      <title>לילה ישראלי ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261011000000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261011000000.mp3" length="0" type="audio/mpeg" />
+      <description>לילה ישראלי ~ שעה 1</description>
+      <programDate>11/10/2026</programDate>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc94bfeb6042e49718e64.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">159|13|11/10/2026|https://www.oles.tv/videos/91fm/__archive/20261011000000.mp3</guid>
+    </item>
     <item>
       <title>לילה ישראלי ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261010000000.mp3</link>
