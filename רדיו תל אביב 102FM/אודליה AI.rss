@@ -5,7 +5,7 @@
     <description>Programs from רדיו תל אביב 102FM, show: אודליה AI</description>
     <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ac66f01.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 12 Oct 2026 01:59:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:59:33 +0000</lastBuildDate>
     <image>
       <url>https://fm102-recordings.s3.amazonaws.com/images/1791389446493_AIO_____.jpg</url>
       <title>רדיו תל אביב 102FM | אודליה AI</title>
@@ -20,6 +20,16 @@
       <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1791389446493_AIO_____.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">450|19|11/10/2026|https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ac66f01.mp3</guid>
+    </item>
+    <item>
+      <title>אודליה AI ~ 11-10-2026 | 12:00</title>
+      <link>https://podcast.go77.link/102fm/AIO/4343-41494F2031-6acc7ae4.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/AIO/4343-41494F2031-6acc7ae4.mp3" length="0" type="audio/mpeg" />
+      <description>אודליה AI ~ 11-10-2026 | 12:00</description>
+      <programDate>11/10/2026</programDate>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1791389446493_AIO_____.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">450|19|11/10/2026|https://podcast.go77.link/102fm/AIO/4343-41494F2031-6acc7ae4.mp3</guid>
     </item>
     <item>
       <title>אודליה AI ~ 06-10-2026 | 15:00</title>
