@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | עברי לפני שבת ~ עם דוד בן בסט</title>
     <description>Programs from רדיו לב המדינה 91FM, show: עברי לפני שבת ~ עם דוד בן בסט</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261009180000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261016180000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 20:00:52 +0000</lastBuildDate>
     <image>
       <url>https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg</url>
       <title>רדיו לב המדינה 91FM | עברי לפני שבת ~ עם דוד בן בסט</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261009180000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261016180000.mp3</link>
     </image>
+    <item>
+      <title>עברי לפני שבת ~ עם דוד בן בסט ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261016180000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261016180000.mp3" length="0" type="audio/mpeg" />
+      <description>עברי לפני שבת ~ עם דוד בן בסט ~ שעה 1</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">329|13|16/10/2026|https://www.oles.tv/videos/91fm/__archive/20261016180000.mp3</guid>
+    </item>
+    <item>
+      <title>עברי לפני שבת ~ עם דוד בן בסט ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261016190000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261016190000.mp3" length="0" type="audio/mpeg" />
+      <description>עברי לפני שבת ~ עם דוד בן בסט ~ שעה 2</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcd2e9feb604334c718e60.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">329|13|16/10/2026|https://www.oles.tv/videos/91fm/__archive/20261016190000.mp3</guid>
+    </item>
     <item>
       <title>עברי לפני שבת ~ עם דוד בן בסט ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261009180000.mp3</link>
