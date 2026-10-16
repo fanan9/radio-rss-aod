@@ -5,7 +5,7 @@
     <description>Programs from רדיו לב המדינה 91FM, show: הנבחרים ~ עם דוד בן בסט</description>
     <link>https://www.oles.tv/videos/91fm/__archive/20261016100000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:00:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:01:03 +0000</lastBuildDate>
     <image>
       <url>https://www.oles.tv/stations/91fm/__programmes/59fcc349feb604c24a718e5e.jpg</url>
       <title>רדיו לב המדינה 91FM | הנבחרים ~ עם דוד בן בסט</title>
@@ -20,6 +20,16 @@
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc349feb604c24a718e5e.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">325|13|16/10/2026|https://www.oles.tv/videos/91fm/__archive/20261016100000.mp3</guid>
+    </item>
+    <item>
+      <title>הנבחרים ~ עם דוד בן בסט ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261016110000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261016110000.mp3" length="0" type="audio/mpeg" />
+      <description>הנבחרים ~ עם דוד בן בסט ~ שעה 2</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc349feb604c24a718e5e.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">325|13|16/10/2026|https://www.oles.tv/videos/91fm/__archive/20261016110000.mp3</guid>
     </item>
     <item>
       <title>הנבחרים ~ עם דוד בן בסט ~ שעה 1</title>
