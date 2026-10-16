@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו רדיוס 100FM | הנבחריםארכיון</title>
     <description>Programs from רדיו רדיוס 100FM, show: הנבחריםארכיון</description>
-    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-11.09.26.mp3</link>
+    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-24.09.26.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:01:04 +0000</lastBuildDate>
     <image>
       <url>https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png</url>
       <title>רדיו רדיוס 100FM | הנבחריםארכיון</title>
-      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-11.09.26.mp3</link>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-24.09.26.mp3</link>
     </image>
+    <item>
+      <title>הנבחרים 25.9.26</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-24.09.26.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-24.09.26.mp3" length="0" type="audio/mpeg" />
+      <description>הנבחרים 25.9.26</description>
+      <programDate>25/09/2026</programDate>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">422|16|25/09/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-24.09.26.mp3</guid>
+    </item>
     <item>
       <title>הנבחרים 11.9.26</title>
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Anivharim-11.09.26.mp3</link>
