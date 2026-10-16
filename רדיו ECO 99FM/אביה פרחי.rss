@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו ECO 99FM | אביה פרחי</title>
     <description>Programs from רדיו ECO 99FM, show: אביה פרחי</description>
-    <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_081026.mp3</link>
+    <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_151026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:01:03 +0000</lastBuildDate>
     <image>
       <url>https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg</url>
       <title>רדיו ECO 99FM | אביה פרחי</title>
-      <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_081026.mp3</link>
+      <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_151026.mp3</link>
     </image>
+    <item>
+      <title>אביה פרחי</title>
+      <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_151026.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_151026.mp3" length="0" type="audio/mpeg" />
+      <description>אביה פרחי</description>
+      <programDate>15/10/2026</programDate>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/avia_farchi2_copy_2.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">352|14|15/10/2026|https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_151026.mp3</guid>
+    </item>
     <item>
       <title>אביה פרחי</title>
       <link>https://99sets.livecdn.biz/99sets/eco99_avia_farchi/eco99_avia_farchi_081026.mp3</link>
