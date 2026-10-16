@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו גלי ישראל | תוכנית הנדל״ן של ישראל</title>
     <description>Programs from רדיו גלי ישראל, show: תוכנית הנדל״ן של ישראל</description>
-    <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nadlan091026.mp3</link>
+    <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nad161026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:01:04 +0000</lastBuildDate>
     <image>
-      <url>https://gly.co.il/Upload/Media/Images/038026c9-1ad4-4018-8e75-1fc5e9cf7ebd.jpg</url>
+      <url>https://gly.co.il/Upload/Media/Images/92ed1f80-7896-46a8-83aa-0793cd72ad3c.jpg</url>
       <title>רדיו גלי ישראל | תוכנית הנדל״ן של ישראל</title>
-      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nadlan091026.mp3</link>
+      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nad161026.mp3</link>
     </image>
+    <item>
+      <title>תוכנית הנדל״ן של ישראל ~ 16.10.2026</title>
+      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nad161026.mp3</link>
+      <enclosure url="https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nad161026.mp3" length="0" type="audio/mpeg" />
+      <description>תוכנית הנדל״ן של ישראל ~ 16.10.2026</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/92ed1f80-7896-46a8-83aa-0793cd72ad3c.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">399|15|16/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nad161026.mp3</guid>
+    </item>
     <item>
       <title>תוכנית הנדל״ן של ישראל ~ 09.10.2026</title>
       <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/nadlan091026.mp3</link>
