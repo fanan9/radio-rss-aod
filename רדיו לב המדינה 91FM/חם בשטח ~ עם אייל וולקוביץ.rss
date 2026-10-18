@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | חם בשטח ~ עם אייל וולקוביץ</title>
     <description>Programs from רדיו לב המדינה 91FM, show: חם בשטח ~ עם אייל וולקוביץ</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261015200000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261018200000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:59:31 +0000</lastBuildDate>
     <image>
       <url>https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg</url>
       <title>רדיו לב המדינה 91FM | חם בשטח ~ עם אייל וולקוביץ</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261015200000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261018200000.mp3</link>
     </image>
+    <item>
+      <title>חם בשטח ~ עם אייל וולקוביץ ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261018200000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261018200000.mp3" length="0" type="audio/mpeg" />
+      <description>חם בשטח ~ עם אייל וולקוביץ ~ שעה 1</description>
+      <programDate>18/10/2026</programDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">338|13|18/10/2026|https://www.oles.tv/videos/91fm/__archive/20261018200000.mp3</guid>
+    </item>
+    <item>
+      <title>חם בשטח ~ עם אייל וולקוביץ ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261018210000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261018210000.mp3" length="0" type="audio/mpeg" />
+      <description>חם בשטח ~ עם אייל וולקוביץ ~ שעה 2</description>
+      <programDate>18/10/2026</programDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc4b8feb6042849718e62-thumb.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">338|13|18/10/2026|https://www.oles.tv/videos/91fm/__archive/20261018210000.mp3</guid>
+    </item>
     <item>
       <title>חם בשטח ~ עם אייל וולקוביץ ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261015200000.mp3</link>
