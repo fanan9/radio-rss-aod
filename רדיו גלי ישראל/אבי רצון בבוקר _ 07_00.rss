@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו גלי ישראל | אבי רצון בבוקר | 07:00</title>
     <description>Programs from רדיו גלי ישראל, show: אבי רצון בבוקר | 07:00</description>
-    <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim151026.mp3</link>
+    <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim181026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 08:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:59:40 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg</url>
       <title>רדיו גלי ישראל | אבי רצון בבוקר | 07:00</title>
-      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim151026.mp3</link>
+      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim181026.mp3</link>
     </image>
+    <item>
+      <title>אבי רצון בבוקר | 07:00 ~ 18.10.2026</title>
+      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim181026.mp3</link>
+      <enclosure url="https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim181026.mp3" length="0" type="audio/mpeg" />
+      <description>אבי רצון בבוקר | 07:00 ~ 18.10.2026</description>
+      <programDate>18/10/2026</programDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bf7d7e47-e196-4bdf-aea5-50aad7fa1018.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">381|15|18/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim181026.mp3</guid>
+    </item>
     <item>
       <title>אבי רצון בבוקר | 07:00 ~ 15.10.2026</title>
       <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/avim151026.mp3</link>
