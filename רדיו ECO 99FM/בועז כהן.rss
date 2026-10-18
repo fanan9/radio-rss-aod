@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו ECO 99FM | בועז כהן</title>
     <description>Programs from רדיו ECO 99FM, show: בועז כהן</description>
-    <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_091026.mp3</link>
+    <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_161026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:59:31 +0000</lastBuildDate>
     <image>
-      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/boaz_cohen_night_shift_copy_17.jpg</url>
+      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/boazcohen_weekend_copy_10.jpg</url>
       <title>רדיו ECO 99FM | בועז כהן</title>
-      <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_091026.mp3</link>
+      <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_161026.mp3</link>
     </image>
+    <item>
+      <title>בועז כהן</title>
+      <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_161026.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_161026.mp3" length="0" type="audio/mpeg" />
+      <description>בועז כהן</description>
+      <programDate>16/10/2026</programDate>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/boazcohen_weekend_copy_10.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">346|14|16/10/2026|https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_161026.mp3</guid>
+    </item>
     <item>
       <title>בועז כהן</title>
       <link>https://99sets.livecdn.biz/99sets/ecoalternative/boaz_cohen_full_091026.mp3</link>
