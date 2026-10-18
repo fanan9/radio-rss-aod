@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו רדיוס 100FM | אלה היו הימים</title>
     <description>Programs from רדיו רדיוס 100FM, show: אלה היו הימים</description>
-    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-05-09-26.mp3</link>
+    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Revital-19-09-26.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 01:59:52 +0000</lastBuildDate>
     <image>
       <url>https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png</url>
       <title>רדיו רדיוס 100FM | אלה היו הימים</title>
-      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-05-09-26.mp3</link>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Revital-19-09-26.mp3</link>
     </image>
+    <item>
+      <title>אלה היו הימים  19.09.26</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Revital-19-09-26.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Revital-19-09-26.mp3" length="0" type="audio/mpeg" />
+      <description>אלה היו הימים  19.09.26</description>
+      <programDate>19/09/2026</programDate>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">420|16|19/09/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/09/Revital-19-09-26.mp3</guid>
+    </item>
     <item>
       <title>אלה היו הימים  05.09.26</title>
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/08/Revital-Amit-05-09-26.mp3</link>
