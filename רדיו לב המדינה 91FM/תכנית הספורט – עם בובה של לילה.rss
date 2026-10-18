@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | תכנית הספורט – עם בובה של לילה</title>
     <description>Programs from רדיו לב המדינה 91FM, show: תכנית הספורט – עם בובה של לילה</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261015180000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261018180000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:59:31 +0000</lastBuildDate>
     <image>
       <url>https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg</url>
       <title>רדיו לב המדינה 91FM | תכנית הספורט – עם בובה של לילה</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261015180000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261018180000.mp3</link>
     </image>
+    <item>
+      <title>תכנית הספורט – עם בובה של לילה ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261018180000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261018180000.mp3" length="0" type="audio/mpeg" />
+      <description>תכנית הספורט – עם בובה של לילה ~ שעה 1</description>
+      <programDate>18/10/2026</programDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">337|13|18/10/2026|https://www.oles.tv/videos/91fm/__archive/20261018180000.mp3</guid>
+    </item>
+    <item>
+      <title>תכנית הספורט – עם בובה של לילה ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261018190000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261018190000.mp3" length="0" type="audio/mpeg" />
+      <description>תכנית הספורט – עם בובה של לילה ~ שעה 2</description>
+      <programDate>18/10/2026</programDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55032400177_f31f881e53_c.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">337|13|18/10/2026|https://www.oles.tv/videos/91fm/__archive/20261018190000.mp3</guid>
+    </item>
     <item>
       <title>תכנית הספורט – עם בובה של לילה ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261015180000.mp3</link>
