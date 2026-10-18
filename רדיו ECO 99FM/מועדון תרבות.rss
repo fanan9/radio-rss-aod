@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו ECO 99FM | מועדון תרבות</title>
     <description>Programs from רדיו ECO 99FM, show: מועדון תרבות</description>
-    <link>https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_131026.mp3</link>
+    <link>https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_141026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:59:31 +0000</lastBuildDate>
     <image>
       <url>https://eco99fm.maariv.co.il/download/Sets/pictures/eco99_yuval_ganor_sofi_09.png</url>
       <title>רדיו ECO 99FM | מועדון תרבות</title>
-      <link>https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_131026.mp3</link>
+      <link>https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_141026.mp3</link>
     </image>
+    <item>
+      <title>מועדון תרבות</title>
+      <link>https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_141026.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_141026.mp3" length="0" type="audio/mpeg" />
+      <description>מועדון תרבות</description>
+      <programDate>14/10/2026</programDate>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/eco99_yuval_ganor_sofi_09.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">350|14|14/10/2026|https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_141026.mp3</guid>
+    </item>
     <item>
       <title>מועדון תרבות</title>
       <link>https://99sets.livecdn.biz/99sets/eco99_yuval_ganor/eco99_yuval_ganor_131026.mp3</link>
