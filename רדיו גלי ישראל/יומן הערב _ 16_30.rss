@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו גלי ישראל | יומן הערב | 16:30</title>
     <description>Programs from רדיו גלי ישראל, show: יומן הערב | 16:30</description>
-    <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev141026.mp3</link>
+    <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev181026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 18 Oct 2026 16:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:59:31 +0000</lastBuildDate>
     <image>
       <url>https://gly.co.il/Upload/Media/Images/bbe9ec4d-e097-460a-906e-e1de6afcc59f.jpg</url>
       <title>רדיו גלי ישראל | יומן הערב | 16:30</title>
-      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev141026.mp3</link>
+      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev181026.mp3</link>
     </image>
+    <item>
+      <title>יומן הערב | 16:30 ~ 18.10.2026</title>
+      <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev181026.mp3</link>
+      <enclosure url="https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev181026.mp3" length="0" type="audio/mpeg" />
+      <description>יומן הערב | 16:30 ~ 18.10.2026</description>
+      <programDate>18/10/2026</programDate>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://gly.co.il/Upload/Media/Images/bbe9ec4d-e097-460a-906e-e1de6afcc59f.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">477|15|18/10/2026|https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev181026.mp3</guid>
+    </item>
     <item>
       <title>יומן הערב | 16:30 ~ 14.10.2026</title>
       <link>https://galei-israel-od.streamgates.net/Galei_Israel_OD/Audio/erev141026.mp3</link>
