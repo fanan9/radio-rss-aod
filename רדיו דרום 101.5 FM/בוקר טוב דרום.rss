@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו דרום | בוקר טוב דרום</title>
     <description>Programs from רדיו דרום, show: בוקר טוב דרום</description>
-    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/20261018btd.mp3</link>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/20261019-btd.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 01:59:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:00:24 +0000</lastBuildDate>
     <image>
       <url>https://radiodarom.co.il/Upload/Media/Images/c946b3d0-4bf5-419b-b906-77dbb9f52af6.jpg</url>
       <title>רדיו דרום | בוקר טוב דרום</title>
-      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/20261018btd.mp3</link>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/20261019-btd.mp3</link>
     </image>
+    <item>
+      <title>בוקר טוב דרום ~ 19.10.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/20261019-btd.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/20261019-btd.mp3" length="0" type="audio/mpeg" />
+      <description>בוקר טוב דרום ~ 19.10.2026</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://radiodarom.co.il/Upload/Media/Images/c946b3d0-4bf5-419b-b906-77dbb9f52af6.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">439|18|19/10/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/20261019-btd.mp3</guid>
+    </item>
     <item>
       <title>בוקר טוב דרום ~ 18.10.2026</title>
       <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/20261018btd.mp3</link>
