@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו דרום | תשע _ המגזין של רדיו דרום</title>
     <description>Programs from רדיו דרום, show: תשע _ המגזין של רדיו דרום</description>
-    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/magz181026.mp3</link>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/magzn191026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:25 +0000</lastBuildDate>
     <image>
       <url>https://radiodarom.co.il/Upload/Media/Images/5cce7c25-5652-4218-b3ea-1ea900c0224d.jpg</url>
       <title>רדיו דרום | תשע _ המגזין של רדיו דרום</title>
-      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/magz181026.mp3</link>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/magzn191026.mp3</link>
     </image>
+    <item>
+      <title>תשע _ המגזין של רדיו דרום  ~ 19.10.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/magzn191026.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/magzn191026.mp3" length="0" type="audio/mpeg" />
+      <description>תשע _ המגזין של רדיו דרום  ~ 19.10.2026</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://radiodarom.co.il/Upload/Media/Images/5cce7c25-5652-4218-b3ea-1ea900c0224d.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">441|18|19/10/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/magzn191026.mp3</guid>
+    </item>
     <item>
       <title>תשע _ המגזין של רדיו דרום  ~ 18.10.2026</title>
       <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/magz181026.mp3</link>
