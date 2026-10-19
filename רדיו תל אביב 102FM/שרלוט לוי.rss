@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | שרלוט לוי</title>
     <description>Programs from רדיו תל אביב 102FM, show: שרלוט לוי</description>
-    <link>https://podcast.go77.link/102fm/SHARLOT/4343-74616D6172-6ad4cd9d.mp3</link>
+    <link>https://podcast.go77.link/102fm/SHARLOT/4343-D7A9D7A8D7-6ad60915.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:59:44 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1792331168751_________________.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1792411933032_________________.jpg</url>
       <title>רדיו תל אביב 102FM | שרלוט לוי</title>
-      <link>https://podcast.go77.link/102fm/SHARLOT/4343-74616D6172-6ad4cd9d.mp3</link>
+      <link>https://podcast.go77.link/102fm/SHARLOT/4343-D7A9D7A8D7-6ad60915.mp3</link>
     </image>
+    <item>
+      <title>שרלוט לוי ~ 19-10-2026 | 14:10</title>
+      <link>https://podcast.go77.link/102fm/SHARLOT/4343-D7A9D7A8D7-6ad60915.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/SHARLOT/4343-D7A9D7A8D7-6ad60915.mp3" length="0" type="audio/mpeg" />
+      <description>שרלוט לוי ~ 19-10-2026 | 14:10</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1792411933032_________________.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">451|19|19/10/2026|https://podcast.go77.link/102fm/SHARLOT/4343-D7A9D7A8D7-6ad60915.mp3</guid>
+    </item>
     <item>
       <title>שרלוט לוי ~ 18-10-2026 | 15:44</title>
       <link>https://podcast.go77.link/102fm/SHARLOT/4343-74616D6172-6ad4cd9d.mp3</link>
