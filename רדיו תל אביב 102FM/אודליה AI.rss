@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | אודליה AI</title>
     <description>Programs from רדיו תל אביב 102FM, show: אודליה AI</description>
-    <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e706.mp3</link>
+    <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e5d5.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:25 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1791903228030_AIO_____.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1791917317554_AIO_____.jpg</url>
       <title>רדיו תל אביב 102FM | אודליה AI</title>
-      <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e706.mp3</link>
+      <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e5d5.mp3</link>
     </image>
+    <item>
+      <title>אודליה AI ~ 19-10-2026 | 12:00</title>
+      <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e5d5.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e5d5.mp3" length="0" type="audio/mpeg" />
+      <description>אודליה AI ~ 19-10-2026 | 12:00</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1791917317554_AIO_____.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">450|19|19/10/2026|https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e5d5.mp3</guid>
+    </item>
     <item>
       <title>אודליה AI ~ 18-10-2026 | 12:00</title>
       <link>https://podcast.go77.link/102fm/AIO/4343-41494F2C20-6ad0e706.mp3</link>
