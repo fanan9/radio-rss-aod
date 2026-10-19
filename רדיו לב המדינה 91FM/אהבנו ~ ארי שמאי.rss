@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | אהבנו ~ ארי שמאי</title>
     <description>Programs from רדיו לב המדינה 91FM, show: אהבנו ~ ארי שמאי</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261018140000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261019140000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 11:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:59:42 +0000</lastBuildDate>
     <image>
       <url>https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg</url>
       <title>רדיו לב המדינה 91FM | אהבנו ~ ארי שמאי</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261018140000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261019140000.mp3</link>
     </image>
+    <item>
+      <title>אהבנו ~ ארי שמאי ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261019140000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261019140000.mp3" length="0" type="audio/mpeg" />
+      <description>אהבנו ~ ארי שמאי ~ שעה 1</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">335|13|19/10/2026|https://www.oles.tv/videos/91fm/__archive/20261019140000.mp3</guid>
+    </item>
+    <item>
+      <title>אהבנו ~ ארי שמאי ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261019150000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261019150000.mp3" length="0" type="audio/mpeg" />
+      <description>אהבנו ~ ארי שמאי ~ שעה 2</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.oles.tv/stations/91fm/__programmes/59fcc579feb604c24a718e60.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">335|13|19/10/2026|https://www.oles.tv/videos/91fm/__archive/20261019150000.mp3</guid>
+    </item>
     <item>
       <title>אהבנו ~ ארי שמאי ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261018140000.mp3</link>
