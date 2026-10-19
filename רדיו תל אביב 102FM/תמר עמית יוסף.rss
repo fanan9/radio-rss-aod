@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | תמר עמית יוסף</title>
     <description>Programs from רדיו תל אביב 102FM, show: תמר עמית יוסף</description>
-    <link>https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad47d32.mp3</link>
+    <link>https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad5d2d2.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:00:25 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1792310581662___________________.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1792398037984___________________.jpg</url>
       <title>רדיו תל אביב 102FM | תמר עמית יוסף</title>
-      <link>https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad47d32.mp3</link>
+      <link>https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad5d2d2.mp3</link>
     </image>
+    <item>
+      <title>תמר עמית יוסף ~ 19-10-2026 | 10:19</title>
+      <link>https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad5d2d2.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad5d2d2.mp3" length="0" type="audio/mpeg" />
+      <description>תמר עמית יוסף ~ 19-10-2026 | 10:19</description>
+      <programDate>19/10/2026</programDate>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1792398037984___________________.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">449|19|19/10/2026|https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad5d2d2.mp3</guid>
+    </item>
     <item>
       <title>תמר עמית יוסף ~ 18-10-2026 | 09:56</title>
       <link>https://podcast.go77.link/102fm/TAMARR/4343-D7AAD79ED7-6ad47d32.mp3</link>
