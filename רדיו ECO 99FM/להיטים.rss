@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו ECO 99FM | להיטים</title>
     <description>Programs from רדיו ECO 99FM, show: להיטים</description>
-    <link>https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_419.mp3</link>
+    <link>https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_420.mp3</link>
     <language>he</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:00:14 +0000</lastBuildDate>
     <image>
-      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/eco_mtv_419b_copy_1.jpg</url>
+      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/thought-catalog-505eectW54k-unsplash_copy_1.jpg</url>
       <title>רדיו ECO 99FM | להיטים</title>
-      <link>https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_419.mp3</link>
+      <link>https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_420.mp3</link>
     </image>
+    <item>
+      <title>להיטים</title>
+      <link>https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_420.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_420.mp3" length="0" type="audio/mpeg" />
+      <description>להיטים</description>
+      <programDate>22/10/2026</programDate>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/thought-catalog-505eectW54k-unsplash_copy_1.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">345|14|22/10/2026|https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_420.mp3</guid>
+    </item>
     <item>
       <title>להיטים</title>
       <link>https://99sets.livecdn.biz/99sets/eco_mtv/eco_mtv_419.mp3</link>
