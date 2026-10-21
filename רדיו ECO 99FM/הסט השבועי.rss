@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו ECO 99FM | הסט השבועי</title>
     <description>Programs from רדיו ECO 99FM, show: הסט השבועי</description>
-    <link>https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_081026.mp3</link>
+    <link>https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_151026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:59:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:00:48 +0000</lastBuildDate>
     <image>
-      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/itay_galo_01_copy_42.jpg</url>
+      <url>https://eco99fm.maariv.co.il/download/Sets/pictures/itay_galo_02b_copy_52.jpg</url>
       <title>רדיו ECO 99FM | הסט השבועי</title>
-      <link>https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_081026.mp3</link>
+      <link>https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_151026.mp3</link>
     </image>
+    <item>
+      <title>הסט השבועי</title>
+      <link>https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_151026.mp3</link>
+      <enclosure url="https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_151026.mp3" length="0" type="audio/mpeg" />
+      <description>הסט השבועי</description>
+      <programDate>15/10/2026</programDate>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://eco99fm.maariv.co.il/download/Sets/pictures/itay_galo_02b_copy_52.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">349|14|15/10/2026|https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_151026.mp3</guid>
+    </item>
     <item>
       <title>הסט השבועי</title>
       <link>https://99sets.livecdn.biz/99sets/itay_galo/itay_galo_081026.mp3</link>
