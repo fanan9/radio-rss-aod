@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו ECO 99FM | בוקר חדש</title>
     <description>Programs from רדיו ECO 99FM, show: בוקר חדש</description>
-    <link>https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_211026.mp3</link>
+    <link>https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_221026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:00:13 +0000</lastBuildDate>
     <image>
-      <url>https://eco99fm.maariv.co.il/download/media/boker_hadsh_07_copy_50.png</url>
+      <url>https://eco99fm.maariv.co.il/download/media/boker_hadsh_02_copy_50.png</url>
       <title>רדיו ECO 99FM | בוקר חדש</title>
-      <link>https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_211026.mp3</link>
+      <link>https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_221026.mp3</link>
     </image>
+    <item>
+      <title>בוקר חדש</title>
+      <link>https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_221026.mp3</link>
+      <enclosure url="https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_221026.mp3" length="0" type="audio/mpeg" />
+      <description>בוקר חדש</description>
+      <programDate>22/10/2026</programDate>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://eco99fm.maariv.co.il/download/media/boker_hadsh_02_copy_50.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">344|14|22/10/2026|https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_221026.mp3</guid>
+    </item>
     <item>
       <title>בוקר חדש</title>
       <link>https://a99.mediacast.co.il/99fm/mediafiles/new_boker_full_music_211026.mp3</link>
