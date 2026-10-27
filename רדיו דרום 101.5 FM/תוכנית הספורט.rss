@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו דרום | תוכנית הספורט</title>
     <description>Programs from רדיו דרום, show: תוכנית הספורט</description>
-    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/spiort251026.mp3</link>
+    <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/sport261026.mp3</link>
     <language>he</language>
-    <lastBuildDate>Tue, 27 Oct 2026 03:00:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:59:30 +0000</lastBuildDate>
     <image>
       <url>https://radiodarom.co.il/Upload/Media/Images/4e4192ba-ff70-4272-93a5-52795946fe59.jpg</url>
       <title>רדיו דרום | תוכנית הספורט</title>
-      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/spiort251026.mp3</link>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/sport261026.mp3</link>
     </image>
+    <item>
+      <title>תוכנית הספורט ~ 26.10.2026</title>
+      <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/sport261026.mp3</link>
+      <enclosure url="https://darom97-od.streamgates.net/Darom97_OD/Audio/sport261026.mp3" length="0" type="audio/mpeg" />
+      <description>תוכנית הספורט ~ 26.10.2026</description>
+      <programDate>26/10/2026</programDate>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://radiodarom.co.il/Upload/Media/Images/4e4192ba-ff70-4272-93a5-52795946fe59.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">443|18|26/10/2026|https://darom97-od.streamgates.net/Darom97_OD/Audio/sport261026.mp3</guid>
+    </item>
     <item>
       <title>תוכנית הספורט ~ 25.10.2026</title>
       <link>https://darom97-od.streamgates.net/Darom97_OD/Audio/spiort251026.mp3</link>
