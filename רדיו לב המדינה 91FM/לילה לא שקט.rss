@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | לילה לא שקט</title>
     <description>Programs from רדיו לב המדינה 91FM, show: לילה לא שקט</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261022220000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261029220000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:59:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:59:36 +0000</lastBuildDate>
     <image>
       <url>https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg</url>
       <title>רדיו לב המדינה 91FM | לילה לא שקט</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261022220000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261029220000.mp3</link>
     </image>
+    <item>
+      <title>לילה לא שקט ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261029220000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261029220000.mp3" length="0" type="audio/mpeg" />
+      <description>לילה לא שקט ~ שעה 1</description>
+      <programDate>29/10/2026</programDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">339|13|29/10/2026|https://www.oles.tv/videos/91fm/__archive/20261029220000.mp3</guid>
+    </item>
+    <item>
+      <title>לילה לא שקט ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261029230000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261029230000.mp3" length="0" type="audio/mpeg" />
+      <description>לילה לא שקט ~ שעה 2</description>
+      <programDate>29/10/2026</programDate>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55033479118_f511214c7d_w.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">339|13|29/10/2026|https://www.oles.tv/videos/91fm/__archive/20261029230000.mp3</guid>
+    </item>
     <item>
       <title>לילה לא שקט ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261022220000.mp3</link>
