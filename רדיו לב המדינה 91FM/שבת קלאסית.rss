@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | שבת קלאסית</title>
     <description>Programs from רדיו לב המדינה 91FM, show: שבת קלאסית</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261023160000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261030160000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Fri, 30 Oct 2026 12:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 17:01:01 +0000</lastBuildDate>
     <image>
       <url>https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg</url>
       <title>רדיו לב המדינה 91FM | שבת קלאסית</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261023160000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261030160000.mp3</link>
     </image>
+    <item>
+      <title>שבת קלאסית ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261030160000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261030160000.mp3" length="0" type="audio/mpeg" />
+      <description>שבת קלאסית ~ שעה 1</description>
+      <programDate>30/10/2026</programDate>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">328|13|30/10/2026|https://www.oles.tv/videos/91fm/__archive/20261030160000.mp3</guid>
+    </item>
+    <item>
+      <title>שבת קלאסית ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261030170000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261030170000.mp3" length="0" type="audio/mpeg" />
+      <description>שבת קלאסית ~ שעה 2</description>
+      <programDate>30/10/2026</programDate>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://live.staticflickr.com/65535/55033303591_95374341ff_n.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">328|13|30/10/2026|https://www.oles.tv/videos/91fm/__archive/20261030170000.mp3</guid>
+    </item>
     <item>
       <title>שבת קלאסית ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261023160000.mp3</link>
