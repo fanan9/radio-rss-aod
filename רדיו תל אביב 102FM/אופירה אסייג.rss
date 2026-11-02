@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | אופירה אסייג</title>
     <description>Programs from רדיו תל אביב 102FM, show: אופירה אסייג</description>
-    <link>https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae6fe9e.mp3</link>
+    <link>https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae705c7.mp3</link>
     <language>he</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 20:59:29 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1793523362664____________.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1793525194948____________.jpg</url>
       <title>רדיו תל אביב 102FM | אופירה אסייג</title>
-      <link>https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae6fe9e.mp3</link>
+      <link>https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae705c7.mp3</link>
     </image>
+    <item>
+      <title>אופירה אסייג ~ 02-11-2026 | 20:00</title>
+      <link>https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae705c7.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae705c7.mp3" length="0" type="audio/mpeg" />
+      <description>אופירה אסייג ~ 02-11-2026 | 20:00</description>
+      <programDate>02/11/2026</programDate>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1793525194948____________.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">454|19|02/11/2026|https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae705c7.mp3</guid>
+    </item>
     <item>
       <title>אופירה אסייג ~ 01-11-2026 | 20:00</title>
       <link>https://podcast.go77.link/102fm/OFIRAAS/4343-D790D795D7-6ae6fe9e.mp3</link>
