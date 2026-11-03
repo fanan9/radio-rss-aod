@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | דליק ווליניץ</title>
     <description>Programs from רדיו תל אביב 102FM, show: דליק ווליניץ</description>
-    <link>https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae8271d.mp3</link>
+    <link>https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae9744b.mp3</link>
     <language>he</language>
-    <lastBuildDate>Tue, 03 Nov 2026 02:59:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:00:14 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1793599018503__________.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1793684557937__________.jpg</url>
       <title>רדיו תל אביב 102FM | דליק ווליניץ</title>
-      <link>https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae8271d.mp3</link>
+      <link>https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae9744b.mp3</link>
     </image>
+    <item>
+      <title>דליק ווליניץ ~ 03-11-2026 | 07:44</title>
+      <link>https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae9744b.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae9744b.mp3" length="0" type="audio/mpeg" />
+      <description>דליק ווליניץ ~ 03-11-2026 | 07:44</description>
+      <programDate>03/11/2026</programDate>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1793684557937__________.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">453|19|03/11/2026|https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae9744b.mp3</guid>
+    </item>
     <item>
       <title>דליק ווליניץ ~ 02-11-2026 | 05:58</title>
       <link>https://podcast.go77.link/102fm/DALIK/4343-D793D79CD7-6ae8271d.mp3</link>
