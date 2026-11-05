@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו רדיוס 100FM | מחפשים אהבה</title>
     <description>Programs from רדיו רדיוס 100FM, show: מחפשים אהבה</description>
-    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/LOVE-13.6.26.mp3</link>
+    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/IRIS-20.6.26.mp3</link>
     <language>he</language>
-    <lastBuildDate>Thu, 05 Nov 2026 12:00:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:03:43 +0000</lastBuildDate>
     <image>
       <url>https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png</url>
       <title>רדיו רדיוס 100FM | מחפשים אהבה</title>
-      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/LOVE-13.6.26.mp3</link>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/IRIS-20.6.26.mp3</link>
     </image>
+    <item>
+      <title>מחפשים אהבה  20.06.26</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/IRIS-20.6.26.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/IRIS-20.6.26.mp3" length="0" type="audio/mpeg" />
+      <description>מחפשים אהבה  20.06.26</description>
+      <programDate>20/06/2026</programDate>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/images/sqaure_whtsp.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">430|16|20/06/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/IRIS-20.6.26.mp3</guid>
+    </item>
     <item>
       <title>מחפשים אהבה  13.06.26</title>
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/06/LOVE-13.6.26.mp3</link>
