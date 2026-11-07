@@ -5,7 +5,7 @@
     <description>Programs from רדיו רדיוס 100FM, show: חותמים שבוע</description>
     <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/3.-BOAZ-GANOR.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:03:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 23:04:43 +0000</lastBuildDate>
     <image>
       <url>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/בועז-גנור.jpg</url>
       <title>רדיו רדיוס 100FM | חותמים שבוע</title>
@@ -30,6 +30,26 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/איתן-גלבוע-גרפיקה.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">425|16|06/11/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/2.-EITAN.mp3</guid>
+    </item>
+    <item>
+      <title>ראיון עם נעם סמל</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/4.-NOAM-SEMEL.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/4.-NOAM-SEMEL.mp3" length="0" type="audio/mpeg" />
+      <description>ראיון עם נעם סמל</description>
+      <programDate>06/11/2026</programDate>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/נעם-סמל-אוגוסט-26.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">425|16|06/11/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/4.-NOAM-SEMEL.mp3</guid>
+    </item>
+    <item>
+      <title>ראיון עם דר חמי לייבוביץ</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/1.-HEMI.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/1.-HEMI.mp3" length="0" type="audio/mpeg" />
+      <description>ראיון עם דר חמי לייבוביץ</description>
+      <programDate>06/11/2026</programDate>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/חמי-לייבוביץ-גרפיקה.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">425|16|06/11/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/1.-HEMI.mp3</guid>
     </item>
     <item>
       <title>ראיון עם נילי ארד</title>
