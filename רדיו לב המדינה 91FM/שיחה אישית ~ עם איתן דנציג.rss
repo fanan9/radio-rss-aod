@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו לב המדינה 91FM | שיחה אישית ~ עם איתן דנציג</title>
     <description>Programs from רדיו לב המדינה 91FM, show: שיחה אישית ~ עם איתן דנציג</description>
-    <link>https://www.oles.tv/videos/91fm/__archive/20261031210000.mp3</link>
+    <link>https://www.oles.tv/videos/91fm/__archive/20261107210000.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:02:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:03:36 +0000</lastBuildDate>
     <image>
       <url>https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png</url>
       <title>רדיו לב המדינה 91FM | שיחה אישית ~ עם איתן דנציג</title>
-      <link>https://www.oles.tv/videos/91fm/__archive/20261031210000.mp3</link>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261107210000.mp3</link>
     </image>
+    <item>
+      <title>שיחה אישית ~ עם איתן דנציג ~ שעה 1</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261107210000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261107210000.mp3" length="0" type="audio/mpeg" />
+      <description>שיחה אישית ~ עם איתן דנציג ~ שעה 1</description>
+      <programDate>07/11/2026</programDate>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">343|13|07/11/2026|https://www.oles.tv/videos/91fm/__archive/20261107210000.mp3</guid>
+    </item>
+    <item>
+      <title>שיחה אישית ~ עם איתן דנציג ~ שעה 2</title>
+      <link>https://www.oles.tv/videos/91fm/__archive/20261107220000.mp3</link>
+      <enclosure url="https://www.oles.tv/videos/91fm/__archive/20261107220000.mp3" length="0" type="audio/mpeg" />
+      <description>שיחה אישית ~ עם איתן דנציג ~ שעה 2</description>
+      <programDate>07/11/2026</programDate>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d2ekbnp2jux1i2.cloudfront.net/wp-content/uploads/2017/11/eitan_clean.png" length="0" type="image/jpg" />
+      <guid isPermaLink="false">343|13|07/11/2026|https://www.oles.tv/videos/91fm/__archive/20261107220000.mp3</guid>
+    </item>
     <item>
       <title>שיחה אישית ~ עם איתן דנציג ~ שעה 1</title>
       <link>https://www.oles.tv/videos/91fm/__archive/20261031210000.mp3</link>
