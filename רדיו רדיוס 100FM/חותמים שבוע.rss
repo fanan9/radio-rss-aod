@@ -3,14 +3,34 @@
   <channel>
     <title>רדיו רדיוס 100FM | חותמים שבוע</title>
     <description>Programs from רדיו רדיוס 100FM, show: חותמים שבוע</description>
-    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/nili.mp3</link>
+    <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/3.-BOAZ-GANOR.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sat, 07 Nov 2026 17:02:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:03:38 +0000</lastBuildDate>
     <image>
-      <url>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/נילי-ארד-גרפיקה-1.jpg</url>
+      <url>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/בועז-גנור.jpg</url>
       <title>רדיו רדיוס 100FM | חותמים שבוע</title>
-      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/nili.mp3</link>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/3.-BOAZ-GANOR.mp3</link>
     </image>
+    <item>
+      <title>ראיון עם פרופ בועז גנור</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/3.-BOAZ-GANOR.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/3.-BOAZ-GANOR.mp3" length="0" type="audio/mpeg" />
+      <description>ראיון עם פרופ בועז גנור</description>
+      <programDate>06/11/2026</programDate>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/בועז-גנור.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">425|16|06/11/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/3.-BOAZ-GANOR.mp3</guid>
+    </item>
+    <item>
+      <title>ראיון עם פרופ׳ איתן גלבוע</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/2.-EITAN.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/2.-EITAN.mp3" length="0" type="audio/mpeg" />
+      <description>ראיון עם פרופ׳ איתן גלבוע</description>
+      <programDate>06/11/2026</programDate>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/איתן-גלבוע-גרפיקה.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">425|16|06/11/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/11/2.-EITAN.mp3</guid>
+    </item>
     <item>
       <title>ראיון עם נילי ארד</title>
       <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/nili.mp3</link>
@@ -60,6 +80,16 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/קרן-צרפתי-גרפיקה.jpg" length="0" type="image/jpg" />
       <guid isPermaLink="false">425|16|30/10/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/keren.mp3</guid>
+    </item>
+    <item>
+      <title>ראיון עם אהד זימרן</title>
+      <link>https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/ohad.mp3</link>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/ohad.mp3" length="0" type="audio/mpeg" />
+      <description>ראיון עם אהד זימרן</description>
+      <programDate>30/10/2026</programDate>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/אוהד-זימרן-גרפיקה.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">425|16|30/10/2026|https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2026/10/ohad.mp3</guid>
     </item>
     <item>
       <title>ראיון עם מאסטרו דן אטינגר</title>
