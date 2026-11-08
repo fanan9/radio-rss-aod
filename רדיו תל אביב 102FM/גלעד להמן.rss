@@ -3,14 +3,24 @@
   <channel>
     <title>רדיו תל אביב 102FM | גלעד להמן</title>
     <description>Programs from רדיו תל אביב 102FM, show: גלעד להמן</description>
-    <link>https://podcast.go77.link/102fm/GILADLEMAN/4343-67-6ae9fc2f.mp3</link>
+    <link>https://podcast.go77.link/102fm/GILADLEMAN/4343-D792D79CD7-6af06922.mp3</link>
     <language>he</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:01:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:00:45 +0000</lastBuildDate>
     <image>
-      <url>https://fm102-recordings.s3.amazonaws.com/images/1793719346646_______________.jpg</url>
+      <url>https://fm102-recordings.s3.amazonaws.com/images/1794140453337_______________.jpg</url>
       <title>רדיו תל אביב 102FM | גלעד להמן</title>
-      <link>https://podcast.go77.link/102fm/GILADLEMAN/4343-67-6ae9fc2f.mp3</link>
+      <link>https://podcast.go77.link/102fm/GILADLEMAN/4343-D792D79CD7-6af06922.mp3</link>
     </image>
+    <item>
+      <title>גלעד להמן ~ 08-11-2026 | 14:22</title>
+      <link>https://podcast.go77.link/102fm/GILADLEMAN/4343-D792D79CD7-6af06922.mp3</link>
+      <enclosure url="https://podcast.go77.link/102fm/GILADLEMAN/4343-D792D79CD7-6af06922.mp3" length="0" type="audio/mpeg" />
+      <description>גלעד להמן ~ 08-11-2026 | 14:22</description>
+      <programDate>08/11/2026</programDate>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://fm102-recordings.s3.amazonaws.com/images/1794140453337_______________.jpg" length="0" type="image/jpg" />
+      <guid isPermaLink="false">452|19|08/11/2026|https://podcast.go77.link/102fm/GILADLEMAN/4343-D792D79CD7-6af06922.mp3</guid>
+    </item>
     <item>
       <title>גלעד להמן ~ 03-11-2026 | 17:20</title>
       <link>https://podcast.go77.link/102fm/GILADLEMAN/4343-67-6ae9fc2f.mp3</link>
